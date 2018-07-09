@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Notes
+  Depleted uranium : 劣化ウラン　劣化ウラン
+  overheat: 過熱
+-->
+  <!--ALERTS-->
+  <AlertNeedsTurbine>炉心はタービンが必要</AlertNeedsTurbine>
+  <AlertNeedsTurbineDesc>炉心はタービンに繋げる必要があります。炉心を個別に起動すると過熱や溶融が発生する場合があります。</AlertNeedsTurbineDesc>
+  <AlertNeedsCooling>タービンは冷却が必要</AlertNeedsCooling>
+  <AlertNeedsCoolingDesc></AlertNeedsCoolingDesc>
+  <AlertCoreMelt>炉心溶融</AlertCoreMelt>
+  <AlertCoreMeltDesc>炉心溶融事故が進行中。ただちに避難行動をとって下さい</AlertCoreMeltDesc>
+  <AlertCoreOverheat>炉心過熱</AlertCoreOverheat>
+  <AlertCoreOverheatDesc>炉心は過熱によるダメージを受けています。</AlertCoreOverheatDesc>
+  <AlertCracked>炉心亀裂</AlertCracked>
+  <AlertCrackedDesc>長く続いた高温運転は炉心に亀裂を発生させ、致命的な放射線を発するようになりました。炉心をすぐに再建築しなければ、エネルギー生成は低下し、燃料にダメージを与えてしまいます。</AlertCrackedDesc>
+
+  <CRACKEDFUEL>    ::燃料破損::</CRACKEDFUEL>
+  <NOCOOLING>    ::冷却が必要::</NOCOOLING>
+  <OVERHEATING>    ::過熱中:: {0}</OVERHEATING>
+  <COREMELT>    ::炉心溶融::</COREMELT>
+  <EVACUATE>    ::避難::</EVACUATE>
+  <CONTROLRODJAM>    ::制御棒故障::</CONTROLRODJAM>
+  <ReactorAlerts>炉心忠告:</ReactorAlerts>
+  <RADIATIONLEAK>    ::放射漏れ::</RADIATIONLEAK>
+  <RADIATIONLEAKSYSTEM>    ::放射能を探知::</RADIATIONLEAKSYSTEM><!-- improve this -->
+
+  <!--CONSOLE-->
+  <MOX>MOX</MOX>
+  <Used>使用済み</Used>
+  <AbortTest>中止</AbortTest>
+  <reactorSCRAM>スクラム</reactorSCRAM>
+  <reactorSTART>起動</reactorSTART>
+  <BreederTest>増殖炉テスト</BreederTest>
+  <InstallAll>すべてを導入</InstallAll>
+  <ShutdownCold>冷温停止</ShutdownCold>
+  <StartingUp>起動中</StartingUp>
+  <ShuttingDown>停止中</ShuttingDown>
+  <Active>稼働中</Active>
+  <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}\n放射: {5}\n\n{6}</ReactorBreakdown>
+  <SlotBreakdown>CHK最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
+  <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
+  <cycleScreens>全体監視</cycleScreens>
+  <AutoScram>自動スクラム</AutoScram>
+  <AutoScramDesc>危険な温度や太陽フレアが探知された際に自動緊急停止する</AutoScramDesc>
+  <FlareSCRAMletterText>太阳耀斑使得反应堆自动关闭</FlareSCRAMletterText>
+  <SCRAMletterText>堆心温度超过警戒线使得反应堆自动关闭</SCRAMletterText>
+  <CantUseReactorConsole>知力8が必要</CantUseReactorConsole><!-- improve this -->
+
+  <!--PROCESSING-->
+  <ProcessingProgress>進捗: {0} {1}</ProcessingProgress>
+  <ContainsFuel>内容物 {0} / {1} 燃料棒</ContainsFuel><!-- improve this -->
+  <ContainsChemfuel>内容物 {0} / {1} バイオ液化燃料</ContainsChemfuel><!-- improve this -->
+  <critSpentfuelonly>使用済み核燃料</critSpentfuelonly>
+  <critAnyfuel>いかなる核燃料</critAnyfuel>
+  <critProg>進捗: {0}</critProg>
+  <critRemovePlutonium>処理完了　物質を取り出してください</critRemovePlutonium>
+  <critEnouPU>再処理可能</critEnouPU>
+  <NoChemfuel>バイオ液化燃料が必要</NoChemfuel>
+
+  <!--ENERGY WEAPONS-->
+  <energyWepLoadedShell>装填中: {0}</energyWepLoadedShell>
+  <RailgunBarrage>射撃任務</RailgunBarrage>
+  <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
+  <needsRadar>TASレーダーが必要</needsRadar>
+  <ICBMNeedMissile>発射させるミサイルがない</ICBMNeedMissile>
+  <ICBMAlreadyLaunching>すでに発射中</ICBMAlreadyLaunching>
+  <MissileRangeBad>目標が射程外</MissileRangeBad>
+  <MissileTargetInvalid>無効なミサイル目標</MissileTargetInvalid>
+  <ICBMNeedConsole>有人の武器管制システムが必要</ICBMNeedConsole>
+  <critrangeMinus>射距離－</critrangeMinus>
+  <critrangePlus>射距離＋</critrangePlus>
+  <critCommandLowerRangeDesc>射距離と電気パルスを縮小する</critCommandLowerRangeDesc>
+  <critCommandRaiseRangeDesc>射距離と電気パルスを拡大する</critCommandRaiseRangeDesc>
+  <critdmgMinus>火力－</critdmgMinus>
+  <critdmgPlus>火力＋</critdmgPlus>
+  <critCommandLowerDmgDesc>兵器の出力を下げ、電気パルスを縮小する</critCommandLowerDmgDesc>
+  <critCommandRaiseDmgDesc>兵器の出力を上げ、電気パルスを拡大する</critCommandRaiseDmgDesc>
+  <critMissingPPC>PPC電池が必要</critMissingPPC>
+  <critNRGWEPPOOWA>パワー: {0} / 射距離: {1}－{2}</critNRGWEPPOOWA><!-- Improve this -->
+  <LastPulseSize>前の電気パルス: {0} Wd</LastPulseSize>
+  <critCommandFireMission>個別射撃任務</critCommandFireMission>
+  <critCommandFireMissionDesc>遠距離砲撃を開始する</critCommandFireMissionDesc>
+  <critCommandLaunchICBM>ミサイル発射</critCommandLaunchICBM>
+  <critCommandLaunchICBMDesc>ワールドマップで目標を設定し、ミサイルを発射させる</critCommandLaunchICBMDesc>
+  <criticbmAttack>敵の派閥である{0}は近くのコロニーからミサイル攻撃の準備を始めました。発射まで後{1}日間です。</criticbmAttack>
+  <critMagazine>マガジン: {0}</critMagazine>
+  <critNoSabotRounds>サボット弾がありません</critNoSabotRounds>
+  <critBombDet>爆弾は起爆しました</critBombDet>
+  <critBombDetFac>{0} は爆弾に破壊されました</critBombDetFac>
+  <SetCamoMode>迷彩柄の設定</SetCamoMode>
+  <critCountdown>カウントダウン: {0}</critCountdown>
+  <mp15>15m</mp15>
+  <mm15>15m</mm15>
+  <critArm>作動可能にする</critArm>
+  <MessageRailgunNeedsMap>マップ情報がありません。先に入植者を送り、偵察を行ってください</MessageRailgunNeedsMap>
+  <MessageRailgunTargetInvalid>無効な目標</MessageRailgunTargetInvalid>
+  <NextPart></NextPart>
+  <SiloFull>サイロはすでにいっぱい</SiloFull>
+  <SiloMagazine>{0}/{1}</SiloMagazine>
+  <ICBMReady>ミサイル発射準備完了</ICBMReady>
+  
+  <!--REACTOR BUILDINGS-->
+  <Managefuel>管理</Managefuel>
+  <RoofedTower>冷却塔</RoofedTower><!-- fix this -->
+  <TurbineRPM>毎分{0}回転 ({1})</TurbineRPM>
+  <TradeShipWait>後{0}でリムアトミクス貿易船の準備が完了します</TradeShipWait>
+  <critsetid>IDを設定</critsetid>
+  <critCoolingCapShare>冷却能力の共有: {1}台のタービンで{0}</critCoolingCapShare><!-- check this -->
+
+  <crackedRemoveNow>\n️️️⚠️燃料破損⚠️ ただちに取り除くように</crackedRemoveNow><!-- check this -->
+  <critCoreTemp>炉心温度: {0}C</critCoreTemp>
+  <critCoreEnergy>電力: {0}kW</critCoreEnergy>
+  <critCoreCooling>冷却: {0}</critCoreCooling>
+  <critCoreFlux>中性子束: {0}</critCoreFlux>
+  <critscramDesc>炉心を稼働停止せずに温度と中性子とを基礎値まで戻す</critscramDesc>
+  <critStartup>起動</critStartup>
+  <critShutdown>停止</critShutdown>
+  <critStartupDesc>炉心の稼働開始 中性子束を上げられる状態にする</critStartupDesc>
+  <critShutdownDesc>炉心の稼働停止 燃料補給や修理できる状態にする</critShutdownDesc>
+  <critManageReactor>原子炉を管理</critManageReactor>
+  <critreactorcritical>臨界事故発生中</critreactorcritical>
+  <critreactorleaking>放射漏れ発生中</critreactorleaking>
+  <critreactionstable>安定稼働</critreactionstable>
+  <critStorageCapacity>: {0} / {1}</critStorageCapacity>
+  <critGenerated>: {0} W</critGenerated>
+  <critConsumed>: {0} W</critConsumed>
+  <critPnetPct>: {0}</critPnetPct>
+  <critPowerGeneration>: {0} W</critPowerGeneration>
+  <critValveOpen>バルブ: オープン</critValveOpen>
+  <critValveClosed>バルブ: クローズ</critValveClosed>
+  <critOpenValve>バルブを開く</critOpenValve>
+  <critCloseValve>バルブを閉じる</critCloseValve>
+  <critToggleValve>バルブの操作</critToggleValve>
+  <critTempBoost>温度ブースト</critTempBoost>
+  <critTemp>温度</critTemp>
+  <critCooling>冷却</critCooling>
+  <critTurbine>タービン</critTurbine>
+  <critCoreIntegrity>炉心保全性</critCoreIntegrity>
+  <critNeutronFlux>中性子束</critNeutronFlux>
+  <critTargetFlux>目標中性子束</critTargetFlux>
+  <critFuelRemaining2>残っている燃料: {0}</critFuelRemaining2>
+  <Empty>空</Empty>
+  <Activated>作動中</Activated>
+  <Cracked>破損</Cracked>
+  <Spent>使用済み</Spent>
+  <New>新しい</New>
+  <Remove>出す</Remove>
+  <Store>保管</Store>
+
+
+
+  <critPlaceOnCore>同一サイズの溶融炉心の上に建てる必要があります</critPlaceOnCore>
+  <NeedsRiver>川、湖、または海に隣接する場所で建てる必要があります</NeedsRiver>
+  <critMoreWater>水域が小さすぎます</critMoreWater>
+  <critActiveCore>炉心はまだ稼働中</critActiveCore>
+  <critCrackedcore>炉心は亀裂しています</critCrackedcore>
+  <critNoSlotDes>指定スロットがありません</critNoSlotDes>
+  <critnoFuelRods>燃料がありません</critnoFuelRods>
+  <critNoSpace>余地がない</critNoSpace>
+  <critSpentOnly>現在の設定では使用済み燃料しか受けません</critSpentOnly>
+  <critNoPool>使える貯蔵プールがありません</critNoPool>
+
+  <critCoreIntegrityDesc>炉心の保全性があまりにも低くて、亀裂が発生しかねません。</critCoreIntegrityDesc>
+
+
+  <TradeShipPrice>貿易船を呼ぶ (経費: {0}シルバー)</TradeShipPrice>
+  <TradeShipPriceNeed>貿易船を派遣してもらうには{0}シルバーが必要</TradeShipPriceNeed>
+
+  <TradeShipReq>リムアトミクス社の貿易船がお客様のいる惑星に派遣されました。\n\n後二日で到着します。</TradeShipReq>
+
+  <LowerPowerLimit>電力上限を 下げる</LowerPowerLimit>
+  <RaisePowerLimit>電力上限を 上げる</RaisePowerLimit>
+  <PowerLimitDesc>変圧器の電力上限を変更し、電気網に供給される電力を量を変える。 Shiftを押せばより精密に変更できる</PowerLimitDesc>
+  <TrannyLimit>: {0}kW</TrannyLimit>
+  <TurbinePower>: {0}kW</TurbinePower>
+
+  <!--WEAPONS CONSOLE-->
+  <TestFireHELSOnOwnShells>実験として自分の砲弾も撃ち落とす</TestFireHELSOnOwnShells>
+  <OpenRadar>目標捕捉システムの監視画面を開く</OpenRadar>
+
+  <!--RESEARCH-->
+  <Free>無料</Free>
+  <Purchase>購入</Purchase>
+  <Price>価格</Price>
+  <Unlocks>解除</Unlocks>
+  <openResearchPanel>研究一覧を開く</openResearchPanel>
+  <ResearchProg>{0}/{1}</ResearchProg>
+  <ResearchPriceNeed>貿易ビーコンの近くに{0}シルバーを用意する必要があります</ResearchPriceNeed>
+  <RimUnlocked>探査機を探知しました。</RimUnlocked>
+  <RimatomicsResearchAlert>リムアトミクス研究</RimatomicsResearchAlert>
+  <RimatomicResearchAlertMess>プロジェクト: {0}\n段階: {1}\nタスク: {2}</RimatomicResearchAlertMess>
+  <thingsUnlocked>解除 - </thingsUnlocked>
+  <RimatomStepComplete>段階完了</RimatomStepComplete>
+  <RequiresFac> 必須: </RequiresFac>
+  <StepInspect>段階: {0}</StepInspect>
+  <ResearchComplete>研究完了</ResearchComplete>
+  <StillTestingDef>プロトタイプをまだ試している</StillTestingDef>
+  <TabResearch>研究</TabResearch>
+  <CurProj>プロジェクト: {0}</CurProj>
+  <CurStep>段階: {0}</CurStep>
+  <SkillLevel>{0} は {1} {2} が必要</SkillLevel>
+  <StartProject>プロジェクト開始</StartProject>
+  <StopProject>プロジェクト停止</StopProject>
+
+  <DesignatorRemoveColdWater>冷水を除去</DesignatorRemoveColdWater>
+  <DesignatorRemoveColdWaterDesc>冷水パイプを除去する</DesignatorRemoveColdWaterDesc>
+
+  <DesignatorRemoveCooling>冷却を除去</DesignatorRemoveCooling>
+  <DesignatorRemoveCoolingDesc>冷却パイプを除去する</DesignatorRemoveCoolingDesc>
+
+  <DesignatorRemoveHighVoltage>高電圧線を除去</DesignatorRemoveHighVoltage>
+  <DesignatorRemoveHighVoltageDesc>高電圧線を除去する</DesignatorRemoveHighVoltageDesc>
+
+  <DesignatorRemoveLoom>ケーブルを除去</DesignatorRemoveLoom>
+  <DesignatorRemoveLoomDesc>パラレルケーブルを除去する</DesignatorRemoveLoomDesc>
+
+  <DesignatorRemoveSteam>蒸気を除去</DesignatorRemoveSteam>
+  <DesignatorRemoveSteamDesc>蒸気パイプを除去する</DesignatorRemoveSteamDesc>
+
+  <coreUpgradeFail>アップグレードする前に炉心を稼働停止する必要があります</coreUpgradeFail>
+  <powerUpgradeFail>アップグレードする前に装置の電気を切る必要があります</powerUpgradeFail>
+
+  <RimatomicResearchCompleteDialog>{0} - 完了\n\n{1}</RimatomicResearchCompleteDialog>
+
+  <TradeShipCooldown>貿易船クールダウン: {0}</TradeShipCooldown>
+  <TradeShipArrival>貿易船の到着: {0}</TradeShipArrival>
+  <rimatomicsProto> プロトタイプ</rimatomicsProto>
+
+</LanguageData>

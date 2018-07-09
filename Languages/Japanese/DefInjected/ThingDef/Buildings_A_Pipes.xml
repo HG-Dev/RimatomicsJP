@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HighVoltage.label>高電圧線</HighVoltage.label>
+  <HighVoltage.description>タービンから変圧器に高圧の電気を送るケーブル。壁やその他の建造物の下に作れる</HighVoltage.description>
+  <!--
+  <HighVoltage_Blueprint.label></HighVoltage_Blueprint.label>
+  <HighVoltage_Frame.label></HighVoltage_Frame.label>
+  <HighVoltage_Frame.description></HighVoltage_Frame.description>
+  -->
+
+  <controllerLoom.label>パラレルケーブル</controllerLoom.label>
+  <controllerLoom.description>制御端末と炉心を繋げ、情報を発信するケーブル。壁やその他の建造物の下に作れる</controllerLoom.description>
+  <!--
+  <controllerLoom_Blueprint.label></controllerLoom_Blueprint.label>
+  <controllerLoom_Frame.label></controllerLoom_Frame.label>
+  <controllerLoom_Frame.description></controllerLoom_Frame.description>
+    -->
+
+  <coolingPipe.label>冷却剤パイプ</coolingPipe.label>
+  <coolingPipe.description>冷却装置からタービンに冷却剤を送るパイプ。壁やその他の建造物の下に作れる</coolingPipe.description>
+  <!--
+  <coolingPipe_Blueprint.label></coolingPipe_Blueprint.label>
+  <coolingPipe_Frame.label></coolingPipe_Frame.label>
+  <coolingPipe_Frame.description></coolingPipe_Frame.description>
+      -->
+
+  <coolantValve.label>冷却剤バルブ</coolantValve.label>
+  <coolantValve.description>冷却剤の流れを止められるバルブ。</coolantValve.description>
+  <!--
+  <coolantValve_Blueprint.label></coolantValve_Blueprint.label>
+  <coolantValve_Frame.label></coolantValve_Frame.label>
+  <coolantValve_Frame.description></coolantValve_Frame.description>
+      -->
+
+  <steamPipe.label>蒸気パイプ</steamPipe.label>
+  <steamPipe.description>炉心からタービンに蒸気を送るパイプ。壁やその他の建造物の下に作れる</steamPipe.description>
+  <!--
+  <steamPipe_Blueprint.label></steamPipe_Blueprint.label>
+  <steamPipe_Frame.label></steamPipe_Frame.label>
+  <steamPipe_Frame.description></steamPipe_Frame.description>
+      -->
+
+  <steamValve.label>蒸気バルブ</steamValve.label>
+  <steamValve.description>蒸気の流れを止められるバルブ。</steamValve.description>
+  <!--
+  <steamValve_Blueprint.label></steamValve_Blueprint.label>
+  <steamValve_Frame.label></steamValve_Frame.label>
+  <steamValve_Frame.description></steamValve_Frame.description>
+      -->
+
+  <waterPipe.label>冷水パイプ</waterPipe.label>
+  <waterPipe.description>タービンや熱交換器で水に戻った蒸気を炉心に送るパイプ。壁やその他の建造物の下に作れる</waterPipe.description>
+  <!--
+  <waterPipe_Blueprint.label></waterPipe_Blueprint.label>
+  <waterPipe_Frame.label></waterPipe_Frame.label>
+  <waterPipe_Frame.description></waterPipe_Frame.description>
+      -->
+
+  <waterValve.label>冷水バルブ</waterValve.label>
+  <waterValve.description>冷水の流れを止められるバルブ。</waterValve.description>
+  <!--
+  <waterValve_Blueprint.label></waterValve_Blueprint.label>
+  <waterValve_Frame.label></waterValve_Frame.label>
+  <waterValve_Frame.description></waterValve_Frame.description>
+      -->
+
+
+</LanguageData>

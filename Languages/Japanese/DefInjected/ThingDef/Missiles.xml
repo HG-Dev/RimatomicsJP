@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RocketEngine.label>ロケットエンジン</RocketEngine.label>
+  <RocketEngine.description>ミサイルの組み立てに必要なエンジン</RocketEngine.description>
+
+  <MissileFuselage.label>ミサイル胴体</MissileFuselage.label>
+  <MissileFuselage.description>ロケットエンジンを搭載するミサイルのパーツ。</MissileFuselage.description>
+
+  <FissionWarhead.label>核弾頭</FissionWarhead.label>
+  <FissionWarhead.description>核分裂から恐ろしい破壊力を得る爆破装置。</FissionWarhead.description>
+
+  <ICBM_Fission.label>ミサイル</ICBM_Fission.label>
+
+
+</LanguageData>

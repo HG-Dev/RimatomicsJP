@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radiation.label>放射線感受性</Radiation.label>
+  <Radiation.description>この人の放射能蓄積に対する乗数。</Radiation.description>
+
+  <CraftingResearchSpeed.label>工芸研究速度</CraftingResearchSpeed.label>
+  <CraftingResearchSpeed.description>リムアトミクス研究台にて、この人の部品を設計できる速度。</CraftingResearchSpeed.description>
+
+  <ConstructionResearchSpeed.label>建築研究速度</ConstructionResearchSpeed.label>
+  <ConstructionResearchSpeed.description>リムアトミクス研究台にて、この人の設計図を書いたり把握したりできる速度。</ConstructionResearchSpeed.description>
+
+</LanguageData>

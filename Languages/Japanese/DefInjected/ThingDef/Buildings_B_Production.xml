@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearResearchBench.label>リムアトミクス研究端末</NuclearResearchBench.label>
+  <NuclearResearchBench.description>リムアトミクス設計の原子炉やと軍事技術の研究が行える端末。電気が必要</NuclearResearchBench.description>
+
+  <TableRimatomicsMachining.label>リムアトミクス工作機械</TableRimatomicsMachining.label>
+  <TableRimatomicsMachining.description>リムアトミクス設計の様々な装置を作るのに使うワークステーション。</TableRimatomicsMachining.description>
+
+  <ResearchReactor.label>実験炉</ResearchReactor.label>
+  <ResearchReactor.description>原子力開発に使う、安全な実験炉。</ResearchReactor.description>
+
+  <WeaponsBench.label>兵器研究台</WeaponsBench.label>
+  <WeaponsBench.description>リムアトミクス設計の兵器の研究に必要な設備。</WeaponsBench.description>
+
+  <PlutoniumProcessor.label>プルトニウム加工機</PlutoniumProcessor.label>
+  <PlutoniumProcessor.description>化学反応により使用済み核燃料から高度な燃料か核兵器に使えるプルトニウムを分離できる機械。</PlutoniumProcessor.description>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReactorComponents.label>炉心コンポーネント</ReactorComponents.label>
+  <ReactorComponents.description>炉心で使える、特別に強化と遮蔽されたコンポーネント。</ReactorComponents.description>
+
+  <turbineBlade.label>タービン翼</turbineBlade.label>
+  <turbineBlade.description>タービンを作るのに使う部品。</turbineBlade.description>
+
+  <UraniumPellets.label>ウランペレット</UraniumPellets.label>
+  <UraniumPellets.description>核燃料棒を作るのに使う、ペレットに精製されたウラン。</UraniumPellets.description>
+
+  <Plutonium.label>プルトニウム</Plutonium.label>
+  <Plutonium.description>核兵器か核燃料の作成に使える、プルトニウムの箱。</Plutonium.description>
+
+  <DepletedUraniumPellets.label>劣化ウラン</DepletedUraniumPellets.label>
+  <DepletedUraniumPellets.description>核燃料棒を作るのに使われた劣化ウランのペレット。</DepletedUraniumPellets.description>
+
+
+  <!-- Fuel Rods -->
+
+  <FuelRods.label>燃料棒</FuelRods.label>
+  <FuelRods.description>ウランペレットの燃料棒を詰まった箱。原子炉に装荷すると、タービンを回す熱の源になる。</FuelRods.description>
+
+  <FuelRodsMOX.label>MOX燃料棒</FuelRodsMOX.label>
+  <FuelRodsMOX.description>ウランとプルトニウムを混ぜた核燃料棒の箱。原子炉に装荷すると、タービンを回す熱の源になる。</FuelRodsMOX.description>
+
+
+  <!-- Nuclear Waste -->
+
+  <ChunkRadioactiveSlag.label>放射性スラグ</ChunkRadioactiveSlag.label>
+
+  <NuclearWaste.label>核廃棄物</NuclearWaste.label>
+  <NuclearWaste.description>核廃棄物の樽。</NuclearWaste.description>
+
+  <ThrownSlag.label>飛ばされたスラグ</ThrownSlag.label>
+
+
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LoadRailgunMagazine.label>サボット弾を装填</LoadRailgunMagazine.label>
+  <LoadRailgunMagazine.verb>を装填する</LoadRailgunMagazine.verb>
+  <LoadRailgunMagazine.gerund>を装填中</LoadRailgunMagazine.gerund>
+
+  <LoadSilo.label>ミサイルを格納</LoadSilo.label>
+  <LoadSilo.verb>を装填する</LoadSilo.verb>
+  <LoadSilo.gerund>を装填中</LoadSilo.gerund>
+
+  <LoadFuelModule.label>燃料を装荷</LoadFuelModule.label>
+  <LoadFuelModule.verb>で燃料装荷する</LoadFuelModule.verb>
+  <LoadFuelModule.gerund>で燃料装荷中</LoadFuelModule.gerund>
+
+  <LoadSpentFuel.label>使用済み燃料を装荷</LoadSpentFuel.label>
+  <LoadSpentFuel.verb>を装荷する</LoadSpentFuel.verb>
+  <LoadSpentFuel.gerund>を装荷中</LoadSpentFuel.gerund>
+
+  <LoadProcChemFuel.label>バイオ液化燃料を充填</LoadProcChemFuel.label>
+  <LoadProcChemFuel.verb>を充填する</LoadProcChemFuel.verb>
+  <LoadProcChemFuel.gerund>を充填中</LoadProcChemFuel.gerund>
+
+  <UnloadPlutonium.label>プルトニウムを取り出す</UnloadPlutonium.label>
+  <UnloadPlutonium.verb>を取り出す</UnloadPlutonium.verb>
+  <UnloadPlutonium.gerund>を取り出し中</UnloadPlutonium.gerund>
+
+  <RemoveFuelModule.label>燃料棒を取り出す</RemoveFuelModule.label>
+  <RemoveFuelModule.verb>を取り出す</RemoveFuelModule.verb>
+  <RemoveFuelModule.gerund>を取り出し中</RemoveFuelModule.gerund>
+
+  <UpgradeBuilding.label>装置をアップグレード</UpgradeBuilding.label>
+  <UpgradeBuilding.verb>をアップグレードする</UpgradeBuilding.verb>
+  <UpgradeBuilding.gerund>をアップグレード中</UpgradeBuilding.gerund>
+
+  <DoBillsTableNuclear.label>機械加工</DoBillsTableNuclear.label>
+  <DoBillsTableNuclear.verb>で機械加工する</DoBillsTableNuclear.verb>
+  <DoBillsTableNuclear.gerund>で機械加工中</DoBillsTableNuclear.gerund>
+
+  <RimatomicsCrafting.label>研究</RimatomicsCrafting.label>
+  <RimatomicsCrafting.verb>を研究する</RimatomicsCrafting.verb>
+  <RimatomicsCrafting.gerund>を研究中</RimatomicsCrafting.gerund>
+
+  <RimatomicsConstruction.label>研究</RimatomicsConstruction.label>
+  <RimatomicsConstruction.verb>を研究する</RimatomicsConstruction.verb>
+  <RimatomicsConstruction.gerund>を研究中</RimatomicsConstruction.gerund>
+
+  <RimatomicsResearch.label>研究</RimatomicsResearch.label>
+  <RimatomicsResearch.verb>を研究する</RimatomicsResearch.verb>
+  <RimatomicsResearch.gerund>を研究中</RimatomicsResearch.gerund>
+
+
+</LanguageData>

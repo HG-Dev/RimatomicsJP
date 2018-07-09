@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radioisotope_thermoelectric_generator.label>放射性同位元素熱電発電機</Radioisotope_thermoelectric_generator.label>
+  <Radioisotope_thermoelectric_generator.description>適正ある放射性物質の崩壊熱を熱電対の配列で電気に変える発電機。</Radioisotope_thermoelectric_generator.description>
+  <!--
+  <Radioisotope_thermoelectric_generator_Blueprint.label></Radioisotope_thermoelectric_generator_Blueprint.label>
+  <Radioisotope_thermoelectric_generator_Blueprint_Install.label></Radioisotope_thermoelectric_generator_Blueprint_Install.label>
+  <Radioisotope_thermoelectric_generator_Frame.label></Radioisotope_thermoelectric_generator_Frame.label>
+  <Radioisotope_thermoelectric_generator_Frame.description></Radioisotope_thermoelectric_generator_Frame.description>
+  -->
+
+  <ReactorCoreA.label>原子炉 (A型)</ReactorCoreA.label>
+  <ReactorCoreA.description>リムアトミクス設計の炉心で入門機。21本の燃料棒の容量を持ち、最大出力は250kw。炉心自体の役割は、制御された核分裂連鎖反応を維持し、熱を発電するタービンに提供することである。</ReactorCoreA.description>
+
+  <ReactorCoreB.label>原子炉 (X型)</ReactorCoreB.label>
+  <ReactorCoreB.description>高度な増殖炉で、消費する燃料より大きな量の核物質を作ることができる。</ReactorCoreB.description>
+
+  <ReactorCoreC.label>原子炉 (V型)</ReactorCoreC.label>
+  <ReactorCoreC.description>高度かつ巨大な増殖炉で、消費する燃料より大きな量の核物質を作ることができる。</ReactorCoreC.description>
+
+
+  <!-- COOLING -->
+
+  <CoolingRadiator.label>ラジエーター</CoolingRadiator.label>
+  <CoolingRadiator.description>原子炉をわずかに冷やしながらコロニー全体の熱源として使える装置。</CoolingRadiator.description>
+
+  <CoolingWater.label>水冷ポンプ</CoolingWater.label>
+  <CoolingWater.description>湖、川、または海の冷水を利用して抜群の冷却効果を発揮できる装置。</CoolingWater.description>
+
+  <CoolingTower.label>冷却塔</CoolingTower.label>
+  <CoolingTower.description>強制通風冷却塔は水域がなくても空気で抜群の冷却効果を発揮できる。</CoolingTower.description>
+
+
+  <!-- HEAT EXCHANGE -->
+
+  <Turbine.label>タービン (ソー級)</Turbine.label>
+  <Turbine.description>蒸気で回転し、発電する設備。ソー級の最大出力は100キロワット。</Turbine.description>
+
+  <BigTurbine.label>タービン (ゼウス級)</BigTurbine.label>
+  <BigTurbine.description>蒸気で回転し、発電する設備。ゼウス級の最大出力は1メガワット。</BigTurbine.description>
+
+
+  <!-- TRANNY -->
+
+  <Transformer.label>変圧器</Transformer.label>
+  <Transformer.description>タービン発電機の出力を一般の電気ケーブルが発信できる電圧まで下げる装置。</Transformer.description>
+
+
+  <!-- CONTROLLERS -->
+
+  <ReactorControl.label>原子炉制御卓</ReactorControl.label>
+  <ReactorControl.description>原子炉の管理のために設計されたコンピューターシステム。原子炉を管理するには、知力のある入植者を制御卓に送ってください。また、複数の管理画面を同時に開ける</ReactorControl.description>
+
+  <storagePool.label>貯蔵プール</storagePool.label>
+  <storagePool.description>放射線が漏れないよう水の中に核燃料棒を貯蔵するために設計された装置。</storagePool.description>
+
+  <RadiationDetector.label>放射線測定器</RadiationDetector.label>
+  <RadiationDetector.description>設置した場所の空間放射線量率を測定する装置。</RadiationDetector.description>
+
+
+</LanguageData>

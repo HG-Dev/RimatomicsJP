@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PotassiumIodide.label>ヨードカリ錠</PotassiumIodide.label>
+  <PotassiumIodide.description>放射性ヨウ素による甲状腺の内部被曝を予防するのに投与される薬。</PotassiumIodide.description>
+  <PotassiumIodide.ingestible.ingestCommandString>{0} を飲む</PotassiumIodide.ingestible.ingestCommandString>
+  <PotassiumIodide.ingestible.ingestReportString>{0} を飲んでいる</PotassiumIodide.ingestible.ingestReportString>
+
+
+</LanguageData>

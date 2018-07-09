@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ICBMfission.label>大陸間弾道ミサイル</ICBMfission.label>
+  <ICBMfission.description>主に核弾頭を搭載できる用に作られた、有効射程が超長距離の弾道ミサイル。</ICBMfission.description>
+
+  <Sabot.label>サボット弾</Sabot.label>
+  <Sabot.description>レールガン用のサボット弾。</Sabot.description>
+
+  <Fallout.label>死の灰</Fallout.label>
+  <Fallout.description>一般に死の灰と呼ばれている放射性降下物とは、核爆発や原子炉の溶融事故が大気に飛ばす放射性物質のことである。</Fallout.description>
+
+  <RimatomicsProbe.label>リムアトミクスの探査機</RimatomicsProbe.label>
+  <RimatomicsProbe.description>リムワールド展開用に宇宙を旅する、リムアトミクス貿易探査機。</RimatomicsProbe.description>
+
+
+</LanguageData>

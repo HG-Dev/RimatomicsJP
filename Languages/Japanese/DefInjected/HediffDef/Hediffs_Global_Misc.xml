@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RectalCoring.label>プローブの跡</RectalCoring.label>
+  <RectalCoring.stages.0.label>極度</RectalCoring.stages.0.label>
+
+  <Exsanguination.label>失血</Exsanguination.label>
+  <Exsanguination.stages.0.label>極度</Exsanguination.stages.0.label>
+
+  <FatalRad.label>深刻な被曝</FatalRad.label>
+  <FatalRad.stages.0.label>初期</FatalRad.stages.0.label>
+  <FatalRad.stages.1.label>重度</FatalRad.stages.1.label>
+  <FatalRad.stages.2.label>致命的</FatalRad.stages.2.label>
+  <FatalRad.stages.3.label>死亡</FatalRad.stages.3.label>
+
+  <RimatomicsRadiation.label>被曝</RimatomicsRadiation.label>
+  <RimatomicsRadiation.stages.0.label>症状なし</RimatomicsRadiation.stages.0.label>
+  <RimatomicsRadiation.stages.1.label>初期</RimatomicsRadiation.stages.1.label>
+  <RimatomicsRadiation.stages.2.label>軽度</RimatomicsRadiation.stages.2.label>
+  <RimatomicsRadiation.stages.3.label>中度</RimatomicsRadiation.stages.3.label>
+  <RimatomicsRadiation.stages.4.label>重度</RimatomicsRadiation.stages.4.label>
+  <RimatomicsRadiation.stages.5.label>極度</RimatomicsRadiation.stages.5.label>
+
+  <RadiationIncurable.label>放射能集積</RadiationIncurable.label>
+  <RadiationIncurable.stages.0.label>症状なし</RadiationIncurable.stages.0.label>
+  <RadiationIncurable.stages.1.label>初期</RadiationIncurable.stages.1.label>
+  <RadiationIncurable.stages.2.label>軽度</RadiationIncurable.stages.2.label>
+  <RadiationIncurable.stages.3.label>中度</RadiationIncurable.stages.3.label>
+  <RadiationIncurable.stages.4.label>重度</RadiationIncurable.stages.4.label>
+  <RadiationIncurable.stages.5.label>極度</RadiationIncurable.stages.5.label>
+
+  <RadiationMechanoid.label>被曝</RadiationMechanoid.label>
+  <RadiationMechanoid.stages.0.label>症状なし</RadiationMechanoid.stages.0.label>
+  <RadiationMechanoid.stages.1.label>初期</RadiationMechanoid.stages.1.label>
+  <RadiationMechanoid.stages.2.label>軽度</RadiationMechanoid.stages.2.label>
+  <RadiationMechanoid.stages.3.label>中度</RadiationMechanoid.stages.3.label>
+  <RadiationMechanoid.stages.4.label>重度</RadiationMechanoid.stages.4.label>
+  <RadiationMechanoid.stages.5.label>極度</RadiationMechanoid.stages.5.label>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreBlast.label>炉心の爆発</CoreBlast.label>
+  <CoreBlast.deathMessage>{0} は爆発で死にました。</CoreBlast.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STANDARD -->
+
+  <RailgunSabot.label>サボット弾</RailgunSabot.label>
+  <RailgunSabot.description>レールガンから発射される運動エネルギー弾。</RailgunSabot.description>
+
+  <Bullet_Sabot.label>サボット弾</Bullet_Sabot.label>
+
+
+  <!-- DU Sabot -->
+
+  <!-- Additional information: The mass obtained from the depleted uranium gives these rounds a significantly larger blast radius when compared to steel sabot rounds. -->
+  <RailgunSabotDU.label>サボット弾 (ウラン)</RailgunSabotDU.label>
+  <RailgunSabotDU.description>レールガンから発射される運動エネルギー弾。劣化ウランの質量があるため、鉄製サボット弾に比べて爆発半径がはるかに広い。</RailgunSabotDU.description>
+
+  <Bullet_Sabot_DU.label>サボット弾 (ウラン)</Bullet_Sabot_DU.label>
+
+
+</LanguageData>

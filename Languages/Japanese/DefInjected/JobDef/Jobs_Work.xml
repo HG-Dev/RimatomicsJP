@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimatomicsResearch.reportString>TargetAで研究中</RimatomicsResearch.reportString>
+  <UpgradeBuilding.reportString>TargetAをアップグレード中</UpgradeBuilding.reportString>
+  <FleeADS.reportString>TargetAから逃げている</FleeADS.reportString>
+  <LoadRailgunMagazine.reportString>レールガンのマガジンを装填中</LoadRailgunMagazine.reportString>
+  <LoadSilo.reportString>サイロを装填中</LoadSilo.reportString>
+  <UseReactorConsole.reportString>制御卓を使っている</UseReactorConsole.reportString>
+  <HaulModuletoCore.reportString>TargetBをTargetAに運搬中</HaulModuletoCore.reportString>
+  <RemoveFuelModule.reportString>TargetAから燃料棒を取り出し中</RemoveFuelModule.reportString>
+  <LoadSpentFuel.reportString>TargetBをTargetAに運搬中</LoadSpentFuel.reportString>
+  <UnloadPlutonium.reportString>TargetAからプルトニウムを取り出し中</UnloadPlutonium.reportString>
+  <RepairCore.reportString>炉心を修理中</RepairCore.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TransformerExplosion.label>変圧器爆発</TransformerExplosion.label>
+  <TransformerExplosion.letterText>変圧器は過電流により激しい電気爆発を起こしました。</TransformerExplosion.letterText>
+  <TransformerExplosion.letterLabel>変圧器爆発</TransformerExplosion.letterLabel>
+
+  <SteamBurst.label>蒸気の噴出</SteamBurst.label>
+  <SteamBurst.letterText>急激な圧力上昇により蒸気パイプの一部が壊れました。</SteamBurst.letterText>
+  <SteamBurst.letterLabel>蒸気の噴出</SteamBurst.letterLabel>
+
+  <notNothing.label>?</notNothing.label>
+  <notNothing.letterText>?</notNothing.letterText>
+  <notNothing.letterLabel>?</notNothing.letterLabel>
+
+
+  <!--<CrackedFuel.label></CrackedFuel.label>-->
+  <!--<CrackedFuel.letterText></CrackedFuel.letterText>-->
+  <!--<CrackedFuel.letterLabel></CrackedFuel.letterLabel>-->
+
+</LanguageData>
