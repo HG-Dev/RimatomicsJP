@@ -76,8 +76,6 @@
   <Plutonium4.StepLabel>プルトニウム加工機を作る</Plutonium4.StepLabel>
   <Plutonium4.StepDesc>プルトニウムを加工している際は放射線を浴びることがよくある。放射性物質への暴露を予防できるように、加工機は炉心か貯蔵プールの近くに作るのがおすすめ。また、担当者には放射線防護服を着させよう</Plutonium4.StepDesc>
 
-  <!-- 高度な増殖炉は核分裂性物質を消費すると同時に、より多い量の核分裂性物質を製造できる。 -->
-
   <AdvReactor1.StepLabel>原子力を研究する (知力7)</AdvReactor1.StepLabel>
   <AdvReactor1.StepDesc>高度な増殖炉を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</AdvReactor1.StepDesc>
 

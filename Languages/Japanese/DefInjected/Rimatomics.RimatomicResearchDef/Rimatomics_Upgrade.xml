@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchReactorConductors.ResearchLabel>炉心導体</ResearchReactorConductors.ResearchLabel>
+  <ResearchReactorConductors.ResearchDesc>燃料と水の間の熱伝導性を改善し、出力を15%上げます。</ResearchReactorConductors.ResearchDesc>
+  <ResearchReactorConductors.ResearchDescDisc></ResearchReactorConductors.ResearchDescDisc>
+
+  <ResearchNeutronReflectors.ResearchLabel>中性子反射鏡</ResearchNeutronReflectors.ResearchLabel>
+  <ResearchNeutronReflectors.ResearchDesc>中性子捕獲を改良し、中性子束密度と出力を上げます。</ResearchNeutronReflectors.ResearchDesc>
+  <ResearchNeutronReflectors.ResearchDescDisc></ResearchNeutronReflectors.ResearchDescDisc>
+
+  <ResearchReactorShielding.ResearchLabel>炉心遮蔽板</ResearchReactorShielding.ResearchLabel>
+  <ResearchReactorShielding.ResearchDesc>炉心からの放射線漏れをある程度防ぎます。</ResearchReactorShielding.ResearchDesc>
+  <ResearchReactorShielding.ResearchDescDisc></ResearchReactorShielding.ResearchDescDisc>
+
+  <ResearchControlRodActuators.ResearchLabel>制御棒アクチュエータ</ResearchControlRodActuators.ResearchLabel>
+  <ResearchControlRodActuators.ResearchDesc>制御棒の反応速度を改善します。</ResearchControlRodActuators.ResearchDesc>
+  <ResearchControlRodActuators.ResearchDescDisc></ResearchControlRodActuators.ResearchDescDisc>
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+  <ResearchGuidenceSystem.ResearchLabel>誘導システム</ResearchGuidenceSystem.ResearchLabel>
+  <ResearchGuidenceSystem.ResearchDesc>ミサイルの範囲と安定性を上げます。分析できるデータを集めるために、任意の目標に対して発射し、設備をテストしましょう。</ResearchGuidenceSystem.ResearchDesc>
+  <ResearchGuidenceSystem.ResearchDescDisc>誘導システムのアップグレードは完了しました。すべてのミサイルはこのシステムで自動的にアップグレードされ、ミサイルの射程距離はワールドの120マスまで上がりました。</ResearchGuidenceSystem.ResearchDescDisc>
+
+  <ResearchMEPS.ResearchLabel>電力増幅モジュール</ResearchMEPS.ResearchLabel>
+  <ResearchMEPS.ResearchDesc>このスーパーコンデンサーを搭載したモジュールは各種のリムアトミクス設計エネルギー兵器の最大出力を上げます。その具体的な影響は武器によって異なります。</ResearchMEPS.ResearchDesc>
+  <ResearchMEPS.ResearchDescDisc></ResearchMEPS.ResearchDescDisc>
+
+  <ResearchALC.ResearchLabel>液体冷却モジュール</ResearchALC.ResearchLabel>
+  <ResearchALC.ResearchDesc>液体冷却モジュールとはあらゆるリムアトミクス設計エネルギー兵器の冷却機能を強化し、最高射程率を上げるシステムです。</ResearchALC.ResearchDesc>
+  <ResearchALC.ResearchDescDisc></ResearchALC.ResearchDescDisc>
+
+  <ResearchERS.ResearchLabel>E回収モジュール</ResearchERS.ResearchLabel>
+  <ResearchERS.ResearchDesc>エネルギー回収モジュールは運動か熱の廃エネルギーをリサイクルします。兵器の発射が終わる際に、回収できた電力をPPC電池に戻します。</ResearchERS.ResearchDesc>
+  <ResearchERS.ResearchDescDisc></ResearchERS.ResearchDescDisc>
+
+  <ResearchDriveActuator.ResearchLabel>高速アクチュエーター</ResearchDriveActuator.ResearchLabel>
+  <ResearchDriveActuator.ResearchDesc>リムアトミクス設計のタレット式エネルギー兵器の安定化制御とスルーレートを改善したアクチュエーターです。FINISH</ResearchDriveActuator.ResearchDesc>
+  <ResearchDriveActuator.ResearchDescDisc></ResearchDriveActuator.ResearchDescDisc>
+
+  <ResearchRailgun_TargetingChip.ResearchLabel>ターゲッティングチップ</ResearchRailgun_TargetingChip.ResearchLabel>
+  <ResearchRailgun_TargetingChip.ResearchDesc>FINISH</ResearchRailgun_TargetingChip.ResearchDesc>
+  <ResearchRailgun_TargetingChip.ResearchDescDisc>FINISH</ResearchRailgun_TargetingChip.ResearchDescDisc>
+
+  <ResearchObelisk_LenseModule.ResearchLabel>レンズモジュール</ResearchObelisk_LenseModule.ResearchLabel>
+  <ResearchObelisk_LenseModule.ResearchDesc>FINISH</ResearchObelisk_LenseModule.ResearchDesc>
+  <ResearchObelisk_LenseModule.ResearchDescDisc>FINISH</ResearchObelisk_LenseModule.ResearchDescDisc>
+
+  <ResearchObelisk_BeamSplitter.ResearchLabel>ビームスプリッター</ResearchObelisk_BeamSplitter.ResearchLabel>
+  <ResearchObelisk_BeamSplitter.ResearchDesc>FINISH</ResearchObelisk_BeamSplitter.ResearchDesc>
+  <ResearchObelisk_BeamSplitter.ResearchDescDisc>FINISH</ResearchObelisk_BeamSplitter.ResearchDescDisc>
+
+
+</LanguageData>

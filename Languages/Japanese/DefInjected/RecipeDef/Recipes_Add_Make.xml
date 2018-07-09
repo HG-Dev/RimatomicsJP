@@ -114,11 +114,11 @@
   <Make_TargetingChip.jobString>ターゲッティング・チップを作っている</Make_TargetingChip.jobString>
 
   <Make_BeamSplitter.label>ビームスプリッターを作る</Make_BeamSplitter.label>
-  <Make_BeamSplitter.description>オブリスクのアップグレードパーツを作ります。</Make_BeamSplitter.description>
+  <Make_BeamSplitter.description>オベリスクのアップグレードパーツを作ります。</Make_BeamSplitter.description>
   <Make_BeamSplitter.jobString>ビームスプリッターを作っている</Make_BeamSplitter.jobString>
 
   <Make_LenseModule.label>レンズ・モジュールを作る</Make_LenseModule.label>
-  <Make_LenseModule.description>オブリスクのレールガンのアップグレードパーツを作ります。</Make_LenseModule.description>
+  <Make_LenseModule.description>オベリスクのレールガンのアップグレードパーツを作ります。</Make_LenseModule.description>
   <Make_LenseModule.jobString>レンズ・モジュールを作っている</Make_LenseModule.jobString>
 
 </LanguageData>

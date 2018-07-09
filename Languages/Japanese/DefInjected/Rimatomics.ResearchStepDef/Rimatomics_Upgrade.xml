@@ -64,8 +64,6 @@
   <GuidenceSystem3.StepLabel>誘導システムを研究する (知力12)</GuidenceSystem3.StepLabel>
   <GuidenceSystem3.StepDesc>研究員にテストの結果の分析とソフトウェアのアップグレードをさせよう</GuidenceSystem3.StepDesc>
 
-  <!--このスーパーコンデンサーを搭載したモジュールは各種のリムアトミクス設計エネルギー兵器の最大出力を上げられる。その具体的な影響は武器によって異なる。-->
-
   <MEPS1.StepLabel>電力増幅モジュールを研究する (知力12)</MEPS1.StepLabel>
   <MEPS1.StepDesc>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</MEPS1.StepDesc>
 

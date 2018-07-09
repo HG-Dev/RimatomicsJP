@@ -53,7 +53,7 @@
   <ContainsFuel>内容物 {0} / {1} 燃料棒</ContainsFuel><!-- improve this -->
   <ContainsChemfuel>内容物 {0} / {1} バイオ液化燃料</ContainsChemfuel><!-- improve this -->
   <critSpentfuelonly>使用済み核燃料</critSpentfuelonly>
-  <critAnyfuel>いかなる核燃料</critAnyfuel>
+  <critAnyfuel>あらゆる核燃料</critAnyfuel>
   <critProg>進捗: {0}</critProg>
   <critRemovePlutonium>処理完了　物質を取り出してください</critRemovePlutonium>
   <critEnouPU>再処理可能</critEnouPU>
