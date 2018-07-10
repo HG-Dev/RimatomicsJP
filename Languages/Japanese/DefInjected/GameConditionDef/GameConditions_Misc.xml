@@ -2,11 +2,11 @@
 <LanguageData>
 
   <RadioactiveFallout.label>死の灰 (本物)</RadioactiveFallout.label>
-  <RadioactiveFallout.description>空に飛ばされた放射性の煙と灰がこの地域に降っている。</RadioactiveFallout.description>
+  <RadioactiveFallout.description>空に飛ばされた放射性の煙と灰が\nこの地域に降っている。</RadioactiveFallout.description>
   <RadioactiveFallout.endMessage>放射性ちりのほとんどが雨で流された。</RadioactiveFallout.endMessage>
 
   <NuclearFallout.label>死の灰 (本物)</NuclearFallout.label>
-  <NuclearFallout.description>核爆発により空に飛ばされた放射性の煙と灰がこの地域に降っている。</NuclearFallout.description>
+  <NuclearFallout.description>核爆発により空に飛ばされた放射性の煙と\n灰がこの地域に降っている。</NuclearFallout.description>
   <NuclearFallout.endMessage>放射性ちりのほとんどが雨で流された。</NuclearFallout.endMessage>
 
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <NuclearResearchBench.label>リムアトミクス研究端末</NuclearResearchBench.label>
-  <NuclearResearchBench.description>リムアトミクス設計の原子炉やと軍事技術の研究が行える端末。電気が必要</NuclearResearchBench.description>
+  <NuclearResearchBench.description>リムアトミクス設計の原子炉やと軍事技術の研究が行える端末。\n\n電気が必要</NuclearResearchBench.description>
 
   <TableRimatomicsMachining.label>リムアトミクス工作機械</TableRimatomicsMachining.label>
   <TableRimatomicsMachining.description>リムアトミクス設計の様々な装置を作るのに使うワークステーション。</TableRimatomicsMachining.description>

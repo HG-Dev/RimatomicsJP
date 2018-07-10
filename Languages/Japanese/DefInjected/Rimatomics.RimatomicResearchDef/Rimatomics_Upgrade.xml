@@ -36,8 +36,8 @@
   <ResearchERS.ResearchDesc>エネルギー回収モジュールは運動か熱の廃エネルギーをリサイクルします。兵器の発射が終わる際に、回収できた電力をPPC電池に戻します。</ResearchERS.ResearchDesc>
   <ResearchERS.ResearchDescDisc></ResearchERS.ResearchDescDisc>
 
-  <ResearchDriveActuator.ResearchLabel>高速アクチュエーター</ResearchDriveActuator.ResearchLabel>
-  <ResearchDriveActuator.ResearchDesc>リムアトミクス設計のタレット式エネルギー兵器の安定化制御とスルーレートを改善したアクチュエーターです。FINISH</ResearchDriveActuator.ResearchDesc>
+  <ResearchDriveActuator.ResearchLabel>高速サーボ</ResearchDriveActuator.ResearchLabel>
+  <ResearchDriveActuator.ResearchDesc>リムアトミクス設計のタレット式エネルギー兵器の安定化制御とスルーレートを改善したサーボです。普通のモーターと違って、このハイトルクサーボと負担の間にギアボックスは入らないし、カップリングは軽量・低慣性でノンバックラッシであるため、優れた安定性とサーボ剛性を誇ります。</ResearchDriveActuator.ResearchDesc>
   <ResearchDriveActuator.ResearchDescDisc></ResearchDriveActuator.ResearchDescDisc>
 
   <ResearchRailgun_TargetingChip.ResearchLabel>ターゲッティングチップ</ResearchRailgun_TargetingChip.ResearchLabel>

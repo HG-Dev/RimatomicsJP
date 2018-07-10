@@ -2,7 +2,7 @@
 <LanguageData>
 
   <PPC.label>PPC電池</PPC.label>
-  <PPC.description>パルス・パワー・コンデンサという巨大で気象耐性の電池。リムアトミクス設計のエネルギー兵器はPPCから大量の電気のパルスを得られる。</PPC.description>
+  <PPC.description>パルス・パワー・コンデンサという巨大で気象耐性の電池。リムアトミクス設計のエネルギー兵器はPPCから大量の電気をパルスで一気に引き出せる。</PPC.description>
   
   <PPCWeaponsConsole.label>武器管制 システム</PPCWeaponsConsole.label>
   <PPCWeaponsConsole.description>エネルギー兵器を制御するのに使う、有人の情報処理システム。</PPCWeaponsConsole.description>
@@ -29,7 +29,7 @@
   <!-- ICBM -->
 
   <MissileSilo.label>ミサイル サイロ</MissileSilo.label>
-  <MissileSilo.description>複数の大型ミサイルを格納する建築物。ホットローンチ方式でミサイルを発射させる。</MissileSilo.description>
+  <MissileSilo.description>複数の大型ミサイルを格納する建築物。ホットローンチ方式で\nミサイルを発射させる。</MissileSilo.description>
   
   <notReal.label>エラー</notReal.label>
 

@@ -19,8 +19,8 @@
   <CRACKEDFUEL>    ::燃料破損::</CRACKEDFUEL>
   <NOCOOLING>    ::冷却が必要::</NOCOOLING>
   <OVERHEATING>    ::過熱中:: {0}</OVERHEATING>
-  <COREMELT>    ::炉心溶融::</COREMELT>
-  <EVACUATE>    ::避難::</EVACUATE>
+  <COREMELT>    ::炉心溶融の危険::</COREMELT>
+  <EVACUATE>    ::避難の勧告::</EVACUATE>
   <CONTROLRODJAM>    ::制御棒故障::</CONTROLRODJAM>
   <ReactorAlerts>炉心忠告:</ReactorAlerts>
   <RADIATIONLEAK>    ::放射漏れ::</RADIATIONLEAK>
@@ -39,13 +39,13 @@
   <ShuttingDown>停止中</ShuttingDown>
   <Active>稼働中</Active>
   <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}\n放射: {5}\n\n{6}</ReactorBreakdown>
-  <SlotBreakdown>CHK最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
+  <SlotBreakdown>最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
   <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
   <cycleScreens>全体監視</cycleScreens>
   <AutoScram>自動スクラム</AutoScram>
   <AutoScramDesc>危険な温度や太陽フレアが探知された際に自動緊急停止する</AutoScramDesc>
-  <FlareSCRAMletterText>太阳耀斑使得反应堆自动关闭</FlareSCRAMletterText>
-  <SCRAMletterText>堆心温度超过警戒线使得反应堆自动关闭</SCRAMletterText>
+  <FlareSCRAMletterText>太陽フレアが探知されたため、自動スクラムが発動しました。</FlareSCRAMletterText>
+  <SCRAMletterText>炉心の温度が危険なレベルに達しているため、自動スクラムが発動しました。</SCRAMletterText>
   <CantUseReactorConsole>知力8が必要</CantUseReactorConsole><!-- improve this -->
 
   <!--PROCESSING-->

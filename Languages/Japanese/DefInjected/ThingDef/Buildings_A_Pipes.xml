@@ -34,7 +34,7 @@
       -->
 
   <steamPipe.label>蒸気パイプ</steamPipe.label>
-  <steamPipe.description>炉心からタービンに蒸気を送るパイプ。壁やその他の建造物の下に作れる</steamPipe.description>
+  <steamPipe.description>炉心からタービンに蒸気を送るパイプ。壁やその他の建造物の下に\n作れる</steamPipe.description>
   <!--
   <steamPipe_Blueprint.label></steamPipe_Blueprint.label>
   <steamPipe_Frame.label></steamPipe_Frame.label>

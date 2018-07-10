@@ -24,10 +24,10 @@
   <ERS.label>E回収 モジュール</ERS.label>
   <ERS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用↓)</ERS.description>
 
-  <DriveActuator.label>高速アクチュエーター</DriveActuator.label>
+  <DriveActuator.label>高速サーボ</DriveActuator.label>
   <DriveActuator.description>リムアトミクスのエネルギー兵器用のパーツ。(回転速度↑)</DriveActuator.description>
 
-  <TargetingChip.label>ターゲッティング チップ</TargetingChip.label>
+  <TargetingChip.label>ﾀｰｹﾞｯﾃｨﾝｸﾞ ﾁｯﾌﾟ</TargetingChip.label>
   <TargetingChip.description>レールガンのパーツ。(命中率↑)</TargetingChip.description>
 
   <BeamSplitter.label>ビーム スプリッター</BeamSplitter.label>

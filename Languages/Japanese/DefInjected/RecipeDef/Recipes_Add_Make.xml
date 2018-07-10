@@ -105,9 +105,9 @@
   <Make_ERS.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_ERS.description>
   <Make_ERS.jobString>エネルギー回収モジュールを作っている</Make_ERS.jobString>
 
-  <Make_DriveActuator.label>高速アクチュエーターを作る</Make_DriveActuator.label>
+  <Make_DriveActuator.label>高速サーボを作る</Make_DriveActuator.label>
   <Make_DriveActuator.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_DriveActuator.description>
-  <Make_DriveActuator.jobString>高速アクチュエーターを作っている</Make_DriveActuator.jobString>
+  <Make_DriveActuator.jobString>高速サーボを作っている</Make_DriveActuator.jobString>
 
   <Make_TargetingChip.label>ターゲッティング・チップを作る</Make_TargetingChip.label>
   <Make_TargetingChip.description>レールガンのアップグレードパーツを作ります。</Make_TargetingChip.description>
