@@ -26,31 +26,30 @@
 
   <ResearchMEPS.ResearchLabel>電力増幅モジュール</ResearchMEPS.ResearchLabel>
   <ResearchMEPS.ResearchDesc>このスーパーコンデンサーを搭載したモジュールは各種のリムアトミクス設計エネルギー兵器の最大出力を上げます。その具体的な影響は武器によって異なります。</ResearchMEPS.ResearchDesc>
-  <ResearchMEPS.ResearchDescDisc></ResearchMEPS.ResearchDescDisc>
+  <ResearchMEPS.ResearchDescDisc>電力増幅モジュールをリムアトミクス工作機械での組み立てが可能です。タレット式のリムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchMEPS.ResearchDescDisc>
 
   <ResearchALC.ResearchLabel>液体冷却モジュール</ResearchALC.ResearchLabel>
   <ResearchALC.ResearchDesc>液体冷却モジュールとはあらゆるリムアトミクス設計エネルギー兵器の冷却機能を強化し、最高射程率を上げるシステムです。</ResearchALC.ResearchDesc>
-  <ResearchALC.ResearchDescDisc></ResearchALC.ResearchDescDisc>
+  <ResearchALC.ResearchDescDisc>電力増幅モジュールをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchALC.ResearchDescDisc>
 
-  <ResearchERS.ResearchLabel>E回収モジュール</ResearchERS.ResearchLabel>
+  <ResearchERS.ResearchLabel>エネルギー回収モジュール</ResearchERS.ResearchLabel>
   <ResearchERS.ResearchDesc>エネルギー回収モジュールは運動か熱の廃エネルギーをリサイクルします。兵器の発射が終わる際に、回収できた電力をPPC電池に戻します。</ResearchERS.ResearchDesc>
-  <ResearchERS.ResearchDescDisc></ResearchERS.ResearchDescDisc>
+  <ResearchERS.ResearchDescDisc>エネルギー回収モジュールをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchERS.ResearchDescDisc>
 
   <ResearchDriveActuator.ResearchLabel>高速サーボ</ResearchDriveActuator.ResearchLabel>
   <ResearchDriveActuator.ResearchDesc>リムアトミクス設計のタレット式エネルギー兵器の安定化制御とスルーレートを改善したサーボです。普通のモーターと違って、このハイトルクサーボと負担の間にギアボックスは入らないし、カップリングは軽量・低慣性でノンバックラッシであるため、優れた安定性とサーボ剛性を誇ります。</ResearchDriveActuator.ResearchDesc>
-  <ResearchDriveActuator.ResearchDescDisc></ResearchDriveActuator.ResearchDescDisc>
+  <ResearchDriveActuator.ResearchDescDisc>高速サーボをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchDriveActuator.ResearchDescDisc>
 
   <ResearchRailgun_TargetingChip.ResearchLabel>ターゲッティングチップ</ResearchRailgun_TargetingChip.ResearchLabel>
-  <ResearchRailgun_TargetingChip.ResearchDesc>FINISH</ResearchRailgun_TargetingChip.ResearchDesc>
-  <ResearchRailgun_TargetingChip.ResearchDescDisc>FINISH</ResearchRailgun_TargetingChip.ResearchDescDisc>
+  <ResearchRailgun_TargetingChip.ResearchDesc>このモジュールはレールガンの命中率と射程距離を上げられます。まずはそのための実戦データを集めましょう。</ResearchRailgun_TargetingChip.ResearchDesc>
+  <ResearchRailgun_TargetingChip.ResearchDescDisc>ターゲッティングチップをリムアトミクス工作機械での組み立てが可能です。レールガンを選択した時のメニューから導入したいアップグレードを指定できます。</ResearchRailgun_TargetingChip.ResearchDescDisc>
 
   <ResearchObelisk_LenseModule.ResearchLabel>レンズモジュール</ResearchObelisk_LenseModule.ResearchLabel>
-  <ResearchObelisk_LenseModule.ResearchDesc>FINISH</ResearchObelisk_LenseModule.ResearchDesc>
-  <ResearchObelisk_LenseModule.ResearchDescDisc>FINISH</ResearchObelisk_LenseModule.ResearchDescDisc>
+  <ResearchObelisk_LenseModule.ResearchDesc>レーザーの集束と視準を改良できれば、オベリスクの射程距離を上げられます。</ResearchObelisk_LenseModule.ResearchDesc>
+  <ResearchObelisk_LenseModule.ResearchDescDisc>レンズモジュールをリムアトミクス工作機械での組み立てが可能です。オベリスクを選択した時のメニューから導入したいアップグレードを指定できます。</ResearchObelisk_LenseModule.ResearchDescDisc>
 
   <ResearchObelisk_BeamSplitter.ResearchLabel>ビームスプリッター</ResearchObelisk_BeamSplitter.ResearchLabel>
-  <ResearchObelisk_BeamSplitter.ResearchDesc>FINISH</ResearchObelisk_BeamSplitter.ResearchDesc>
-  <ResearchObelisk_BeamSplitter.ResearchDescDisc>FINISH</ResearchObelisk_BeamSplitter.ResearchDescDisc>
-
+  <ResearchObelisk_BeamSplitter.ResearchDesc>ビームスプリッターでレーザーを分ければ、これまでの出力を保った一次ビームを放出する直前に、目標のシールドを無効化できる波長の二次ビームを当てられます。</ResearchObelisk_BeamSplitter.ResearchDesc>
+  <ResearchObelisk_BeamSplitter.ResearchDescDisc>ビームスプリッターをリムアトミクス工作機械での組み立てが可能です。オベリスクを選択した時のメニューから導入したいアップグレードを指定できます。</ResearchObelisk_BeamSplitter.ResearchDescDisc>
 
 </LanguageData>

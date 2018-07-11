@@ -21,7 +21,7 @@
   <ALC.label>液体冷却 モジュール</ALC.label>
   <ALC.description>リムアトミクスのエネルギー兵器用のパーツ。(発射速度↑)</ALC.description>
 
-  <ERS.label>E回収 モジュール</ERS.label>
+  <ERS.label>ｴﾈﾙｷﾞｰ回収 モジュール</ERS.label>
   <ERS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用↓)</ERS.description>
 
   <DriveActuator.label>高速サーボ</DriveActuator.label>
