@@ -38,16 +38,16 @@
   <DoBillsTableNuclear.gerund>で機械加工中</DoBillsTableNuclear.gerund>
 
   <RimatomicsCrafting.label>研究</RimatomicsCrafting.label>
-  <RimatomicsCrafting.verb>を研究する</RimatomicsCrafting.verb>
-  <RimatomicsCrafting.gerund>を研究中</RimatomicsCrafting.gerund>
+  <RimatomicsCrafting.verb>で研究</RimatomicsCrafting.verb>
+  <RimatomicsCrafting.gerund>で研究中</RimatomicsCrafting.gerund>
 
   <RimatomicsConstruction.label>研究</RimatomicsConstruction.label>
-  <RimatomicsConstruction.verb>を研究する</RimatomicsConstruction.verb>
-  <RimatomicsConstruction.gerund>を研究中</RimatomicsConstruction.gerund>
+  <RimatomicsConstruction.verb>で研究</RimatomicsConstruction.verb>
+  <RimatomicsConstruction.gerund>で研究中</RimatomicsConstruction.gerund>
 
   <RimatomicsResearch.label>研究</RimatomicsResearch.label>
-  <RimatomicsResearch.verb>を研究する</RimatomicsResearch.verb>
-  <RimatomicsResearch.gerund>を研究中</RimatomicsResearch.gerund>
+  <RimatomicsResearch.verb>で研究</RimatomicsResearch.verb>
+  <RimatomicsResearch.gerund>で研究中</RimatomicsResearch.gerund>
 
 
 </LanguageData>

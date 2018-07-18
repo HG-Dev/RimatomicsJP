@@ -2,18 +2,18 @@
 <LanguageData>
 
   <Geigercounter.ResearchLabel>放射線測定器</Geigercounter.ResearchLabel>
-  <Geigercounter.ResearchDesc>入植者を電離放射線の暴露から守るのはもちろん大切です。そのためにはまず、放射線の存在を確認できる放射線測定器が欠かせません。リムアトミクス設計の携帯型放射線測定器は電離放射線を検知する際に空間線量率をカリカリと音を鳴らし、数値を大きく表示します。この研究が終われば、入植者は全員、自動的に放射線測定器を持つようになります。</Geigercounter.ResearchDesc>
+  <Geigercounter.ResearchDesc>入植者を電離放射線の暴露から守るのはもちろん大切です。そのためにはまず、放射線の存在を確認できる放射線測定器が欠かせません。リムアトミクス設計の携帯型放射線測定器は電離放射線を検知する際に空間線量率をカリカリと音を鳴らし、数値を大きく表示します。\nこの研究が終われば、入植者は全員、自動的に放射線測定器を持つようになります。</Geigercounter.ResearchDesc>
   <Geigercounter.ResearchDescDisc>すべての入植者は放射線測定器を備えています。電離放射線の遭遇する際、その空間線量率はカリカリとした音と表示された数値で測定できます。</Geigercounter.ResearchDescDisc>
 
 
   <!-- /////////////// -->
 
   <RadSuits.ResearchLabel>放射線防護服</RadSuits.ResearchLabel>
-  <RadSuits.ResearchDesc>リムアトミクス設計の放射線防護服は遮蔽機能のライニングを持っているが、もっとも大切な機能は放射性物質や毒が体についたり吸い込んだりすることを防ぐことです。</RadSuits.ResearchDesc>
+  <RadSuits.ResearchDesc>リムアトミクス設計の放射線防護服は遮蔽機能のライニングを持っているが、もっとも大切な\n機能は放射性物質や毒が体についたり吸い込んだりすることを防ぐことです。</RadSuits.ResearchDesc>
   <RadSuits.ResearchDescDisc>ミシン台で全種類の放射線防護服を作れます。</RadSuits.ResearchDescDisc>
 
   <NuclearResearch.ResearchLabel>原子力の研究施設</NuclearResearch.ResearchLabel>
-  <NuclearResearch.ResearchDesc>リムアトミクス設計の原子炉やその他の装置を作るためにはまず、実験炉で原子力の研究と稼働の訓練を行う必要があります。</NuclearResearch.ResearchDesc>
+  <NuclearResearch.ResearchDesc>リムアトミクス設計の原子炉とその他の装置を作るためにはまず、実験炉で原子力の研究と\n稼働の訓練を行う必要があります。</NuclearResearch.ResearchDesc>
   <NuclearResearch.ResearchDescDisc>高度な原子力の研究が可能です。</NuclearResearch.ResearchDescDisc>
 
 

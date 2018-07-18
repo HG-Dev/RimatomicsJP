@@ -1,46 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Geigercounter1.StepLabel>放射線測定器を研究する (知力5)</Geigercounter1.StepLabel>
+  <!-- Reminder: Because these entries appear in multiple text boxes, the cannot be manually newline'd -->
+
+  <Geigercounter1.StepLabel>放射線測定器を研究する (知力 5)</Geigercounter1.StepLabel>
   <Geigercounter1.StepDesc>研究員に放射線測定器のデザインと仕組みを調べさせよう</Geigercounter1.StepDesc>
 
-  <Geigercounter2.StepLabel>部品を評価する (工芸5)</Geigercounter2.StepLabel>
+  <Geigercounter2.StepLabel>部品を評価する (工芸 5)</Geigercounter2.StepLabel>
   <Geigercounter2.StepDesc>工芸家に、入手できる資源や道具を利用して、入植者全員分の携帯放射線測定器の作成と維持する方法を調べさせよう</Geigercounter2.StepDesc>
 
 
   <!-- /////////////// -->
 
-  <RadiationSuits1.StepLabel>放射線防護服を研究する (知力5)</RadiationSuits1.StepLabel>
+  <RadiationSuits1.StepLabel>放射線防護服を研究する (知力 5)</RadiationSuits1.StepLabel>
   <RadiationSuits1.StepDesc>自分で放射線防護服を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RadiationSuits1.StepDesc>
 
-  <RadiationSuits2.StepLabel>部品を評価する (工芸5)</RadiationSuits2.StepLabel>
+  <RadiationSuits2.StepLabel>部品を評価する (工芸 5)</RadiationSuits2.StepLabel>
   <RadiationSuits2.StepDesc>裁縫家に、入手できる資源や道具を利用して作れる放射線防護服をデザインさせよう</RadiationSuits2.StepDesc>
 
-  <NuclearResearch1.StepLabel>原子力を研究する (知力7)</NuclearResearch1.StepLabel>
+  <NuclearResearch1.StepLabel>原子力を研究する (知力 7)</NuclearResearch1.StepLabel>
   <NuclearResearch1.StepDesc>自分の原子炉を作る前に、研究員にそのデザインと仕組みを調べさせよう</NuclearResearch1.StepDesc>
 
-  <NuclearResearch2.StepLabel>部品を評価する (工芸10)</NuclearResearch2.StepLabel>
+  <NuclearResearch2.StepLabel>部品を評価する (工芸 10)</NuclearResearch2.StepLabel>
   <NuclearResearch2.StepDesc>工芸家に、入手できる資源から原子炉の部品を作るための設計をさせよう</NuclearResearch2.StepDesc>
 
-  <NuclearResearch3.StepLabel>設計図を調べる (建築10)</NuclearResearch3.StepLabel>
+  <NuclearResearch3.StepLabel>設計図を調べる (建築 10)</NuclearResearch3.StepLabel>
   <NuclearResearch3.StepDesc>建築家に実験炉の設計を固めさせよう</NuclearResearch3.StepDesc>
 
   <NuclearResearch4.StepLabel>試験炉を作る</NuclearResearch4.StepLabel>
   <NuclearResearch4.StepDesc>リムアトミクス研究端末の近くに実験炉を作ろう</NuclearResearch4.StepDesc>
 
-  <NuclearResearch5.StepLabel>研究と訓練 (知力7)</NuclearResearch5.StepLabel>
+  <NuclearResearch5.StepLabel>研究と訓練 (知力 7)</NuclearResearch5.StepLabel>
   <NuclearResearch5.StepDesc>原子炉制御ソフトウェアをインストールし、訓練しながら実験炉の機能を試そう</NuclearResearch5.StepDesc>
 
 
   <!-- /////////////////////////////////////////////////////// -->
 
-  <NuclearReactor1.StepLabel>原子力を研究する (知力7)</NuclearReactor1.StepLabel>
+  <NuclearReactor1.StepLabel>原子力を研究する (知力 7)</NuclearReactor1.StepLabel>
   <NuclearReactor1.StepDesc>自分の原子炉を作るためには、まず研究員に原子炉施設のデザインと仕組みを調べさせよう</NuclearReactor1.StepDesc>
 
-  <NuclearReactor2.StepLabel>部品を評価する (工芸10)</NuclearReactor2.StepLabel>
+  <NuclearReactor2.StepLabel>部品を評価する (工芸 10)</NuclearReactor2.StepLabel>
   <NuclearReactor2.StepDesc>工芸家に、入手できる資源から原子炉施設に必要な部品を作るための設計をさせよう</NuclearReactor2.StepDesc>
 
-  <NuclearReactor3.StepLabel>設計図を調べる (建築10)</NuclearReactor3.StepLabel>
+  <NuclearReactor3.StepLabel>設計図を調べる (建築 10)</NuclearReactor3.StepLabel>
   <NuclearReactor3.StepDesc>建築家に原子炉施設の設計を固めさせよう</NuclearReactor3.StepDesc>
 
   <NuclearReactor4.StepLabel>冷却装置を作る</NuclearReactor4.StepLabel>
@@ -67,22 +69,22 @@
   <Plutonium1.StepLabel>プルトニウム加工を研究する (知力14)</Plutonium1.StepLabel>
   <Plutonium1.StepDesc>プルトニウム加工機を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Plutonium1.StepDesc>
 
-  <Plutonium2.StepLabel>部品を評価する (工芸16)</Plutonium2.StepLabel>
+  <Plutonium2.StepLabel>部品を評価する (工芸 16)</Plutonium2.StepLabel>
   <Plutonium2.StepDesc>工芸家に、入手できる資源から必要な部品を作る方法を調べさせよう</Plutonium2.StepDesc>
 
-  <Plutonium3.StepLabel>設計図を調べる (建築16)</Plutonium3.StepLabel>
+  <Plutonium3.StepLabel>設計図を調べる (建築 16)</Plutonium3.StepLabel>
   <Plutonium3.StepDesc>建築家に、入手できる道具で加工機が作れる設計を固めさせよう</Plutonium3.StepDesc>
 
   <Plutonium4.StepLabel>プルトニウム加工機を作る</Plutonium4.StepLabel>
   <Plutonium4.StepDesc>プルトニウムを加工している際は放射線を浴びることがよくある。放射性物質への暴露を予防できるように、加工機は炉心か貯蔵プールの近くに作るのがおすすめ。また、担当者には放射線防護服を着させよう</Plutonium4.StepDesc>
 
-  <AdvReactor1.StepLabel>原子力を研究する (知力7)</AdvReactor1.StepLabel>
+  <AdvReactor1.StepLabel>原子力を研究する (知力 7)</AdvReactor1.StepLabel>
   <AdvReactor1.StepDesc>高度な増殖炉を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</AdvReactor1.StepDesc>
 
-  <AdvReactor2.StepLabel>部品を評価する (工芸10)</AdvReactor2.StepLabel>
+  <AdvReactor2.StepLabel>部品を評価する (工芸 10)</AdvReactor2.StepLabel>
   <AdvReactor2.StepDesc>工芸家に、入手できる資源から増殖炉に必要な部品を作るための設計をさせよう</AdvReactor2.StepDesc>
 
-  <AdvReactor3.StepLabel>設計図を調べる (建築10)</AdvReactor3.StepLabel>
+  <AdvReactor3.StepLabel>設計図を調べる (建築 10)</AdvReactor3.StepLabel>
   <AdvReactor3.StepDesc>建築家に、入手できる道具で増殖炉が作れる設計を固めさせよう</AdvReactor3.StepDesc>
 
   <AdvReactor4.StepLabel>原子炉を試す</AdvReactor4.StepLabel>
@@ -91,19 +93,19 @@
   <RTG1.StepLabel>放射性同位元素熱電発電機を研究する (知力11)</RTG1.StepLabel>
   <RTG1.StepDesc>放射性同位元素熱電発電機 (以後Radioisotope Thermoelectric GeneratorでRTG)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RTG1.StepDesc>
 
-  <RTG2.StepLabel>部品を評価する (工芸15)</RTG2.StepLabel>
+  <RTG2.StepLabel>部品を評価する (工芸 15)</RTG2.StepLabel>
   <RTG2.StepDesc>工芸家に、入手できる資源からRTGに必要な部品を作るための設計をさせよう</RTG2.StepDesc>
 
-  <RTG3.StepLabel>設計図を調べる (建築15)</RTG3.StepLabel>
+  <RTG3.StepLabel>設計図を調べる (建築 15)</RTG3.StepLabel>
   <RTG3.StepDesc>建築家に、入手できる道具でRTGが作れる設計を固めさせよう</RTG3.StepDesc>
 
-  <ICBM1.StepLabel>核兵器を研究する (知力15)</ICBM1.StepLabel>
+  <ICBM1.StepLabel>核兵器を研究する (知力 15)</ICBM1.StepLabel>
   <ICBM1.StepDesc>核兵器を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ICBM1.StepDesc>
 
-  <ICBM2.StepLabel>部品を評価する (工芸16)</ICBM2.StepLabel>
+  <ICBM2.StepLabel>部品を評価する (工芸 16)</ICBM2.StepLabel>
   <ICBM2.StepDesc>工芸家に、入手できる資源から核ミサイルに必要な部品を作るための設計をさせよう</ICBM2.StepDesc>
 
-  <ICBM3.StepLabel>設計図を調べる (建築16)</ICBM3.StepLabel>
+  <ICBM3.StepLabel>設計図を調べる (建築 16)</ICBM3.StepLabel>
   <ICBM3.StepDesc>建築家に、入手できる道具で核ミサイルが作れる設計を固めさせよう</ICBM3.StepDesc>
 
   <ICBM4.StepLabel>武器管制システムを作る</ICBM4.StepLabel>
@@ -118,13 +120,13 @@
   <ICBM7.StepLabel>データを集める</ICBM7.StepLabel>
   <ICBM7.StepDesc>任意の目標に向けてミサイルを発射しよう。データの量は発射と爆発の成功次第</ICBM7.StepDesc>
 
-  <EnergyWeapons1.StepLabel>エネルギー兵器を研究する (知力5)</EnergyWeapons1.StepLabel>
+  <EnergyWeapons1.StepLabel>エネルギー兵器を研究する (知力 5)</EnergyWeapons1.StepLabel>
   <EnergyWeapons1.StepDesc>研究員にリムアトミクス設計のエネルギー兵器のデザインと仕組みを調べさせよう</EnergyWeapons1.StepDesc>
 
-  <EnergyWeapons2.StepLabel>部品を評価する (工芸5)</EnergyWeapons2.StepLabel>
+  <EnergyWeapons2.StepLabel>部品を評価する (工芸 5)</EnergyWeapons2.StepLabel>
   <EnergyWeapons2.StepDesc>工芸家に、入手できる資源からエネルギー兵器に必要な部品を作るための設計をさせよう</EnergyWeapons2.StepDesc>
 
-  <EnergyWeapons3.StepLabel>設計図を調べる (建築5)</EnergyWeapons3.StepLabel>
+  <EnergyWeapons3.StepLabel>設計図を調べる (建築 5)</EnergyWeapons3.StepLabel>
   <EnergyWeapons3.StepDesc>建築家に、入手できる道具でエネルギー兵器が作れる設計を固めさせよう</EnergyWeapons3.StepDesc>
 
   <EnergyWeapons4.StepLabel>兵器研究台を作る</EnergyWeapons4.StepLabel>
@@ -142,13 +144,13 @@
 
   <!-- ADS -->
 
-  <ADS1.StepLabel>ADSを研究する (知力5)</ADS1.StepLabel>
+  <ADS1.StepLabel>ADSを研究する (知力 5)</ADS1.StepLabel>
   <ADS1.StepDesc>アクティブ・ディナイアル・システム (以後ADS)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ADS1.StepDesc>
 
-  <ADS2.StepLabel>部品を評価する (工芸5)</ADS2.StepLabel>
+  <ADS2.StepLabel>部品を評価する (工芸 5)</ADS2.StepLabel>
   <ADS2.StepDesc>工芸家に、入手できる資源からADSに必要な部品を作るための設計をさせよう</ADS2.StepDesc>
 
-  <ADS3.StepLabel>設計図を調べる (建築5)</ADS3.StepLabel>
+  <ADS3.StepLabel>設計図を調べる (建築 5)</ADS3.StepLabel>
   <ADS3.StepDesc>建築家に、入手できる道具でADSが作れる設計を固めさせよう</ADS3.StepDesc>
 
   <ADS4.StepLabel>ADSのプロトタイプを作る</ADS4.StepLabel>
@@ -160,13 +162,13 @@
 
   <!-- Tesla Coil -->
 
-  <TeslaCoil1.StepLabel>テスラコイルを研究する (知力6)</TeslaCoil1.StepLabel>
+  <TeslaCoil1.StepLabel>テスラコイルを研究する (知力 6)</TeslaCoil1.StepLabel>
   <TeslaCoil1.StepDesc>テスラコイルを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</TeslaCoil1.StepDesc>
 
-  <TeslaCoil2.StepLabel>部品を評価する (工芸6)</TeslaCoil2.StepLabel>
+  <TeslaCoil2.StepLabel>部品を評価する (工芸 6)</TeslaCoil2.StepLabel>
   <TeslaCoil2.StepDesc>工芸家に、入手できる資源からテスラコイルに必要な部品を作るための設計をさせよう</TeslaCoil2.StepDesc>
 
-  <TeslaCoil3.StepLabel>設計図を調べる (建築6)</TeslaCoil3.StepLabel>
+  <TeslaCoil3.StepLabel>設計図を調べる (建築 6)</TeslaCoil3.StepLabel>
   <TeslaCoil3.StepDesc>建築家に、入手できる道具でテスラコイルが作れる設計を固めさせよう</TeslaCoil3.StepDesc>
 
   <TeslaCoil4.StepLabel>テスラコイルのプロトタイプを作る</TeslaCoil4.StepLabel>
@@ -178,13 +180,13 @@
 
   <!-- HEL -->
 
-  <HEL1.StepLabel>HELを研究する (知力8)</HEL1.StepLabel>
+  <HEL1.StepLabel>HELを研究する (知力 8)</HEL1.StepLabel>
   <HEL1.StepDesc>ハイ・エネルギー・レーザー (以後HEL)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</HEL1.StepDesc>
 
-  <HEL2.StepLabel>部品を評価する (工芸12)</HEL2.StepLabel>
+  <HEL2.StepLabel>部品を評価する (工芸 12)</HEL2.StepLabel>
   <HEL2.StepDesc>工芸家に、入手できる資源からHELに必要な部品を作るための設計をさせよう</HEL2.StepDesc>
 
-  <HEL3.StepLabel>設計図を調べる (建築12)</HEL3.StepLabel>
+  <HEL3.StepLabel>設計図を調べる (建築 12)</HEL3.StepLabel>
   <HEL3.StepDesc>建築家に、入手できる道具でHELが作れる設計を固めさせよう</HEL3.StepDesc>
 
   <HEL4.StepLabel>HELのプロトタイプを作る</HEL4.StepLabel>
@@ -196,13 +198,13 @@
 
   <!-- /////////////////////////////////////////////////////// -->
 
-  <Railgun1.StepLabel>レールガンを研究する (知力12)</Railgun1.StepLabel>
+  <Railgun1.StepLabel>レールガンを研究する (知力 12)</Railgun1.StepLabel>
   <Railgun1.StepDesc>レールガンを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Railgun1.StepDesc>
 
-  <Railgun2.StepLabel>部品を評価する (工芸15)</Railgun2.StepLabel>
+  <Railgun2.StepLabel>部品を評価する (工芸 15)</Railgun2.StepLabel>
   <Railgun2.StepDesc>工芸家に、入手できる資源からレールガンに必要な部品を作るための設計をさせよう</Railgun2.StepDesc>
 
-  <Railgun3.StepLabel>設計図を調べる (建築15)</Railgun3.StepLabel>
+  <Railgun3.StepLabel>設計図を調べる (建築 15)</Railgun3.StepLabel>
   <Railgun3.StepDesc>建築家に、入手できる道具でレールガンが作れる設計を固めさせよう</Railgun3.StepDesc>
 
   <Railgun4.StepLabel>レールガンのプロトタイプを作る</Railgun4.StepLabel>
@@ -211,13 +213,13 @@
   <Railgun5.StepLabel>データを集める</Railgun5.StepLabel>
   <Railgun5.StepDesc>データを集めるために生物に向けて試射しよう</Railgun5.StepDesc>
 
-  <Obelisk1.StepLabel>オベリスクを研究する (知力15)</Obelisk1.StepLabel>
+  <Obelisk1.StepLabel>オベリスクを研究する (知力 15)</Obelisk1.StepLabel>
   <Obelisk1.StepDesc>オベリスクを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Obelisk1.StepDesc>
 
-  <Obelisk2.StepLabel>部品を評価する (工芸18)</Obelisk2.StepLabel>
+  <Obelisk2.StepLabel>部品を評価する (工芸 18)</Obelisk2.StepLabel>
   <Obelisk2.StepDesc>工芸家に、入手できる資源からオベリスクに必要な部品を作るための設計をさせよう</Obelisk2.StepDesc>
 
-  <Obelisk3.StepLabel>設計図を調べる (建築18)</Obelisk3.StepLabel>
+  <Obelisk3.StepLabel>設計図を調べる (建築 18)</Obelisk3.StepLabel>
   <Obelisk3.StepDesc>建築家に、入手できる道具でオベリスクが作れる設計を固めさせよう</Obelisk3.StepDesc>
 
   <Obelisk4.StepLabel>オベリスクのプロトタイプを作る</Obelisk4.StepLabel>
