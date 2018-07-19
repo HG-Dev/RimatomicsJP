@@ -55,7 +55,7 @@
   <NuclearReactor6.StepDesc>冷却パイプで冷却装置とタービンを繋げよう</NuclearReactor6.StepDesc>
 
   <NuclearReactor7.StepLabel>原子炉を作る</NuclearReactor7.StepLabel>
-  <NuclearReactor7.StepDesc>炉心コンポーネントはリムアトミクス工作台で作れる。入植者を燃料移送の時に発生しかねない放射線から守るためには、炉心を個別の部屋に作ろう。最後に原子炉とタービンを冷水パイプと蒸気パイプで繋げよう</NuclearReactor7.StepDesc>
+  <NuclearReactor7.StepDesc>炉心コンポーネントはリムアトミクス工作台で作れる。燃料移送の時に発生しかねない放射線から入植者を守るためには、炉心を個別の部屋に作ろう。最後に原子炉とタービンを冷水パイプと蒸気パイプで繋げよう</NuclearReactor7.StepDesc>
 
   <NuclearReactor8.StepLabel>変圧器を作る</NuclearReactor8.StepLabel>
   <NuclearReactor8.StepDesc>変圧器ができたらタービンと高電圧線で繋げよう。タービンの電気出力が変圧器の向こうで使われている電気の1.5倍を超えていれば、過電圧爆発が発生する危険があるので、注意しよう</NuclearReactor8.StepDesc>

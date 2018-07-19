@@ -85,13 +85,13 @@
   <Make_ReactorShielding.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ReactorShielding.description>
   <Make_ReactorShielding.jobString>炉心遮蔽板を作っている</Make_ReactorShielding.jobString>
 
-  <Make_ControlRodActuator.label>を作る</Make_ControlRodActuator.label>
+  <Make_ControlRodActuator.label>制御棒アクチュエータを作る</Make_ControlRodActuator.label>
   <Make_ControlRodActuator.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ControlRodActuator.description>
   <Make_ControlRodActuator.jobString>を作っている</Make_ControlRodActuator.jobString>
 
-  <Make_NeutronReflectors.label>を作る</Make_NeutronReflectors.label>
+  <Make_NeutronReflectors.label>中性子反射鏡を作る</Make_NeutronReflectors.label>
   <Make_NeutronReflectors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_NeutronReflectors.description>
-  <Make_NeutronReflectors.jobString>を作っている</Make_NeutronReflectors.jobString>
+  <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>
 
   <Make_MEPS.label>電力増幅モジュールを作る</Make_MEPS.label>
   <Make_MEPS.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_MEPS.description>
