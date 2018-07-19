@@ -9,7 +9,7 @@
   <MakeFuelRods.description>ウランペレットとプラスチールから原子炉で使える燃料棒を作ります。</MakeFuelRods.description>
   <MakeFuelRods.jobString>燃料棒を作っている</MakeFuelRods.jobString>
 
-  <MakeMoxFuelRods.label>燃料棒を作る</MakeMoxFuelRods.label>
+  <MakeMoxFuelRods.label>MOX燃料棒を作る</MakeMoxFuelRods.label>
   <MakeMoxFuelRods.description>劣化ウウランとプルトニウムを混ぜた燃料棒を作ります。</MakeMoxFuelRods.description>
   <MakeMoxFuelRods.jobString>MOX燃料棒を作っている</MakeMoxFuelRods.jobString>
 
