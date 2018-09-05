@@ -63,7 +63,7 @@
   <energyWepLoadedShell>装填中: {0}</energyWepLoadedShell>
   <RailgunBarrage>射撃任務</RailgunBarrage>
   <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
-  <needsRadar>TASレーダーが必要</needsRadar>
+  <needsRadar>目標補足システムが必要</needsRadar>
   <ICBMNeedMissile>発射させるミサイルがない</ICBMNeedMissile>
   <ICBMAlreadyLaunching>すでに発射中</ICBMAlreadyLaunching>
   <MissileRangeBad>目標が射程外</MissileRangeBad>

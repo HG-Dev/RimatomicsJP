@@ -29,7 +29,7 @@
   <!-- ICBM -->
 
   <MissileSilo.label>ミサイル サイロ</MissileSilo.label>
-  <MissileSilo.description>複数の大型ミサイルを格納する建築物。ホットローンチ方式で\nミサイルを発射させる。</MissileSilo.description>
+  <MissileSilo.description>複数の大型ミサイルを格納する建築物。\nホットローンチ方式でミサイルを発射させる。</MissileSilo.description>
   
   <notReal.label>エラー</notReal.label>
 
