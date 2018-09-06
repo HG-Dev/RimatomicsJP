@@ -24,6 +24,9 @@
   <ERS.label>ｴﾈﾙｷﾞｰ回収 モジュール</ERS.label>
   <ERS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用↓)</ERS.description>
 
+  <SCAD.label>シールド モジュール</SCAD.label>
+  <SCAD.description>リムアトミクスのエネルギー兵器用のパーツ。(防御)</SCAD.description>
+
   <DriveActuator.label>高速サーボ</DriveActuator.label>
   <DriveActuator.description>リムアトミクスのエネルギー兵器用のパーツ。(回転速度↑)</DriveActuator.description>
 

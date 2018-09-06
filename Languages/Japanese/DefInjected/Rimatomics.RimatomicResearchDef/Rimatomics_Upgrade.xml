@@ -30,7 +30,11 @@
 
   <ResearchALC.ResearchLabel>液体冷却モジュール</ResearchALC.ResearchLabel>
   <ResearchALC.ResearchDesc>液体冷却モジュールとはあらゆるリムアトミクス設計エネルギー兵器の冷却機能を強化し、最高射程率を上げるシステムです。</ResearchALC.ResearchDesc>
-  <ResearchALC.ResearchDescDisc>電力増幅モジュールをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchALC.ResearchDescDisc>
+  <ResearchALC.ResearchDescDisc>液体冷却モジュールをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchALC.ResearchDescDisc>
+
+  <ResearchSCAD.ResearchLabel>シールドモジュール</ResearchSCAD.ResearchLabel>
+  <ResearchSCAD.ResearchDesc>シールドモジュールとは、ダメージを受けた際にスーパーコンデンサーを消費して強力な磁場応答を起こし、兵器の本体を守る網です。導入した兵器にダメージを加えそうな遠距離攻撃をある程度防げます。</ResearchSCAD.ResearchDesc>
+  <ResearchSCAD.ResearchDescDisc>シールドモジュールをリムアトミクス工作機械での組み立てが可能です。リムアトミクス兵器を選択した時のメニューから導入したいアップグレードを指定できます。</ResearchSCAD.ResearchDescDisc>
 
   <ResearchERS.ResearchLabel>エネルギー回収モジュール</ResearchERS.ResearchLabel>
   <ResearchERS.ResearchDesc>エネルギー回収モジュールは運動か熱の廃エネルギーをリサイクルします。兵器の発射が終わる際に、回収できた電力をPPC電池に戻します。</ResearchERS.ResearchDesc>

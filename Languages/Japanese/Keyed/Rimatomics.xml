@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!-- Notes
-  Depleted uranium : 劣化ウラン　劣化ウラン
-  overheat: 過熱
--->
+
   <!--ALERTS-->
   <AlertNeedsTurbine>炉心はタービンが必要</AlertNeedsTurbine>
   <AlertNeedsTurbineDesc>炉心はタービンに繋げる必要があります。炉心を個別に起動すると過熱や溶融が発生する場合があります。</AlertNeedsTurbineDesc>
@@ -27,6 +24,7 @@
   <RADIATIONLEAKSYSTEM>    ::放射能を探知::</RADIATIONLEAKSYSTEM><!-- improve this -->
 
   <!--CONSOLE-->
+  <Dragtoincreasefluxlevel>ひきずって目標中性子束を変える</Dragtoincreasefluxlevel>
   <MOX>MOX</MOX>
   <Used>使用済み</Used>
   <AbortTest>中止</AbortTest>
@@ -46,12 +44,12 @@
   <AutoScramDesc>危険な温度や太陽フレアが探知された際に自動緊急停止する</AutoScramDesc>
   <FlareSCRAMletterText>太陽フレアが探知されたため、自動スクラムが発動しました。</FlareSCRAMletterText>
   <SCRAMletterText>炉心の温度が危険なレベルに達しているため、自動スクラムが発動しました。</SCRAMletterText>
-  <CantUseReactorConsole>知力8が必要</CantUseReactorConsole><!-- improve this -->
+  <CantUseReactorConsole>知力8が必要</CantUseReactorConsole>
 
   <!--PROCESSING-->
   <ProcessingProgress>進捗: {0} {1}</ProcessingProgress>
-  <ContainsFuel>内容物 {0} / {1} 燃料棒</ContainsFuel><!-- improve this -->
-  <ContainsChemfuel>内容物 {0} / {1} バイオ液化燃料</ContainsChemfuel><!-- improve this -->
+  <ContainsFuel>{0} / {1} 燃料棒</ContainsFuel>
+  <ContainsChemfuel>{0} / {1} バイオ液化燃料</ContainsChemfuel>
   <critSpentfuelonly>使用済み核燃料</critSpentfuelonly>
   <critAnyfuel>あらゆる核燃料</critAnyfuel>
   <critProg>進捗: {0}</critProg>
@@ -60,26 +58,20 @@
   <NoChemfuel>バイオ液化燃料が必要</NoChemfuel>
 
   <!--ENERGY WEAPONS-->
+  <Detonating>起爆中…</Detonating>
+  <KillCounter>キル数: {0}</KillCounter>
   <energyWepLoadedShell>装填中: {0}</energyWepLoadedShell>
-  <RailgunBarrage>射撃任務</RailgunBarrage>
-  <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
+  <MessageRailgunCantTargetMyMap>目標が近すぎます（同じマップ）</MessageRailgunCantTargetMyMap>
   <needsRadar>目標補足システムが必要</needsRadar>
+  <ICBMNeedConsole>有人の武器管制システムが必要</ICBMNeedConsole>
   <ICBMNeedMissile>発射させるミサイルがない</ICBMNeedMissile>
   <ICBMAlreadyLaunching>すでに発射中</ICBMAlreadyLaunching>
   <MissileRangeBad>目標が射程外</MissileRangeBad>
   <MissileTargetInvalid>無効なミサイル目標</MissileTargetInvalid>
-  <ICBMNeedConsole>有人の武器管制システムが必要</ICBMNeedConsole>
-  <critrangeMinus>射距離－</critrangeMinus>
-  <critrangePlus>射距離＋</critrangePlus>
-  <critCommandLowerRangeDesc>射距離と電気パルスを縮小する</critCommandLowerRangeDesc>
-  <critCommandRaiseRangeDesc>射距離と電気パルスを拡大する</critCommandRaiseRangeDesc>
-  <critdmgMinus>火力－</critdmgMinus>
-  <critdmgPlus>火力＋</critdmgPlus>
-  <critCommandLowerDmgDesc>兵器の出力を下げ、電気パルスを縮小する</critCommandLowerDmgDesc>
-  <critCommandRaiseDmgDesc>兵器の出力を上げ、電気パルスを拡大する</critCommandRaiseDmgDesc>
-  <critMissingPPC>PPC電池が必要</critMissingPPC>
-  <critNRGWEPPOOWA>パワー: {0} / 射距離: {1}－{2}</critNRGWEPPOOWA><!-- Improve this -->
-  <LastPulseSize>前の電気パルス: {0} Wd</LastPulseSize>
+  <EnergyWeaponNeedsMannedConsole>有人の武器管制システムが必要</EnergyWeaponNeedsMannedConsole>
+  <EnergyWeaponNeedConsole>繋がった武器管制システムが必要</EnergyWeaponNeedConsole>
+  <MissingPPC>PPC電池が必要</MissingPPC>
+  <PulseSize>電気パルス: {0} Wd</PulseSize>
   <critCommandFireMission>個別射撃任務</critCommandFireMission>
   <critCommandFireMissionDesc>遠距離砲撃を開始する</critCommandFireMissionDesc>
   <critCommandLaunchICBM>ミサイル発射</critCommandLaunchICBM>
@@ -91,19 +83,23 @@
   <critBombDetFac>{0} は爆弾に破壊されました</critBombDetFac>
   <SetCamoMode>迷彩柄の設定</SetCamoMode>
   <critCountdown>カウントダウン: {0}</critCountdown>
-  <mp15>15m</mp15>
-  <mm15>15m</mm15>
   <critArm>作動可能にする</critArm>
   <MessageRailgunNeedsMap>マップ情報がありません。先に入植者を送り、偵察を行ってください</MessageRailgunNeedsMap>
   <MessageRailgunTargetInvalid>無効な目標</MessageRailgunTargetInvalid>
-  <NextPart></NextPart>
+  <NextPart>次のパーツ: {0}を{1}つ</NextPart>
   <SiloFull>サイロはすでにいっぱい</SiloFull>
   <SiloMagazine>{0}/{1}</SiloMagazine>
   <ICBMReady>ミサイル発射準備完了</ICBMReady>
+  <TestFireHELSOnOwnShells>実験として自分の砲弾も撃ち落とす</TestFireHELSOnOwnShells>
+  <OpenRadar>目標捕捉システムの監視画面を開く</OpenRadar>
+  <NoSabotToExtract>取り除くサボット弾がありません</NoSabotToExtract>
   
   <!--REACTOR BUILDINGS-->
+  <ReactorUptime>稼働時間: {0}</ReactorUptime>
+  <PuCreated>Pu: {0}</PuCreated>
+  <fuelCracked>⚠破損⚠️</fuelCracked>
   <Managefuel>管理</Managefuel>
-  <RoofedTower>冷却塔</RoofedTower><!-- fix this -->
+  <RoofedTower>冷却塔上の屋根を外してください</RoofedTower>
   <TurbineRPM>毎分{0}回転 ({1})</TurbineRPM>
   <TradeShipWait>後{0}でリムアトミクス貿易船の準備が完了します</TradeShipWait>
   <critsetid>IDを設定</critsetid>
@@ -123,10 +119,10 @@
   <critreactorcritical>臨界事故発生中</critreactorcritical>
   <critreactorleaking>放射漏れ発生中</critreactorleaking>
   <critreactionstable>安定稼働</critreactionstable>
-  <critStorageCapacity>: {0} / {1}</critStorageCapacity>
-  <critGenerated>: {0} W</critGenerated>
-  <critConsumed>: {0} W</critConsumed>
-  <critPnetPct>: {0}</critPnetPct>
+  <critStorageCapacity>貯蔵容量: {0} / {1}</critStorageCapacity>
+  <critGenerated>発電: {0} W</critGenerated>
+  <critConsumed>消費: {0} W</critConsumed>
+  <critPnetPct>配電網負担: {0}</critPnetPct>
   <critPowerGeneration>: {0} W</critPowerGeneration>
   <critValveOpen>バルブ: オープン</critValveOpen>
   <critValveClosed>バルブ: クローズ</critValveClosed>
@@ -134,12 +130,12 @@
   <critCloseValve>バルブを閉じる</critCloseValve>
   <critToggleValve>バルブの操作</critToggleValve>
   <critTempBoost>温度ブースト</critTempBoost>
+  <critXE>Xe-135</critXE>
   <critTemp>温度</critTemp>
   <critCooling>冷却</critCooling>
   <critTurbine>タービン</critTurbine>
   <critCoreIntegrity>炉心保全性</critCoreIntegrity>
   <critNeutronFlux>中性子束</critNeutronFlux>
-  <critTargetFlux>目標中性子束</critTargetFlux>
   <critFuelRemaining2>残っている燃料: {0}</critFuelRemaining2>
   <Empty>空</Empty>
   <Activated>作動中</Activated>
@@ -176,10 +172,6 @@
   <TrannyLimit>: {0}kW</TrannyLimit>
   <TurbinePower>: {0}kW</TurbinePower>
 
-  <!--WEAPONS CONSOLE-->
-  <TestFireHELSOnOwnShells>実験として自分の砲弾も撃ち落とす</TestFireHELSOnOwnShells>
-  <OpenRadar>目標捕捉システムの監視画面を開く</OpenRadar>
-
   <!--RESEARCH-->
   <Free>無料</Free>
   <Purchase>購入</Purchase>
@@ -200,9 +192,15 @@
   <TabResearch>研究</TabResearch>
   <CurProj>プロジェクト: {0}</CurProj>
   <CurStep>段階: {0}</CurStep>
-  <SkillLevel>{0} は {1} {2} が必要</SkillLevel>
+  <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
   <StartProject>プロジェクト開始</StartProject>
   <StopProject>プロジェクト停止</StopProject>
+
+  <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
+  <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>
+
+  <Alert_ResearchFacility>研究設備が足りない</Alert_ResearchFacility>
+  <RequiresFacility>現在の段階には {0} が必要</RequiresFacility>
 
   <DesignatorRemoveColdWater>冷水を除去</DesignatorRemoveColdWater>
   <DesignatorRemoveColdWaterDesc>冷水パイプを除去する</DesignatorRemoveColdWaterDesc>
@@ -225,7 +223,25 @@
   <RimatomicResearchCompleteDialog>{0} - 完了\n\n{1}</RimatomicResearchCompleteDialog>
 
   <TradeShipCooldown>貿易船クールダウン: {0}</TradeShipCooldown>
-  <TradeShipArrival>貿易船の到着: {0}</TradeShipArrival>
+  <TradeShipArrival>貿易船の到着まで: {0}</TradeShipArrival>
   <rimatomicsProto> プロトタイプ</rimatomicsProto>
+
+  <!--DEPRECIATED-->
+  <RailgunBarrage>射撃任務</RailgunBarrage>
+  <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
+  <critrangeMinus>射距離－</critrangeMinus>
+  <critrangePlus>射距離＋</critrangePlus>
+  <critCommandLowerRangeDesc>射距離と電気パルスを縮小する</critCommandLowerRangeDesc>
+  <critCommandRaiseRangeDesc>射距離と電気パルスを拡大する</critCommandRaiseRangeDesc>
+  <critdmgMinus>火力－</critdmgMinus>
+  <critdmgPlus>火力＋</critdmgPlus>
+  <critCommandLowerDmgDesc>兵器の出力を下げ、電気パルスを縮小する</critCommandLowerDmgDesc>
+  <critCommandRaiseDmgDesc>兵器の出力を上げ、電気パルスを拡大する</critCommandRaiseDmgDesc>
+  <critMissingPPC>PPC電池が必要</critMissingPPC>
+  <critNRGWEPPOOWA>パワー: {0} / 射距離: {1}－{2}</critNRGWEPPOOWA><!-- Improve this -->
+  <LastPulseSize>前の電気パルス: {0} Wd</LastPulseSize>
+  <mp15>15m</mp15>
+  <mm15>15m</mm15>
+  <critTargetFlux>目標中性子束</critTargetFlux>
 
 </LanguageData>

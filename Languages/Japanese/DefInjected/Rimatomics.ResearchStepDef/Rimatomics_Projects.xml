@@ -228,5 +228,20 @@
   <Obelisk5.StepLabel>データを集める</Obelisk5.StepLabel>
   <Obelisk5.StepDesc>データを集めるために生物に向けて試射しよう</Obelisk5.StepDesc>
 
+  <Marauder1.StepLabel>電磁プラズマ砲を研究する (知力 12)</Marauder1.StepLabel>
+  <Marauder1.StepDesc>電磁プラズマ砲を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Marauder1.StepDesc>
+
+  <Marauder2.StepLabel>部品を評価する (工芸 15)</Marauder2.StepLabel>
+  <Marauder2.StepDesc>工芸家に、入手できる資源から電磁プラズマ砲に必要な部品を作るための設計をさせよう</Marauder2.StepDesc>
+
+  <Marauder3.StepLabel>設計図を調べる (建築 15)</Marauder3.StepLabel>
+  <Marauder3.StepDesc>建築家に、入手できる道具で電磁プラズマ砲が作れる設計を固めさせよう</Marauder3.StepDesc>
+
+  <Marauder4.StepLabel>電磁プラズマ砲のプロトタイプを作る</Marauder4.StepLabel>
+  <Marauder4.StepDesc>充電されたPPC電池と武器管制システムのある電力ネットワークに繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</Marauder4.StepDesc>
+
+  <Marauder5.StepLabel>データを集める</Marauder5.StepLabel>
+  <Marauder5.StepDesc>データを集めるために生物に向けて試射しよう</Marauder5.StepDesc>
+
 
 </LanguageData>
