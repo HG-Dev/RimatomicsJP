@@ -9,7 +9,7 @@
   <HighVoltage_Frame.description></HighVoltage_Frame.description>
   -->
 
-  <controllerLoom.label>パラレルケーブル</controllerLoom.label>
+  <controllerLoom.label>パラレル ケーブル</controllerLoom.label>
   <controllerLoom.description>制御端末と炉心を繋げ、情報を発信するケーブル。壁やその他の建造物の下に作れる</controllerLoom.description>
   <!--
   <controllerLoom_Blueprint.label></controllerLoom_Blueprint.label>
