@@ -7,7 +7,7 @@
   <ReactorConductors.description>リムアトミクス原子炉用のパーツ。(電力↑)</ReactorConductors.description>
 
   <ReactorShielding.label>炉心遮蔽板</ReactorShielding.label>
-  <ReactorShielding.description>(ろしんしゃへいばん)リムアトミクス原子炉用のパーツ。(放射能↓)</ReactorShielding.description>
+  <ReactorShielding.description>リムアトミクス原子炉用のパーツ。(放射能↓)</ReactorShielding.description>
 
   <ControlRodActuator.label>制御棒 アクチュエータ</ControlRodActuator.label>
   <ControlRodActuator.description>リムアトミクス原子炉用のパーツ。(反応速度↑)</ControlRodActuator.description>
@@ -16,7 +16,7 @@
   <NeutronReflectors.description>リムアトミクス原子炉用のパーツ。(電力↑)</NeutronReflectors.description>
 
   <MEPS.label>電力増幅 モジュール</MEPS.label>
-  <MEPS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用と出力↑)</MEPS.description>
+  <MEPS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用と火力↑)</MEPS.description>
 
   <ALC.label>液体冷却 モジュール</ALC.label>
   <ALC.description>リムアトミクスのエネルギー兵器用のパーツ。(発射速度↑)</ALC.description>
@@ -33,7 +33,7 @@
   <TargetingChip.label>ﾀｰｹﾞｯﾃｨﾝｸﾞ ﾁｯﾌﾟ</TargetingChip.label>
   <TargetingChip.description>レールガンのパーツ。(命中率↑)</TargetingChip.description>
 
-  <BeamSplitter.label>ビーム スプリッター</BeamSplitter.label>
+  <BeamSplitter.label>ﾋﾞｰﾑ ｽﾌﾟﾘｯﾀｰ</BeamSplitter.label>
   <BeamSplitter.description>オベリスクのパーツ。(シールド突破)</BeamSplitter.description>
 
   <LenseModule.label>レンズ モジュール</LenseModule.label>
