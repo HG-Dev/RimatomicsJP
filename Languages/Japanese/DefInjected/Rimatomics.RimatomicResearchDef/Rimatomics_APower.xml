@@ -5,7 +5,6 @@
   <Geigercounter.ResearchDesc>入植者を電離放射線の暴露から守るのはもちろん大切です。そのためにはまず、放射線の存在を確認できる放射線測定器が欠かせません。リムアトミクス設計の携帯型放射線測定器は電離放射線を検知する際に空間線量率をカリカリと音を鳴らし、数値を大きく表示します。\nこの研究が終われば、入植者は全員、自動的に放射線測定器を持つようになります。</Geigercounter.ResearchDesc>
   <Geigercounter.ResearchDescDisc>すべての入植者は放射線測定器を備えています。電離放射線の遭遇する際、その空間線量率はカリカリとした音と表示された数値で測定できます。</Geigercounter.ResearchDescDisc>
 
-
   <!-- /////////////// -->
 
   <RadSuits.ResearchLabel>放射線防護服</RadSuits.ResearchLabel>
@@ -15,7 +14,6 @@
   <NuclearResearch.ResearchLabel>原子力の研究施設</NuclearResearch.ResearchLabel>
   <NuclearResearch.ResearchDesc>リムアトミクス設計の原子炉とその他の装置を作るためにはまず、実験炉で原子力の研究と\n稼働の訓練を行う必要があります。</NuclearResearch.ResearchDesc>
   <NuclearResearch.ResearchDescDisc>高度な原子力の研究が可能です。</NuclearResearch.ResearchDescDisc>
-
 
   <!-- /////////////////////////////////////////////////////// -->
 
@@ -34,48 +32,5 @@
   <RTG.ResearchLabel>放射性同位元素熱電発電機</RTG.ResearchLabel>
   <RTG.ResearchDesc>放射性同位元素熱電発電機とは動くパーツを一切持たない、ポータブルの発電機です。この発電機の熱電対の配列はゼーベック効果という仕組みで適正ある放射性物質の崩壊熱を電気に変えます。</RTG.ResearchDesc>
   <RTG.ResearchDescDisc>放射性同位元素熱電発電機が建築可能です。発電機は再設置も可能で1000wの定電力を提供します。</RTG.ResearchDescDisc>
-
-  <ICBM.ResearchLabel>核ミサイル</ICBM.ResearchLabel>
-  <ICBM.ResearchDesc>大陸間弾道ミサイルの技術に基づいたこの誘導ミサイルの設計は、核弾頭をつけるようになっています。</ICBM.ResearchDesc>
-  <ICBM.ResearchDescDisc>大量破壊兵器を貯蔵できます。</ICBM.ResearchDescDisc>
-
-  <EnergyWeapons.ResearchLabel>エネルギー兵器</EnergyWeapons.ResearchLabel>
-  <EnergyWeapons.ResearchDesc>ハイ・エネルギー防衛技術の未来はリムアトミクスの手で作られ、リムアトミクスの貿易船で銀河に広がっています！弊社の実績ある目標捕捉システムと最先端、モジュール式でスケーラブルなエネルギー兵器は360度範囲を誇り、さまざまな目標の補足と迎撃が可能です。</EnergyWeapons.ResearchDesc>
-  <EnergyWeapons.ResearchDescDisc>リムアトミクス設計のエネルギー兵器の動作に必要なシステムが揃っています。研究台にて、兵器技術の購入が可能です。</EnergyWeapons.ResearchDescDisc>
-
-
-  <!-- ADS -->
-
-  <ADS.ResearchDesc>アクティブ・ディナイアル・システムとは非致死性指向性エネルギー兵器です。領域拒否、外周警備、そして群衆整理のために使えます。この兵器が発射するミリ波の電磁波を浴びる対象は皮膚の灼熱感により一時敗走させられる。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。</ADS.ResearchDesc>
-  <ADS.ResearchDescDisc>ADSを自由に建てられます。既存のADSは最大出力で稼働しています。</ADS.ResearchDescDisc>
-
-
-  <!-- Tesla Coil -->
-
-  <TeslaCoil.ResearchLabel>テスラコイル</TeslaCoil.ResearchLabel>
-  <TeslaCoil.ResearchDesc>短距離内の対象に向けて強力な放電を放てるテスラコイルの技術は素朴ですが、非常に効果的な兵器です。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。\n\n近距離・命中率100%</TeslaCoil.ResearchDesc>
-  <TeslaCoil.ResearchDescDisc>テスラコイルを自由に建てられます。既存のテスラコイルは最大出力で稼働しています。</TeslaCoil.ResearchDescDisc>
-
-
-  <!-- HEL -->
-
-  <HEL.ResearchDesc>ハイ・エネルギー・レーザーは固体レーザーの形の指向性エネルギーで飛翔体を迎撃できます。アップグレードされたHELは大きなロケットも迎撃できます。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。</HEL.ResearchDesc>
-  <HEL.ResearchDescDisc>HELを自由に建てられます。既存のHELは最大出力で稼働しています。</HEL.ResearchDescDisc>
-
-
-  <!-- /////////////////////////////////////////////////////// -->
-
-  <Railgun.ResearchLabel>レールガン</Railgun.ResearchLabel>
-  <Railgun.ResearchDesc>レールガンは電磁誘導により弾帯を加速して超遠距離の目標を爆撃できます。25弾を持つマガジンからサボット弾を撃ちます。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。\n\n基礎ダメージ: 65\n電気パルス: 1000kW\n基礎射程距離: 40</Railgun.ResearchDesc>
-  <Railgun.ResearchDescDisc>レールガンを自由に建てられます。既存のレールガンは最大出力で稼働しています。</Railgun.ResearchDescDisc>
-
-  <Obelisk.ResearchLabel>オベリスク</Obelisk.ResearchLabel>
-  <Obelisk.ResearchDesc>オベリスクは集束固体レーザーで目標を焼き尽します。電力の負担は大きいですが、遠距離でも完璧な命中率と圧倒的な威力を誇ります。射程距離と出力の調整の実装も予定されています。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。\n\n基礎ダメージ: 90\n電気パルス: 1000kW\n基礎射程距離: 40</Obelisk.ResearchDesc>
-  <Obelisk.ResearchDescDisc>オベリスクを自由に建てられます。既存のオベリスクは最大出力で稼働しています。</Obelisk.ResearchDescDisc>
-
-<!-- オロチ -->
-  <Marauder.ResearchLabel>電磁プラズマ砲</Marauder.ResearchLabel>
-  <Marauder.ResearchDesc>電磁プラズマ砲は電磁誘導により複数の同軸銃身からプラズマの環状体を加速して遠距離の目標を爆撃し、強い放射能にさらせます。</Railgun.ResearchDesc>
-  <Marauder.ResearchDescDisc>電磁プラズマ砲を自由に建てられます。既存の電磁プラズマ砲は最大出力で稼働しています。</Marauder.ResearchDescDisc>
 
 </LanguageData>

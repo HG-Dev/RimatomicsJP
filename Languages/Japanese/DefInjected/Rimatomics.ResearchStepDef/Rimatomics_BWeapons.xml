@@ -1,104 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Reminder: Because these entries appear in multiple text boxes, the cannot be manually newline'd -->
-
-  <Geigercounter1.StepLabel>放射線測定器を研究する (知力 5)</Geigercounter1.StepLabel>
-  <Geigercounter1.StepDesc>研究員に放射線測定器のデザインと仕組みを調べさせよう</Geigercounter1.StepDesc>
-
-  <Geigercounter2.StepLabel>部品を評価する (工芸 5)</Geigercounter2.StepLabel>
-  <Geigercounter2.StepDesc>工芸家に、入手できる資源や道具を利用して、入植者全員分の携帯放射線測定器の作成と維持する方法を調べさせよう</Geigercounter2.StepDesc>
-
-
-  <!-- /////////////// -->
-
-  <RadiationSuits1.StepLabel>放射線防護服を研究する (知力 5)</RadiationSuits1.StepLabel>
-  <RadiationSuits1.StepDesc>自分で放射線防護服を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RadiationSuits1.StepDesc>
-
-  <RadiationSuits2.StepLabel>部品を評価する (工芸 5)</RadiationSuits2.StepLabel>
-  <RadiationSuits2.StepDesc>裁縫家に、入手できる資源や道具を利用して作れる放射線防護服をデザインさせよう</RadiationSuits2.StepDesc>
-
-  <NuclearResearch1.StepLabel>原子力を研究する (知力 7)</NuclearResearch1.StepLabel>
-  <NuclearResearch1.StepDesc>自分の原子炉を作る前に、研究員にそのデザインと仕組みを調べさせよう</NuclearResearch1.StepDesc>
-
-  <NuclearResearch2.StepLabel>部品を評価する (工芸 10)</NuclearResearch2.StepLabel>
-  <NuclearResearch2.StepDesc>工芸家に、入手できる資源から原子炉の部品を作るための設計をさせよう</NuclearResearch2.StepDesc>
-
-  <NuclearResearch3.StepLabel>設計図を調べる (建築 10)</NuclearResearch3.StepLabel>
-  <NuclearResearch3.StepDesc>建築家に実験炉の設計を固めさせよう</NuclearResearch3.StepDesc>
-
-  <NuclearResearch4.StepLabel>試験炉を作る</NuclearResearch4.StepLabel>
-  <NuclearResearch4.StepDesc>リムアトミクス研究端末の近くに実験炉を作ろう</NuclearResearch4.StepDesc>
-
-  <NuclearResearch5.StepLabel>研究と訓練 (知力 7)</NuclearResearch5.StepLabel>
-  <NuclearResearch5.StepDesc>原子炉制御ソフトウェアをインストールし、訓練しながら実験炉の機能を試そう</NuclearResearch5.StepDesc>
-
-
-  <!-- /////////////////////////////////////////////////////// -->
-
-  <NuclearReactor1.StepLabel>原子力を研究する (知力 7)</NuclearReactor1.StepLabel>
-  <NuclearReactor1.StepDesc>自分の原子炉を作るためには、まず研究員に原子炉施設のデザインと仕組みを調べさせよう</NuclearReactor1.StepDesc>
-
-  <NuclearReactor2.StepLabel>部品を評価する (工芸 10)</NuclearReactor2.StepLabel>
-  <NuclearReactor2.StepDesc>工芸家に、入手できる資源から原子炉施設に必要な部品を作るための設計をさせよう</NuclearReactor2.StepDesc>
-
-  <NuclearReactor3.StepLabel>設計図を調べる (建築 10)</NuclearReactor3.StepLabel>
-  <NuclearReactor3.StepDesc>建築家に原子炉施設の設計を固めさせよう</NuclearReactor3.StepDesc>
-
-  <NuclearReactor4.StepLabel>冷却装置を作る</NuclearReactor4.StepLabel>
-  <NuclearReactor4.StepDesc>冷却装置を一つ作ろう。水冷は大きな水域が必要で、冷却塔は広い室外の場所が必要だ。ラジエーターの冷却効果はわずかだが、室内の熱源として使える</NuclearReactor4.StepDesc>
-
-  <NuclearReactor5.StepLabel>タービンを作る</NuclearReactor5.StepLabel>
-  <NuclearReactor5.StepDesc>タービンを作るためには数多くのタービン翼をリムアトミクス工作台で作る必要がある</NuclearReactor5.StepDesc>
-
-  <NuclearReactor6.StepLabel>冷却装置とタービンを繋げる</NuclearReactor6.StepLabel>
-  <NuclearReactor6.StepDesc>冷却パイプで冷却装置とタービンを繋げよう</NuclearReactor6.StepDesc>
-
-  <NuclearReactor7.StepLabel>原子炉を作る</NuclearReactor7.StepLabel>
-  <NuclearReactor7.StepDesc>炉心コンポーネントはリムアトミクス工作台で作れる。燃料移送の時に発生しかねない放射線から入植者を守るためには、炉心を個別の部屋に作ろう。最後に原子炉とタービンを冷水パイプと蒸気パイプで繋げよう</NuclearReactor7.StepDesc>
-
-  <NuclearReactor8.StepLabel>変圧器を作る</NuclearReactor8.StepLabel>
-  <NuclearReactor8.StepDesc>変圧器ができたらタービンと高電圧線で繋げよう。タービンの電気出力が変圧器の向こうで使われている電気の1.5倍を超えていれば、過電圧爆発が発生する危険があるので、注意しよう</NuclearReactor8.StepDesc>
-
-  <NuclearReactor9.StepLabel>原子炉の制御卓を作る</NuclearReactor9.StepLabel>
-  <NuclearReactor9.StepDesc>原子炉の制御卓は炉心とパラレルケーブルで繋げよう。制御卓は炉心と一台ペアリングできるし、パラレルケーブルを共有できる。研究員を操作卓に送れば、ペアリングした炉心の管理画面が開く。また、監視画面は同時に複数開ける。</NuclearReactor9.StepDesc>
-
-  <NuclearReactor10.StepLabel>原子炉を試す</NuclearReactor10.StepLabel>
-  <NuclearReactor10.StepDesc>核燃料棒を作りまたは購入し、装荷するスロットを管理画面で選択しよう。少なくとも2本の燃料棒を隣接して装荷したら、管理画面で炉心を起動し、中性子束を100%まで上げ、機能をテストしよう</NuclearReactor10.StepDesc>
-
-  <Plutonium1.StepLabel>プルトニウム加工を研究する (知力14)</Plutonium1.StepLabel>
-  <Plutonium1.StepDesc>プルトニウム加工機を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Plutonium1.StepDesc>
-
-  <Plutonium2.StepLabel>部品を評価する (工芸 16)</Plutonium2.StepLabel>
-  <Plutonium2.StepDesc>工芸家に、入手できる資源から必要な部品を作る方法を調べさせよう</Plutonium2.StepDesc>
-
-  <Plutonium3.StepLabel>設計図を調べる (建築 16)</Plutonium3.StepLabel>
-  <Plutonium3.StepDesc>建築家に、入手できる道具で加工機が作れる設計を固めさせよう</Plutonium3.StepDesc>
-
-  <Plutonium4.StepLabel>プルトニウム加工機を作る</Plutonium4.StepLabel>
-  <Plutonium4.StepDesc>プルトニウムを加工している際は放射線を浴びることがよくある。放射性物質への暴露を予防できるように、加工機は炉心か貯蔵プールの近くに作るのがおすすめ。また、担当者には放射線防護服を着させよう</Plutonium4.StepDesc>
-
-  <AdvReactor1.StepLabel>原子力を研究する (知力 7)</AdvReactor1.StepLabel>
-  <AdvReactor1.StepDesc>高度な増殖炉を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</AdvReactor1.StepDesc>
-
-  <AdvReactor2.StepLabel>部品を評価する (工芸 10)</AdvReactor2.StepLabel>
-  <AdvReactor2.StepDesc>工芸家に、入手できる資源から増殖炉に必要な部品を作るための設計をさせよう</AdvReactor2.StepDesc>
-
-  <AdvReactor3.StepLabel>設計図を調べる (建築 10)</AdvReactor3.StepLabel>
-  <AdvReactor3.StepDesc>建築家に、入手できる道具で増殖炉が作れる設計を固めさせよう</AdvReactor3.StepDesc>
-
-  <AdvReactor4.StepLabel>原子炉を試す</AdvReactor4.StepLabel>
-  <AdvReactor4.StepDesc>タイプ「X」又はタイプ「V」の原子炉を起動し、発電させてデータを集めよう</AdvReactor4.StepDesc>
-
-  <RTG1.StepLabel>放射性同位元素熱電発電機を研究する (知力11)</RTG1.StepLabel>
-  <RTG1.StepDesc>放射性同位元素熱電発電機 (以後Radioisotope Thermoelectric GeneratorでRTG)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RTG1.StepDesc>
-
-  <RTG2.StepLabel>部品を評価する (工芸 15)</RTG2.StepLabel>
-  <RTG2.StepDesc>工芸家に、入手できる資源からRTGに必要な部品を作るための設計をさせよう</RTG2.StepDesc>
-
-  <RTG3.StepLabel>設計図を調べる (建築 15)</RTG3.StepLabel>
-  <RTG3.StepDesc>建築家に、入手できる道具でRTGが作れる設計を固めさせよう</RTG3.StepDesc>
-
   <ICBM1.StepLabel>核兵器を研究する (知力 15)</ICBM1.StepLabel>
   <ICBM1.StepDesc>核兵器を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ICBM1.StepDesc>
 
@@ -242,6 +144,5 @@
 
   <Marauder5.StepLabel>データを集める</Marauder5.StepLabel>
   <Marauder5.StepDesc>データを集めるために生物に向けて試射しよう</Marauder5.StepDesc>
-
 
 </LanguageData>
