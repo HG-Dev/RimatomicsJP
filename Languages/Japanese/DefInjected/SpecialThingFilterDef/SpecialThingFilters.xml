@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearFuelCracked.label>破損燃料を許可</NuclearFuelCracked.label>
+  <NuclearFuelCracked.description>ここでダメージを受けた燃料の貯蔵を許可する。</NuclearFuelCracked.description>
+
+  <NuclearFuelNotCracked.label>破損していない燃料を許可</NuclearFuelNotCracked.label>
+  <NuclearFuelNotCracked.description>ここでダメージを受けていない燃料の貯蔵を許可する。</NuclearFuelNotCracked.description>
+
+  <NuclearFuelProcessable.label>再処理できる燃料を許可</NuclearFuelProcessable.label>
+  <NuclearFuelProcessable.description>ここで再処理できる燃料の貯蔵を許可する。</NuclearFuelProcessable.description>
+
+  <NuclearFuelNotProcessable.label>再処理できない燃料を許可</NuclearFuelNotProcessable.label>
+  <NuclearFuelNotProcessable.description>ここで再処理できない燃料の貯蔵を許可する。</NuclearFuelNotProcessable.description>
+
+</LanguageData>

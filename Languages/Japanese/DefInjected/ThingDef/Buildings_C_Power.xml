@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RimatomicsRTG.label>同位元素発電機</RimatomicsRTG.label>
+  <RimatomicsRTG.label>同位元素 熱電発電機</RimatomicsRTG.label>
   <RimatomicsRTG.description>放射性同位元素熱電発電機。適正ある放射性物質の崩壊熱を熱電対の配列で電気に変える発電機。</RimatomicsRTG.description>
 
   <ReactorCoreA.label>原子炉 (A型)</ReactorCoreA.label>

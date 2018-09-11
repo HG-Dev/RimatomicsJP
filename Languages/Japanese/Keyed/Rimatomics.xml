@@ -69,7 +69,7 @@
   <MissileRangeBad>目標が射程外</MissileRangeBad>
   <MissileTargetInvalid>無効なミサイル目標</MissileTargetInvalid>
   <EnergyWeaponNeedsMannedConsole>有人の武器管制システムが必要</EnergyWeaponNeedsMannedConsole>
-  <EnergyWeaponNeedConsole>繋がった武器管制システムが必要</EnergyWeaponNeedConsole>
+  <EnergyWeaponNeedConsole>武器管制システムが必要</EnergyWeaponNeedConsole>
   <MissingPPC>PPC電池が必要</MissingPPC>
   <PulseSize>電気パルス: {0} Wd</PulseSize>
   <critCommandFireMission>個別射撃任務</critCommandFireMission>
