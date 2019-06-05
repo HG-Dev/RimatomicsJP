@@ -93,6 +93,9 @@
   <TestFireHELSOnOwnShells>実験として自分の砲弾も撃ち落とす</TestFireHELSOnOwnShells>
   <OpenRadar>目標捕捉システムの監視画面を開く</OpenRadar>
   <NoSabotToExtract>取り除くサボット弾がありません</NoSabotToExtract>
+  <CancelICBMLaunch>発射中止</CancelICBMLaunch>
+  <CancelICBMLaunchDesc>発射中止</CancelICBMLaunchDesc>
+  <ICBMLaunchCancelled>ミサイルの発射は中止されました</ICBMLaunchCancelled>
   
   <!--REACTOR BUILDINGS-->
   <ReactorUptime>稼働時間: {0}</ReactorUptime>
@@ -144,6 +147,10 @@
   <New>新しい</New>
   <Remove>出す</Remove>
   <Store>保管</Store>
+  <UnsafeFacility>不安全な施設</UnsafeFacility>
+  <FacilityNoPower>電力なし</FacilityNoPower>
+  <NoActiveBenchWithProject>必須プロジェクトを開いた研究端末がありません</NoActiveBenchWithProject>
+  <NoStandableCell>ここでは配置できません</NoStandableCell>
 
 
 
@@ -195,6 +202,9 @@
   <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
   <StartProject>プロジェクト開始</StartProject>
   <StopProject>プロジェクト停止</StopProject>
+  <ProjectTerminated>プロジェクトは中止されました</ProjectTerminated>
+  <NoBenchAvailable>リムアトミクス研究端末がありません</NoBenchAvailable>
+  <ResearchPurchased>研究データを購入しました!</ResearchPurchased>
 
   <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
   <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>

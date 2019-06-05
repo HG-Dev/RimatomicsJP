@@ -49,7 +49,7 @@
   <Make_Apparel_MoppMaskWoodland.description>戦闘即応態勢を維持できる放射線防護用マスクを作ります。</Make_Apparel_MoppMaskWoodland.description>
   <Make_Apparel_MoppMaskWoodland.jobString>MOPPマスクを作っている</Make_Apparel_MoppMaskWoodland.jobString>
 
-  <Make_Apparel_MoppMaskSnow.label>MOPPマスク (雪上)を作る</Make_Apparel_MoppMaskSnow.label>
+  <Make_Apparel_MoppMaskSnow.label>MOPPマスク (雪)を作る</Make_Apparel_MoppMaskSnow.label>
   <Make_Apparel_MoppMaskSnow.description>戦闘即応態勢を維持できる放射線防護用マスクを作ります。</Make_Apparel_MoppMaskSnow.description>
   <Make_Apparel_MoppMaskSnow.jobString>MOPPマスクを作っている</Make_Apparel_MoppMaskSnow.jobString>
 
@@ -65,7 +65,7 @@
   <Make_Apparel_MoppSuitWoodland.description>戦闘即応態勢を維持できる放射線防護服を作ります。</Make_Apparel_MoppSuitWoodland.description>
   <Make_Apparel_MoppSuitWoodland.jobString>MOPPスーツを作っている</Make_Apparel_MoppSuitWoodland.jobString>
 
-  <Make_Apparel_MoppSuitSnow.label>MOPPスーツ (雪上)を作る</Make_Apparel_MoppSuitSnow.label>
+  <Make_Apparel_MoppSuitSnow.label>MOPPスーツ (雪)を作る</Make_Apparel_MoppSuitSnow.label>
   <Make_Apparel_MoppSuitSnow.description>戦闘即応態勢を維持できる放射線防護服を作ります。</Make_Apparel_MoppSuitSnow.description>
   <Make_Apparel_MoppSuitSnow.jobString>MOPPスーツを作っている</Make_Apparel_MoppSuitSnow.jobString>
 
