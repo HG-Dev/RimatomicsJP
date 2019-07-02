@@ -49,5 +49,9 @@
   <RimatomicsResearch.verb>で研究</RimatomicsResearch.verb>
   <RimatomicsResearch.gerund>で研究</RimatomicsResearch.gerund>
 
+  <RimatomicsSuperviseResearch.label>研究管理</RimatomicsSuperviseResearch.label>
+  <RimatomicsSuperviseResearch.verb>で研究を管理する</RimatomicsSuperviseResearch.verb>
+  <RimatomicsSuperviseResearch.gerund>で研究の管理</RimatomicsSuperviseResearch.gerund>
+
 
 </LanguageData>

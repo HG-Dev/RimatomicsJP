@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <FlashBlindness.label>フラッシュ失明</FlashBlindness.label>
+  <FlashBlindness.labelNoun>フラッシュ失明</FlashBlindness.labelNoun>
+
   <RectalCoring.label>プローブの跡</RectalCoring.label>
   <RectalCoring.stages.0.label>極度</RectalCoring.stages.0.label>
 

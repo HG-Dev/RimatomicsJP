@@ -2,6 +2,8 @@
 <LanguageData>
 
   <RimatomicsResearch.reportString>TargetAで研究中</RimatomicsResearch.reportString>
+  <SuperviseConstruction.reportString>TargetAを組み立て中</SuperviseConstruction.reportString>
+  <SuperviseResearch.reportString>TargetAで研究中</SuperviseResearch.reportString>
   <UpgradeBuilding.reportString>TargetAをアップグレード中</UpgradeBuilding.reportString>
   <FleeADS.reportString>TargetAから逃げている</FleeADS.reportString>
   <LoadRailgunMagazine.reportString>レールガンのマガジンを装填中</LoadRailgunMagazine.reportString>

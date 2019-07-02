@@ -3,5 +3,7 @@
 
   <FuelBurnRate.label>燃料消費の速度</FuelBurnRate.label>
   <FuelBurnRate.options.0.label>チート</FuelBurnRate.options.0.label>
+  <PulseSizeScaling.label>パルス電力消費</PulseSizeScaling.label>
+  <PulseSizeScaling.options.0.label>チート</PulseSizeScaling.options.0.label>
 
 </LanguageData>

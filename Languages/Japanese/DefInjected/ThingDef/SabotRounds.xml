@@ -17,5 +17,7 @@
 
   <Bullet_Sabot_DU.label>サボット弾 (ウラン)</Bullet_Sabot_DU.label>
 
+  <SabotRoundIncoming.label>飛来中のサボット弾</SabotRoundIncoming.label>
+  <DUSabotRoundIncoming.label>飛来中のウランサボット弾</DUSabotRoundIncoming.label>
 
 </LanguageData>

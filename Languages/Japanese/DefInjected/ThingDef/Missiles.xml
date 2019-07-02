@@ -11,6 +11,8 @@
   <FissionWarhead.description>核分裂から恐ろしい破壊力を得る爆破装置。</FissionWarhead.description>
 
   <ICBM_Fission.label>ミサイル</ICBM_Fission.label>
-
-
+  <NuclearWarheadIncoming.label>核ミサイルが接近中</NuclearWarheadIncoming.label>
+  <SCUDIncoming.label>ミサイルが接近中</SCUDIncoming.label>
+  <CHEMSCUDIncoming.label>ミサイルが接近中</CHEMSCUDIncoming.label>
+  <ICBMStrike.label>ミサイル攻撃</ICBMStrike.label>
 </LanguageData>

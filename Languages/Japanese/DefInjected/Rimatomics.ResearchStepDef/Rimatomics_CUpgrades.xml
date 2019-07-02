@@ -55,6 +55,15 @@
 
   <!-- /////////////////////////////////////////////////////// -->
 
+  <ThreatDetection1.label>目標捕捉の技術を研究する (知力8)</ThreatDetection1.label>
+  <ThreatDetection1.description>研究員に目標捕捉システムで行うテストを計画させよう</ThreatDetection1.description>
+
+  <ThreatDetection2.label>襲撃データを集める</ThreatDetection2.label>
+  <ThreatDetection2.description>襲撃からデータを集める。敵対勢力が周辺に到着する際、勢力のサイズとベクトルはセンサーの記録に比較され、分析から予測モデルが構築される</ThreatDetection2.description>
+
+  <ThreatDetection3.label>目標捕捉の技術を研究する (知力8)</ThreatDetection3.label>
+  <ThreatDetection3.description>研究員にデータの分析とアップグレードの設計をさせよう</ThreatDetection3.description>
+
   <GuidenceSystem1.StepLabel>誘導システムを研究する (知力12)</GuidenceSystem1.StepLabel>
   <GuidenceSystem1.StepDesc>研究員にミサイルで行うテストを計画させよう</GuidenceSystem1.StepDesc>
 
@@ -111,6 +120,9 @@
 
   <SCADS4.StepLabel>実戦テストのデータを集めよう</SCADS4.StepLabel>
   <SCADS4.StepDesc>シールドを導入したエネルギー兵器を任意の目標に向けて撃ち、データを集めよう </SCADS4.StepDesc>
+
+      <ResearchDesc>The Advanced Threat Detection module (ATOM) is an upgrade module for the TACS, when installed it it significantly increases the power usage increasing its range and scanning power, and making it possible to detect threats at much greater distances, acting as an early warning system for potential attacks. Airborne attacks will leave little room for warning, and smaller groups of ground units will be hard to detect, but large ground based fighting forces will be easily detected. False positives may be possible when using the system.</ResearchDesc>
+    <ResearchDescDisc>You can now produce ATOM modules at the Rimatomics machining table, to install them select a TACS and toggle the ATOM button\n\nThe ATOM module must be manually installed in each new TACS</ResearchDescDisc>
 
   <DriveActuator1.StepLabel>サーボモータを研究する (知力10)</DriveActuator1.StepLabel>
   <DriveActuator1.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</DriveActuator1.StepDesc>

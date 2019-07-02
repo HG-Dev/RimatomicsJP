@@ -93,6 +93,14 @@
   <Make_NeutronReflectors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_NeutronReflectors.description>
   <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>
 
+  <Make_ATOM.label>モジュールを作る</Make_ATOM.label>
+  <Make_ATOM.description></Make_ATOM.description>
+  <Make_ATOM.jobString></Make_ATOM.jobString>
+
+  <Make_SCAD.label>シールドモジュールを作る</Make_SCAD.label>
+  <Make_SCAD.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_SCAD.description>
+  <Make_SCAD.jobString>シールドモジュールを作っている</Make_SCAD.jobString>
+
   <Make_MEPS.label>電力増幅モジュールを作る</Make_MEPS.label>
   <Make_MEPS.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_MEPS.description>
   <Make_MEPS.jobString>電力増幅モジュールを作っている</Make_MEPS.jobString>
