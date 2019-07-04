@@ -41,7 +41,7 @@
 
   <!-- オロチ -->
   <Marauder.ResearchLabel>電磁プラズマ砲</Marauder.ResearchLabel>
-  <Marauder.ResearchDesc>電磁プラズマ砲は電磁誘導により複数の同軸銃身からプラズマの環状体を加速して遠距離の目標を爆撃し、強い放射能にさらせます。</Railgun.ResearchDesc>
+  <Marauder.ResearchDesc>電磁プラズマ砲は電磁誘導により複数の同軸銃身からプラズマの環状体を加速して遠距離の目標を爆撃し、強い放射能にさらせます。</Marauder.ResearchDesc>
   <Marauder.ResearchDescDisc>電磁プラズマ砲を自由に建てられます。既存の電磁プラズマ砲は最大出力で稼働しています。</Marauder.ResearchDescDisc>
 
 </LanguageData>

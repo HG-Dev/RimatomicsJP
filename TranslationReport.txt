@@ -1,0 +1,1034 @@
+Translation report for Japanese
+
+========== General load errors (0) ==========
+
+========== Def-injected translations load errors (441) ==========
+Exception loading translation data from file Damages_LocalInjury.xml: System.Xml.XmlException: 'ArcDischarge.label' is expected file:///C:/Program Files (x86)/Steam/steamapps/common/RimWorld/Mods/RimatomicsJP/Languages/Japanese/DefInjected/DamageDef/Damages_LocalInjury.xml Line 7, position 31.
+  at Mono.Xml2.XmlTextReader.Expect (System.String expected) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadEndTag () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadContent () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at Mono.Xml.XmlFilterReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XNode.ReadFrom (System.Xml.XmlReader r, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XContainer.ReadContentFrom (System.Xml.XmlReader reader, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XElement.LoadCore (System.Xml.XmlReader r, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XNode.ReadFrom (System.Xml.XmlReader r, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XContainer.ReadContentFrom (System.Xml.XmlReader reader, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XElement.LoadCore (System.Xml.XmlReader r, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XNode.ReadFrom (System.Xml.XmlReader r, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XContainer.ReadContentFrom (System.Xml.XmlReader reader, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XDocument.ReadContent (System.Xml.XmlReader reader, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XDocument.LoadCore (System.Xml.XmlReader reader, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XDocument.Load (System.String uri, LoadOptions options) [0x00000] in <filename unknown>:0 
+  at System.Xml.Linq.XDocument.Load (System.String uri) [0x00000] in <filename unknown>:0 
+  at Verse.DefInjectionPackage.AddDataFromFile (System.IO.FileInfo file, System.Boolean& xmlParseError) [0x00000] in <filename unknown>:0 
+Found no RimWorld.IncidentDef named SteamBurst to match SteamBurst.label (Incidents_Rimatomics.xml)
+Found no RimWorld.IncidentDef named SteamBurst to match SteamBurst.letterText (Incidents_Rimatomics.xml)
+Found no RimWorld.IncidentDef named SteamBurst to match SteamBurst.letterLabel (Incidents_Rimatomics.xml)
+Found no Verse.JobDef named RepairCore to match RepairCore.reportString (Jobs_Work.xml)
+Found no Verse.RecipeDef named Make_ReactorComponents to match Make_ReactorComponents.label (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorComponents to match Make_ReactorComponents.description (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorComponents to match Make_ReactorComponents.jobString (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorConductors to match Make_ReactorConductors.label (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorConductors to match Make_ReactorConductors.description (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorConductors to match Make_ReactorConductors.jobString (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorShielding to match Make_ReactorShielding.label (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorShielding to match Make_ReactorShielding.description (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_ReactorShielding to match Make_ReactorShielding.jobString (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_NeutronReflectors to match Make_NeutronReflectors.label (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_NeutronReflectors to match Make_NeutronReflectors.description (Recipes_Add_Make.xml)
+Found no Verse.RecipeDef named Make_NeutronReflectors to match Make_NeutronReflectors.jobString (Recipes_Add_Make.xml)
+Couldn't inject RimatomicsActivate.descriptionDiscovered into Verse.ResearchProjectDef (ResearchProjects_RimatomicsActivate.xml): Field descriptionDiscovered does not exist in type Verse.ResearchProjectDef.
+Couldn't inject RimatomicsActivate.descriptionDiscovered into Verse.ResearchProjectDef (ResearchProjects_RimatomicsActivate.xml): Field descriptionDiscovered does not exist in type Verse.ResearchProjectDef.
+Found no Verse.ThingCategoryDef named Nuclear to match Nuclear.label (ThingCategories.xml)
+Found no Verse.ThingDef named CrashedRadioactiveShipPart to match CrashedRadioactiveShipPart.label (Buildings_D_Env.xml)
+Found no Verse.ThingDef named CrashedRadioactiveShipPart to match CrashedRadioactiveShipPart.description (Buildings_D_Env.xml)
+Found no Verse.ThingDef named ReactorComponents to match ReactorComponents.label (Nuclear.xml)
+Found no Verse.ThingDef named ReactorComponents to match ReactorComponents.description (Nuclear.xml)
+Found no Verse.ThingDef named ReactorConductors to match ReactorConductors.label (UpgradeParts.xml)
+Found no Verse.ThingDef named ReactorConductors to match ReactorConductors.description (UpgradeParts.xml)
+Found no Verse.ThingDef named ReactorShielding to match ReactorShielding.label (UpgradeParts.xml)
+Found no Verse.ThingDef named ReactorShielding to match ReactorShielding.description (UpgradeParts.xml)
+Found no Verse.ThingDef named NeutronReflectors to match NeutronReflectors.label (UpgradeParts.xml)
+Found no Verse.ThingDef named NeutronReflectors to match NeutronReflectors.description (UpgradeParts.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorConductors to match ResearchReactorConductors.ResearchLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorConductors to match ResearchReactorConductors.ResearchDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorConductors to match ResearchReactorConductors.ResearchDescDisc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchNeutronReflectors to match ResearchNeutronReflectors.ResearchLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchNeutronReflectors to match ResearchNeutronReflectors.ResearchDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchNeutronReflectors to match ResearchNeutronReflectors.ResearchDescDisc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorShielding to match ResearchReactorShielding.ResearchLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorShielding to match ResearchReactorShielding.ResearchDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.RimatomicResearchDef named ResearchReactorShielding to match ResearchReactorShielding.ResearchDescDisc (Rimatomics_CUpgrades.xml)
+Error loading DefInjection from file Rimatomics_CUpgrades.xml: Key lacks a dot: ResearchDesc (Rimatomics_CUpgrades.xml)
+Error loading DefInjection from file Rimatomics_CUpgrades.xml: Key lacks a dot: ResearchDescDisc (Rimatomics_CUpgrades.xml)
+Couldn't inject Geigercounter1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject NuclearResearch1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject NuclearResearch1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM6.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM6.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM7.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM7.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons6.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons6.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons7.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.TestForWeaponsConsole.
+Couldn't inject EnergyWeapons7.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.TestForWeaponsConsole.
+Couldn't inject ADS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Geigercounter2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RadiationSuits2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject NuclearResearch1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject NuclearResearch1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named NuclearResearch2 to match NuclearResearch2.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch2 to match NuclearResearch2.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch3 to match NuclearResearch3.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch3 to match NuclearResearch3.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch4 to match NuclearResearch4.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch4 to match NuclearResearch4.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch5 to match NuclearResearch5.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearResearch5 to match NuclearResearch5.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor1 to match NuclearReactor1.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor1 to match NuclearReactor1.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor2 to match NuclearReactor2.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor2 to match NuclearReactor2.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor3 to match NuclearReactor3.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor3 to match NuclearReactor3.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor4 to match NuclearReactor4.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor4 to match NuclearReactor4.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor5 to match NuclearReactor5.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor5 to match NuclearReactor5.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor6 to match NuclearReactor6.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor6 to match NuclearReactor6.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor7 to match NuclearReactor7.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor7 to match NuclearReactor7.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor8 to match NuclearReactor8.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor8 to match NuclearReactor8.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor9 to match NuclearReactor9.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor9 to match NuclearReactor9.StepDesc (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor10 to match NuclearReactor10.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named NuclearReactor10 to match NuclearReactor10.StepDesc (Rimatomics_APower.xml)
+Couldn't inject Plutonium1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Plutonium3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named Plutonium4 to match Plutonium4.StepLabel (Rimatomics_APower.xml)
+Found no Rimatomics.ResearchStepDef named Plutonium4 to match Plutonium4.StepDesc (Rimatomics_APower.xml)
+Couldn't inject AdvReactor1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject AdvReactor4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject RTG3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_APower.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM6.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM6.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM7.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ICBM7.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named EnergyWeapons2 to match EnergyWeapons2.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named EnergyWeapons2 to match EnergyWeapons2.StepDesc (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named EnergyWeapons3 to match EnergyWeapons3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named EnergyWeapons3 to match EnergyWeapons3.StepDesc (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named EnergyWeapons4 to match EnergyWeapons4.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named EnergyWeapons4 to match EnergyWeapons4.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject EnergyWeapons5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons6.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons6.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject EnergyWeapons7.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.TestForWeaponsConsole.
+Couldn't inject EnergyWeapons7.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.TestForWeaponsConsole.
+Couldn't inject ADS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named ADS3 to match ADS3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named ADS3 to match ADS3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject ADS4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ADS5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named TeslaCoil3 to match TeslaCoil3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named TeslaCoil3 to match TeslaCoil3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject TeslaCoil4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject TeslaCoil5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named HEL3 to match HEL3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named HEL3 to match HEL3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject HEL4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject HEL5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named Railgun3 to match Railgun3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named Railgun3 to match Railgun3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject Railgun4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named Obelisk3 to match Obelisk3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named Obelisk3 to match Obelisk3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject Obelisk4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Obelisk5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named Marauder3 to match Marauder3.StepLabel (Rimatomics_BWeapons.xml)
+Found no Rimatomics.ResearchStepDef named Marauder3 to match Marauder3.StepDesc (Rimatomics_BWeapons.xml)
+Couldn't inject Marauder4.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder4.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder5.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Marauder5.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_BWeapons.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named ReactorConductors1 to match ReactorConductors1.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors1 to match ReactorConductors1.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors2 to match ReactorConductors2.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors2 to match ReactorConductors2.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors3 to match ReactorConductors3.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors3 to match ReactorConductors3.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors4 to match ReactorConductors4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors4 to match ReactorConductors4.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors5 to match ReactorConductors5.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorConductors5 to match ReactorConductors5.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors1 to match NeutronReflectors1.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors1 to match NeutronReflectors1.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors2 to match NeutronReflectors2.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors2 to match NeutronReflectors2.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors3 to match NeutronReflectors3.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors3 to match NeutronReflectors3.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors4 to match NeutronReflectors4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named NeutronReflectors4 to match NeutronReflectors4.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding1 to match ReactorShielding1.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding1 to match ReactorShielding1.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding2 to match ReactorShielding2.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding2 to match ReactorShielding2.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding3 to match ReactorShielding3.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding3 to match ReactorShielding3.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding4 to match ReactorShielding4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ReactorShielding4 to match ReactorShielding4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject ControlRodActuators1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ControlRodActuators3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named ControlRodActuators4 to match ControlRodActuators4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ControlRodActuators4 to match ControlRodActuators4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject GuidenceSystem1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject GuidenceSystem3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject MEPS3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named MEPS4 to match MEPS4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named MEPS4 to match MEPS4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject ALC1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ALC3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named ALC4 to match ALC4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ALC4 to match ALC4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject ERS1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject ERS3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named ERS4 to match ERS4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named ERS4 to match ERS4.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS1 to match SCADS1.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS1 to match SCADS1.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS2 to match SCADS2.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS2 to match SCADS2.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS3 to match SCADS3.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS3 to match SCADS3.StepDesc (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS4 to match SCADS4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named SCADS4 to match SCADS4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject DriveActuator1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject DriveActuator2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject Railgun_TargetingChip3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named Railgun_TargetingChip4 to match Railgun_TargetingChip4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named Railgun_TargetingChip4 to match Railgun_TargetingChip4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject LenseModule1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject LenseModule3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named LenseModule4 to match LenseModule4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named LenseModule4 to match LenseModule4.StepDesc (Rimatomics_CUpgrades.xml)
+Couldn't inject BeamSplitter1.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter1.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter2.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter2.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter3.StepLabel into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepLabel does not exist in type Rimatomics.ResearchStepDef.
+Couldn't inject BeamSplitter3.StepDesc into Rimatomics.ResearchStepDef (Rimatomics_CUpgrades.xml): Field StepDesc does not exist in type Rimatomics.ResearchStepDef.
+Found no Rimatomics.ResearchStepDef named BeamSplitter4 to match BeamSplitter4.StepLabel (Rimatomics_CUpgrades.xml)
+Found no Rimatomics.ResearchStepDef named BeamSplitter4 to match BeamSplitter4.StepDesc (Rimatomics_CUpgrades.xml)
+
+========== Backstories load errors (0) ==========
+
+========== Missing keyed translations (29) ==========
+HugsLib_logs_useRecommendedSettings 'Use recommended settings' (English file: English.xml:47)
+HugsLib_logs_shortUrls 'Use URL shortener' (English file: English.xml:48)
+HugsLib_logs_shortUrls_tip 'Produces a shorter link when uploading. Not recommended on Steam- short links are automatically removed.' (English file: English.xml:49)
+HugsLib_logs_platformInfo 'Include platform information' (English file: English.xml:50)
+HugsLib_logs_platformInfo_tip 'Includes information about your CPU, memory and video card in the log.' (English file: English.xml:51)
+HugsLib_logs_unlimitedLogSize 'Allow unlimited log size' (English file: English.xml:52)
+HugsLib_logs_unlimitedLogSize_tip 'When disabled, log size is limited to 10K lines to prevent very long logs from causing issues.' (English file: English.xml:53)
+HugsLib_logs_toClipboardBtn 'To clipboard' (English file: English.xml:54)
+HugsLib_logs_uploadBtn 'Upload' (English file: English.xml:55)
+PodsScrambledOK 'Enemy drop pods scrambled by TACS' (English file: Rimatomics.xml:26)
+PodsScrambledDesc 'The enemy drop pod guidance systems were scrambled by the TACS using a {0}kw pulse' (English file: Rimatomics.xml:27)
+PodsScrambledFail 'Failed to scramble enemy drop pods' (English file: Rimatomics.xml:28)
+PodsScrambledFailDesc 'The {0}kw pulse required to scramble this raid was not available' (English file: Rimatomics.xml:29)
+ScrambleDropPods 'Scramble Drop Pods' (English file: Rimatomics.xml:30)
+ScrambleDropPodsDesc 'Prevent raiders landing in the center of the map by using a large pulse of energy from connected PPC's to scramble the guidance systems of incoming drop pods' (English file: Rimatomics.xml:31)
+VeteranBonus '  Bonus: Cooldown -{0}%' (English file: Rimatomics.xml:68)
+AnUnknownForce 'an unknown force' (English file: Rimatomics.xml:69)
+ATOMattackGround 'via land' (English file: Rimatomics.xml:70)
+ATOMattackPods 'via drop pods' (English file: Rimatomics.xml:71)
+ATOMdetection 'Threat Detected!' (English file: Rimatomics.xml:72)
+ATOMdetectionDesc 'The TACS has detected a possible threat, it is estimated that {0} will attack {1} in approximately {2}' (English file: Rimatomics.xml:73)
+ScadLivesMatter 'SCAD HP: {0}' (English file: Rimatomics.xml:74)
+SiloMissingPart 'Requires part: {0}' (English file: Rimatomics.xml:96)
+ControlRod 'Control Rods' (English file: Rimatomics.xml:126)
+critControlRod 'Control Rods' (English file: Rimatomics.xml:155)
+critTargetRod 'Control Rods To' (English file: Rimatomics.xml:156)
+NonBlueprintUpgrade '' (English file: Rimatomics.xml:199)
+BlueprintUpgradeDesc 'This is a blueprint upgrade, new constructions will have this upgrade built in as standard, existing buildings will need to be manually upgraded using the crafted module' (English file: Rimatomics.xml:200)
+ProjectInitiated 'Project initiated' (English file: Rimatomics.xml:252)
+
+========== Def-injected translations missing (401) ==========
+DamageDef: CoreBlast.label 'CoreBlast'
+DamageDef: CoreBlast.deathMessage '{0} has died in an explosion.'
+DamageDef: ArcDischarge.label 'Arc Discharge'
+DamageDef: ArcDischarge.deathMessage '{0} has burned to a crisp.'
+DamageDef: LaserDischarge.label 'Laser Discharge'
+DamageDef: LaserDischarge.deathMessage '{0} has burned to a crisp.'
+DamageDef: Bomb_PlasmaToroid.label 'bomb'
+DamageDef: Bomb_PlasmaToroid.deathMessage '{0} has died in an explosion.'
+DamageDef: Bomb_Sabot.label 'bomb'
+DamageDef: Bomb_Sabot.deathMessage '{0} has died in an explosion.'
+DamageDef: Bomb_DUSabot.label 'bomb'
+DamageDef: Bomb_DUSabot.deathMessage '{0} has died in an explosion.'
+HistoryAutoRecorderGroupDef: Debug.label 'debug'
+ResearchProjectDef: RimatomicsActivate.discoveredLetterText 'You open a connection to the probe and a recorded message starts to play.\n\nSomeone with the slimy demeanour of a used bionics salesman claims to represent a trading faction known as "Rimatomics".\n\nAs he makes his sales pitch, gigabits of data begins flooding into the console. He explains that he's sending blueprints to construct a Rimatomics research bench, which you can use to purchase plans for some of their technology or request trade ships.\n\nCheck the Rimatomics tab in the architect menu.'
+ResearchProjectDef: RimatomicsActivate.discoveredLetterTitle 'Rimatomics Unlocked!'
+ThingCategoryDef: BuildingsNuclear.label 'nuclear'
+ThingDef: Mote_SparkThrown.label 'Mote'
+ThingDef: Mote_SparkThrownFast.label 'Mote'
+ThingDef: Mote_LongSparkThrown.label 'Mote'
+ThingDef: Mote_Splash.label 'Mote'
+ThingDef: Mote_SmokeJoint.label 'Mote'
+ThingDef: Mote_SmokeFlake.label 'Mote'
+ThingDef: Mote_ExtinguisherPuff.label 'Mote'
+ThingDef: Mote_FeedbackGoto.label 'Mote'
+ThingDef: Mote_FeedbackShoot.label 'Mote'
+ThingDef: Mote_FeedbackMelee.label 'Mote'
+ThingDef: Mote_FeedbackEquip.label 'Mote'
+ThingDef: Mote_FeedbackExtinguish.label 'Mote'
+ThingDef: Mote_Clean.label 'Mote'
+ThingDef: Mote_Sow.label 'Mote'
+ThingDef: Mote_Harvest.label 'Mote'
+ThingDef: Mote_ClearSnow.label 'Mote'
+ThingDef: Mote_Cards.label 'Mote'
+ThingDef: Mote_HealingCross.label 'Mote'
+ThingDef: Mote_SleepZ.label 'Mote'
+ThingDef: Mote_Heart.label 'Mote'
+ThingDef: Mote_IncapIcon.label 'Mote'
+ThingDef: Mote_Stun.label 'Mote'
+ThingDef: Mote_ColonistFleeing.label 'Mote'
+ThingDef: Mote_ColonistAttacking.label 'Mote'
+ThingDef: Mote_DrunkBubble.label 'Mote'
+ThingDef: Mote_BerserkBit.label 'Mote'
+ThingDef: Mote_Speech.label 'Mote'
+ThingDef: Mote_Thought.label 'Mote'
+ThingDef: Mote_ThoughtGood.label 'Mote'
+ThingDef: Mote_ThoughtBad.label 'Mote'
+ThingDef: Mote_Text.label 'Mote'
+ThingDef: Mote_ProgressBar.label 'Mote'
+ThingDef: Mote_Footprint.label 'Mote'
+ThingDef: Mote_Horseshoe.label 'Mote'
+ThingDef: Mote_Stone.label 'Mote'
+ThingDef: Mote_TempRoof.label 'Mote'
+ThingDef: Mote_ShotFlash.label 'Mote'
+ThingDef: Mote_SparkFlash.label 'Mote'
+ThingDef: Mote_YellowSparkFlash.label 'Mote'
+ThingDef: Mote_ExplosionFlash.label 'Mote'
+ThingDef: Mote_ShotHit_Spark.label 'Mote'
+ThingDef: Mote_ShotHit_Dirt.label 'Mote'
+ThingDef: Mote_Leaf.label 'Mote'
+ThingDef: Mote_SandInEyes.label 'Mote'
+ThingDef: Mote_BlastDry.label 'Mote'
+ThingDef: Mote_BlastEMP.label 'Mote'
+ThingDef: Mote_BlastFlame.label 'Mote'
+ThingDef: Mote_ElectricalSpark.label 'Mote'
+ThingDef: Mote_BlastExtinguisher.label 'Mote'
+ThingDef: Mote_FireGlow.label 'Mote'
+ThingDef: Mote_MicroSparks.label 'Mote'
+ThingDef: Mote_MicroSparksFast.label 'Mote'
+ThingDef: Mote_HeatGlow.label 'Mote'
+ThingDef: Mote_LightningGlow.label 'Mote'
+ThingDef: Mote_FoodBitVegetarian.label 'Mote'
+ThingDef: Mote_FoodBitMeat.label 'Mote'
+ThingDef: Mote_StoneBit.label 'Mote'
+ThingDef: Mote_CookBit.label 'Mote'
+ThingDef: Mote_VomitBit.label 'Mote'
+ThingDef: Mote_AirPuff.label 'Mote'
+ThingDef: Mote_DustPuff.label 'Mote'
+ThingDef: Mote_DustPuffThick.label 'Mote'
+ThingDef: Mote_MetaPuff.label 'Mote'
+ThingDef: Mote_TornadoDustPuff.label 'Mote'
+ThingDef: Mote_Smoke.label 'Mote'
+ThingDef: Mote_DustSlow.label 'Mote'
+ThingDef: Mote_Bombardment.label 'Mote'
+ThingDef: Mote_PowerBeam.label 'Mote'
+ThingDef: Mote_GiantExplosion.label 'Mote'
+ThingDef: Mote_GiantExplosionInner.label 'Mote'
+ThingDef: Mote_WaterSplash.label 'Mote'
+ThingDef: WoodLog.tools.log.label 'log'
+ThingDef: Mote_WeldSparkThrown.label 'Mote'
+ThingDef: Mote_MeltdownFlash.label 'Mote'
+ThingDef: Mote_FireGlowRocket.label 'Mote'
+ThingDef: Mote_SmokeRocket.label 'Mote'
+ThingDef: Mote_Upgraded.label 'Mote'
+ThingDef: Mote_NukeFlash.label 'Mote'
+ThingDef: Mote_NukeCloud.label 'Mote'
+ThingDef: Mote_ArcFlash.label 'Mote'
+ThingDef: Mote_Beam.label 'Mote'
+ThingDef: Mote_Gibb_A.label 'Mote'
+ThingDef: Mote_Gibb_B.label 'Mote'
+ThingDef: Mote_Gibb_C.label 'Mote'
+ThingDef: Mote_RailgunMuzzleFlash.label 'Mote'
+ThingDef: Mote_SiloFlash.label 'Mote'
+ThingDef: Mote_CoolingTowerSteamA.label 'Mote'
+ThingDef: Mote_CoolingTowerSteamB.label 'Mote'
+ThingDef: Mote_CoolingTowerSteamC.label 'Mote'
+ThingDef: RadarDish.comps.CompUpgradable.upgrades.0.stats.0 'Adds Threat Detection'
+ThingDef: PPCADS.label 'ADS'
+ThingDef: PPCADS.comps.CompUpgradable.upgrades.0.stats.0 'AOE +10'
+ThingDef: ADS_Dish.label 'ADS Dish'
+ThingDef: ADS_Dish.description 'ADS Dish.'
+ThingDef: PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0 'Damage +15%'
+ThingDef: PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1 'Range +10'
+ThingDef: PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2 'Pulse Size +15%'
+ThingDef: Tesla_Coil_Arc_Discharger.label 'Tesla Coil Arc Discharger'
+ThingDef: Tesla_Coil_Arc_Discharger.description 'Tesla Coil Arc Discharger.'
+ThingDef: PPCHEL.label 'HEL'
+ThingDef: PPCHEL.comps.CompUpgradable.upgrades.0.stats.0 'Shootdown time -50%'
+ThingDef: PPCHEL.comps.CompUpgradable.upgrades.0.stats.1 'Power +50%'
+ThingDef: HEL_Laser.label 'HEL Laser'
+ThingDef: HEL_Laser.description 'HEL Laser.'
+ThingDef: PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0 'Range +10 Tiles'
+ThingDef: PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1 'Pulse Size +15%'
+ThingDef: PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0 'Damage +15%'
+ThingDef: PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1 'Pulse Size +15%'
+ThingDef: Obelisk_Laser.label 'Obelisk Laser'
+ThingDef: Obelisk_Laser.description 'Obelisk Laser.'
+ThingDef: PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0 'Burst +10 shots'
+ThingDef: Marauder_Railgun.label 'Marauder Railgun'
+ThingDef: Marauder_Railgun.description 'Marauder Railgun.'
+ThingDef: Bullet_PlasmaToroid.label 'Plasma Toroid'
+ThingDef: ATOM.label 'ATOM'
+ThingDef: ATOM.description 'Upgrade module for TACS'
+ChemicalDef: Alcohol.label 'alcohol'
+ChemicalDef: Ambrosia.label 'ambrosia'
+ChemicalDef: GoJuice.label 'go-juice'
+ChemicalDef: Luciferium.label 'luciferium'
+ChemicalDef: Psychite.label 'psychite'
+ChemicalDef: Smokeleaf.label 'Smokeleaf'
+ChemicalDef: WakeUp.label 'wake-up'
+ExpectationDef: ExtremelyLow.label 'extremely low'
+ExpectationDef: VeryLow.label 'very low'
+ExpectationDef: Low.label 'low'
+ExpectationDef: Moderate.label 'moderate'
+ExpectationDef: High.label 'high'
+ExpectationDef: SkyHigh.label 'sky high'
+HairDef: Afro.label 'afro'
+HairDef: Bob.label 'bob'
+HairDef: Burgundy.label 'burgundy'
+HairDef: Flowy.label 'flowy'
+HairDef: Long.label 'long'
+HairDef: Mohawk.label 'mohawk'
+HairDef: Mop.label 'mop'
+HairDef: Pigtails.label 'pigtails'
+HairDef: Shaved.label 'shaved'
+HairDef: Spikes.label 'spikes'
+HairDef: Tuft.label 'tuft'
+HairDef: Wavy.label 'wavy'
+HairDef: BraidedKnot.label 'braided knot'
+HairDef: Topdog.label 'topdog'
+HairDef: Senorita.label 'senorita'
+HairDef: ScorpionTail.label 'scorpion tail'
+HairDef: BriefPonytail.label 'brief ponytail'
+HairDef: Troubadour.label 'troubadour'
+HairDef: Messy.label 'messy'
+HairDef: Princess.label 'princess'
+HairDef: Firestarter.label 'firestarter'
+HairDef: GreasySwoop.label 'greasy swoop'
+HairDef: Curly.label 'curly'
+HairDef: Scatman.label 'scatman'
+DubsModOptions: ReactorPipeVisibility.label 'Pipeline Visibility'
+DubsModOptions: ReactorPipeVisibility.options.1.label 'Hidden under floors'
+DubsModOptions: ReactorPipeVisibility.options.2.label 'Always visible'
+DubsModOptions: ReactorPipeVisibility.options.3.label 'Always visible pipe to ground'
+RimatomicsFailureDef: Failure_FacilityBreakdown.label 'Facility Breakdown'
+RimatomicsFailureDef: Failure_FacilityBreakdown.description 'The facility has broken down during research'
+RimatomicsFailureDef: Failure_RadiationLeak.label 'Radiation Leak'
+RimatomicsFailureDef: Failure_RadiationLeak.description 'The facility is leaking a short burst of radiation'
+RimatomicsFailureDef: Failure_MicrowaveLeak.label 'Microwave Leak'
+RimatomicsFailureDef: Failure_MicrowaveLeak.description 'The facility is leaking microwave radiation'
+RimatomicsFailureDef: Failure_AcidLeak.label 'Acid Leak'
+RimatomicsFailureDef: Failure_AcidLeak.description 'The facility is leaking acid'
+RimatomicsFailureDef: Failure_GasLeak.label 'Gas Leak'
+RimatomicsFailureDef: Failure_GasLeak.description 'The facility is leaking toxic gas'
+RimatomicsFailureDef: Failure_BlindingFlash.label 'Blinding Flash'
+RimatomicsFailureDef: Failure_BlindingFlash.description 'A blinding flash of light has emanated from the facility'
+RimatomicsFailureDef: Failure_ArcDischarge.label 'Arc Discharge'
+RimatomicsFailureDef: Failure_ArcDischarge.description 'An arc of high voltage electricity shot from the facility'
+RimatomicsFailureDef: Failure_LaserDischarge.label 'Laser Discharge'
+RimatomicsFailureDef: Failure_LaserDischarge.description 'A Laser discharge shot from the facility'
+RimatomicsFailureDef: Failure_Overvoltage.label 'Overvoltage'
+RimatomicsFailureDef: Failure_Overvoltage.description 'The facility has suffered a power surge and started a fire'
+RimatomicsFailureDef: Failure_ShortCircuit.label 'Short Circuit'
+RimatomicsFailureDef: Failure_ShortCircuit.description 'The facility has short-circuited. Switch off the power immediately or the building will be destroyed!'
+RimatomicResearchDef: Geigercounter.ProjTypeLabel 'Passive Ability'
+RimatomicResearchDef: NuclearResearch.ProjTypeLabel 'Research Facility'
+RimatomicResearchDef: ICBM.ProjTypeLabel 'Super Weapon'
+RimatomicResearchDef: EnergyWeapons.ProjTypeLabel 'Research Facility'
+RimatomicResearchDef: ADS.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: TeslaCoil.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: HEL.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: Railgun.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: Obelisk.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: Marauder.ProjTypeLabel 'Energy Weapon'
+RimatomicResearchDef: ResearchControlRodActuators.stats.0 'Increases the responsiveness of control rods'
+RimatomicResearchDef: ATOMProject.ResearchDesc 'The Advanced Threat Detection module (ATOM) is an upgrade module for the TACS, when installed it it significantly increases the power usage increasing its range and scanning power, and making it possible to detect threats at much greater distances, acting as an early warning system for potential attacks. Airborne attacks will leave little room for warning, and smaller groups of ground units will be hard to detect, but large ground based fighting forces will be easily detected. False positives may be possible when using the system.'
+RimatomicResearchDef: ATOMProject.ResearchDescDisc 'You can now produce ATOM modules at the Rimatomics machining table, to install them select a TACS and toggle the ATOM button\n\nThe ATOM module must be manually installed in each new TACS'
+RimatomicResearchDef: ResearchALC.stats.0 'Cooldown -15%'
+RimatomicResearchDef: ResearchERS.stats.0 'Pulse Size -15%'
+RimatomicResearchDef: ResearchSCAD.stats.0 'Adds shielding'
+RimatomicResearchDef: ResearchDriveActuator.stats.0 'Turret speed 200%'
+RimatomicResearchDef: ResearchRailgun_TargetingChip.stats.0 'Fire Mission Spread -50%'
+RimatomicResearchDef: ResearchRailgun_TargetingChip.stats.1 'Range +10 Tiles'
+RimatomicResearchDef: ResearchObelisk_LenseModule.stats.0 'Range +10'
+RimatomicResearchDef: ResearchObelisk_LenseModule.stats.1 'Min Range +10'
+RimatomicResearchDef: ResearchObelisk_BeamSplitter.stats.0 'Breaks shields and spreads the damage'
+ResearchStepDef: Geigercounter1.label 'Research radiation detectors'
+ResearchStepDef: Geigercounter1.description 'A skilled researcher needs to study the designs and learn how the radiation detectors work.'
+ResearchStepDef: Geigercounter2.label 'Evaluate components'
+ResearchStepDef: Geigercounter2.description 'A skilled crafter needs to figure out how to build and maintain radiation detectors for all colonists using the resources and tools available.'
+ResearchStepDef: RadiationSuits1.label 'Research radiation suits'
+ResearchStepDef: RadiationSuits1.description 'A skilled researcher needs to study the designs and learn how the radiation suits work before we can start making our own.'
+ResearchStepDef: RadiationSuits2.label 'Evaluate components'
+ResearchStepDef: RadiationSuits2.description 'A skilled crafter needs to draw up plans for tailoring radiation suits using the resources and tools available to us.'
+ResearchStepDef: NuclearResearch1.label 'Research reactor technology'
+ResearchStepDef: NuclearResearch1.description 'A skilled researcher needs to study the designs and learn how the research reactor works before we can build our own.'
+ResearchStepDef: NuclearResearchConstruct.label 'Construct a research reactor'
+ResearchStepDef: NuclearResearchConstruct.description 'Construct a research reactor. Colonists will need access to the reactor for experimentation. It is advised to build the reactor in a secure, fireproof lab.'
+ResearchStepDef: NuclearResearchPractical.label 'Research and train'
+ResearchStepDef: NuclearResearchPractical.description 'Install reactor control software and perform training exercises while testing the reactor's capabilities.'
+ResearchStepDef: NuclearReactorResearchPhase.label 'Research nuclear reactors'
+ResearchStepDef: NuclearReactorResearchPhase.description 'A skilled researcher needs to study the Rimatomics reactor designs and prepare for the construction of our first power reactor.'
+ResearchStepDef: NuclearReactorExperiments.label 'Experiment with research reactors (High Risk)'
+ResearchStepDef: NuclearReactorExperiments.description 'A skilled researcher needs to experiment with the research reactor. This step has a chance for catastrophic failures!'
+ResearchStepDef: BuildReactorCore.label 'Build a reactor core'
+ResearchStepDef: BuildReactorCore.description 'Build the frame for a nuclear reactor core. Note that once the frame is complete, more work must be done to finish constructing the core. It is highly recommended that the core be built in a containment room to protect colonists during fuel transfer. The thickness of the wall and HP of the materials used determines how much radiation is absorbed. We advise leaving space around the core as the frequency of radiation damage also decreases over distance.'
+ResearchStepDef: BuildReactorTurbine.label 'Build a turbine generator'
+ResearchStepDef: BuildReactorTurbine.description 'The turbine requires a large quantity of turbine blades, which can be manufactured at a Rimatomics machining table.'
+ResearchStepDef: TestForCore.label 'Connect the reactor to the turbine'
+ResearchStepDef: TestForCore.description 'Connect the reactor core to the turbine generator by constructing a (Steam pipe), and (Cold water pipe) between them. Turbines are not dangerous, and can be built outside of shielded containment rooms, but must be indoors.'
+ResearchStepDef: BuildReactorCooling.label 'Build a cooling system'
+ResearchStepDef: BuildReactorCooling.description 'Build one of the available cooling systems and connect it to a turbine using (Coolant pipe). There are three available cooling systems>: water cooling requires rivers or large bodies of water, cooling towers require a lot of power and space and must be placed outside, and radiators have the lowest cooling capacity, but are smaller and cheaper to build and can be placed indoors.'
+ResearchStepDef: BuildTransformer.label 'Build a power transformer'
+ResearchStepDef: BuildTransformer.description 'Build a power transformer and connect it to the turbine using high voltage cables. Transformers can convert up to 200kw of power from a turbine into usable electricity. Multiple transformers can be used to power different power grids. Power limit settings allow you to redistribute the power output between power grids.'
+ResearchStepDef: BuildControlComputer.label 'Build a reactor control computer'
+ResearchStepDef: BuildControlComputer.description 'Build a reactor control computer and connect it to the nuclear reactor core using (Controller loom). This console is used to control reactor cores. They can be paired with specific cores by assigning an ID, allowing you to chain connections from core to core. Send a colonist to man the station to access the controls. Multiple controls can be open at the same time.'
+ResearchStepDef: TestReactor.label 'Test the nuclear reactor'
+ResearchStepDef: TestReactor.description 'Construct or purchase nuclear fuel rods and load them into the reactor core using the reactor console to designate slots for loading. Load at least two fuel assemblies side-by-side to create a chain, use the reactor console to start the core, and then raise the control rods to 8% or higher to start gathering data.'
+ResearchStepDef: Plutonium1.label 'Research plutonium processing'
+ResearchStepDef: Plutonium1.description 'A skilled researcher needs to study how plutonium processing works, and finalize designs for a prototype fuel reprocessing facility.'
+ResearchStepDef: Plutonium2.label 'Construct a Plutonium Processor'
+ResearchStepDef: Plutonium2.description 'Construct a Plutonium Processor. To reduce the duration of exposure while handling radioactive fuel, it is advised that you locate the plutonium processor a short distance from reactors or spent fuel storage. Radiation suits will be required for workers that are moving radioactive fuel.'
+ResearchStepDef: Plutonium3.label 'Experiment with the plutonium processor (High Risk)'
+ResearchStepDef: Plutonium3.description 'Experiment with the prototype plutonium processor, ensuring that it is functioning correctly.'
+ResearchStepDef: AdvReactor1.label 'Experiment with research reactors (High Risk)'
+ResearchStepDef: AdvReactor1.description 'A skilled researcher needs to experiment with the research reactor. This step has a chance for catastrophic failures!'
+ResearchStepDef: AdvReactor2.label 'Research nuclear reactors'
+ResearchStepDef: AdvReactor2.description 'A skilled researcher needs to finalize the design of the advanced reactors before they are ready for construction.'
+ResearchStepDef: AdvReactor3.label 'Build an advanced reactor core'
+ResearchStepDef: AdvReactor3.description 'Build an advanced nuclear reactor core. It is highly recommended that the core be built in a shielded containment room to protect colonists during fuel transfer.'
+ResearchStepDef: AdvReactor4.label 'Test the nuclear reactor'
+ResearchStepDef: AdvReactor4.description 'Power up the advanced reactor and start producing power to gather data.'
+ResearchStepDef: RTG1.label 'Research RTGs'
+ResearchStepDef: RTG1.description 'A skilled researcher needs to study the designs and learn how Radioisotope Thermoelectric Generators work before we can start making our own.'
+ResearchStepDef: RTG2.label 'Create plutonium'
+ResearchStepDef: RTG2.description 'Create some plutonium, which is required to make an RTG. To do this, spent nuclear fuel from a reactor must be processed in a plutonium processor.'
+ResearchStepDef: RTG3.label 'Evaluate components'
+ResearchStepDef: RTG3.description 'A skilled crafter needs to plan how we can make the components required for a Radioisotope Thermoelectric Generator from the resources available to us.'
+ResearchStepDef: ICBM1.label 'Research nuclear weapons'
+ResearchStepDef: ICBM1.description 'A skilled researcher needs to study the designs and learn how nuclear weapons work before we can start making our own.'
+ResearchStepDef: ICBM2.label 'Create plutonium'
+ResearchStepDef: ICBM2.description 'Create some plutonium, which is required to make a bomb. To do this, spent nuclear fuel from a reactor must be processed in a plutonium processor.'
+ResearchStepDef: ICBM3.label 'Experiment with the research reactor'
+ResearchStepDef: ICBM3.description 'Experiment with the research reactor to gain a greater understanding of nuclear physics before we attempt to build a weapon.'
+ResearchStepDef: ICBM4.label 'Construct a weapons console'
+ResearchStepDef: ICBM4.description 'Construct a weapons console. The weapons console is a manned target acquisition computer required by all energy weapons. It networks to any Rimatomics energy weapons that share the same power net, then detects enemies using the onboard sensors of the weapons and the Target Acquisition System to assign targets. The main display features real-time ground and air target tracking, and a PPC capacity gauge displays the total stored PPC energy on the net.'
+ResearchStepDef: ICBM5.label 'Construct a Target Acquisition and Communications System (TACS)'
+ResearchStepDef: ICBM5.description 'Construct a TACS. The system uses a combination of technologies to track land- and air-based targets. This includes living or robotic targets, projectiles such as mortar shells or railgun sabot rounds, and long-range tracking of ballistic missiles.'
+ResearchStepDef: ICBM6.label 'Construct a Liberator'
+ResearchStepDef: ICBM6.description 'Construct a Liberator. It must be connected via power conduit to a weapons console to control the launch systems.'
+ResearchStepDef: ICBM7.label 'Gather weapons data'
+ResearchStepDef: ICBM7.description 'Launch a strategic missile at any target to gather data. The amount of data gathered depends on the success of the launch, with a successful detonation on the target giving the maximum amount of data.'
+ResearchStepDef: EnergyWeapons1.label 'Research energy weapons'
+ResearchStepDef: EnergyWeapons1.description 'A skilled researcher needs to study how Rimatomics energy weapons work'
+ResearchStepDef: ConstructWeaponBenchStep.label 'Construct a Weapons Research Bench'
+ResearchStepDef: ConstructWeaponBenchStep.description 'Construct a Weapons Research Bench, equipped with specialized equipment for prototyping and testing a wide range of energy weapons, it is a required facility for most energy weapons research and testing, colonists will need access to the bench for experimentation, it is advised to build it in a secure fireproof lab.'
+ResearchStepDef: EnergyWeapExperiments.label 'Experiment with energy weapons'
+ResearchStepDef: EnergyWeapExperiments.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: EnergyWeapons5.label 'Construct a Semi Automated Command Station (SACS)'
+ResearchStepDef: EnergyWeapons5.description 'Construct a SACS, this console is a target acquisition computer required by all energy weapons, it networks to all Rimatomics energy weapons that share the same power net, then it assigns targets using the onboard sensors of the weapons combined with the Target Acquisition System (TACS).\n\nThe main display features a real time ground target and aerial projectile tracker, and a gauge displays the total stored PPC energy on the net.\nSome weapons require the console to be manned to function, this will be displayed in the inspect tab for the weapon'
+ResearchStepDef: EnergyWeapons6.label 'Construct a Target Acquisition and Communications System (TACS)'
+ResearchStepDef: EnergyWeapons6.description 'Construct a TACS. The system uses a combination of technologies to track land and air based targets, this includes living or robotic targets, projectiles such as mortar shells or railgun sabot rounds, and long range tracking of ballistic missiles. The information is routed to a SACS console where targets are selected and tracking information can be displayed'
+ResearchStepDef: EnergyWeapons7.label 'Construct a Pulsed Power Container (PPC)'
+ResearchStepDef: EnergyWeapons7.description 'Construct a Pulsed Power Container (PPC) and connect it to the same power net as the SACS.\n\nThese ultra-capacitors are much more efficient than standard batteries and are designed to provide the large jolts of power required by Rimatomics energy weapons. Housed in a waterproof container, and charged by excess power like a standard battery, it is recommended that you isolate them from standard batteries to increase efficiency'
+ResearchStepDef: ADS1.label 'Research the ADS'
+ResearchStepDef: ADS1.description 'A skilled researcher needs to study the designs and learn how the ADS works before we can build our own'
+ResearchStepDef: ADS2.label 'Experiment with energy weapons'
+ResearchStepDef: ADS2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: ADS4.label 'Construct a prototype ADS'
+ResearchStepDef: ADS4.description 'Construct a prototype version of the ADS. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: ADS5.label 'Gather weapons data'
+ResearchStepDef: ADS5.description 'Test fire the ADS on any living targets to gather weapons data'
+ResearchStepDef: TeslaCoil1.label 'Research tesla coils'
+ResearchStepDef: TeslaCoil1.description 'A skilled researcher needs to study the designs and learn how the tesla coil works before we can build our own'
+ResearchStepDef: TeslaCoil2.label 'Experiment with energy weapons'
+ResearchStepDef: TeslaCoil2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: TeslaCoil4.label 'Construct a prototype Tesla Coil'
+ResearchStepDef: TeslaCoil4.description 'Construct a prototype version of the Tesla Coil. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: TeslaCoil5.label 'Gather weapons data'
+ResearchStepDef: TeslaCoil5.description 'Test fire the Tesla coil on any targets to gather weapons data'
+ResearchStepDef: HEL1.label 'Research the HEL'
+ResearchStepDef: HEL1.description 'A skilled researcher needs to study the designs and learn how the HEL works before we can build our own'
+ResearchStepDef: HEL2.label 'Experiment with energy weapons'
+ResearchStepDef: HEL2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: HEL4.label 'Construct a prototype HEL'
+ResearchStepDef: HEL4.description 'Construct a prototype version of the HEL. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: HEL5.label 'Gather weapons data'
+ResearchStepDef: HEL5.description 'Test fire the HEL on artillary targets to gather weapons data, you can use the weapons console to change its target aquisition to include friendly shells'
+ResearchStepDef: Railgun1.label 'Research the Punisher'
+ResearchStepDef: Railgun1.description 'A skilled researcher needs to study the designs and learn how the Punisher works before we can build our own'
+ResearchStepDef: Railgun2.label 'Experiment with energy weapons'
+ResearchStepDef: Railgun2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: Railgun4.label 'Construct a prototype Punisher'
+ResearchStepDef: Railgun4.description 'Construct a prototype version of the Punisher. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: Railgun5.label 'Gather weapons data'
+ResearchStepDef: Railgun5.description 'Test fire the Punisher on any targets to gather weapons data. You can craft Sabot rounds at a Rimatomics machining table'
+ResearchStepDef: Railgun6.label 'Gather weapons data'
+ResearchStepDef: Railgun6.description 'Test the fire mission functionality of the Punisher. You must send scouts to another map, then select the prototype Punisher and click Fire Mission'
+ResearchStepDef: Obelisk1.label 'Research the Obelisk'
+ResearchStepDef: Obelisk1.description 'A skilled researcher needs to study the designs and learn how the Obelisk works before we can build our own'
+ResearchStepDef: Obelisk2.label 'Experiment with energy weapons'
+ResearchStepDef: Obelisk2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: Obelisk4.label 'Construct an Obelisk'
+ResearchStepDef: Obelisk4.description 'Construct a prototype version of the Obelisk, Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: Obelisk5.label 'Gather weapons data'
+ResearchStepDef: Obelisk5.description 'Test fire the Obelisk on any targets to collect data'
+ResearchStepDef: Marauder1.label 'Research the Marauder'
+ResearchStepDef: Marauder1.description 'A skilled researcher needs to study the designs and learn how the Marauder works before we can build our own'
+ResearchStepDef: Marauder2.label 'Experiment with energy weapons'
+ResearchStepDef: Marauder2.description 'Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous'
+ResearchStepDef: Marauder4.label 'Construct a prototype Marauder'
+ResearchStepDef: Marauder4.description 'Construct a prototype version of the Marauder. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing'
+ResearchStepDef: Marauder5.label 'Gather weapons data'
+ResearchStepDef: Marauder5.description 'Test fire the Marauder to gather weapons data.'
+ResearchStepDef: ControlRodActuators1.label 'Research nuclear reactors'
+ResearchStepDef: ControlRodActuators1.description 'Experiment with the research reactor and plan tests which can be performed on a live reactor core'
+ResearchStepDef: ControlRodActuators2.label 'Perform 2 reactor SCRAM's'
+ResearchStepDef: ControlRodActuators2.description 'Test the control rod system by performing a reactor SCRAM while it is fully fueled and set to 100% power.'
+ResearchStepDef: ControlRodActuators3.label 'Research nuclear reactors'
+ResearchStepDef: ControlRodActuators3.description 'Analyze the data gathered and finalize the designs for the new control rod actuators'
+ResearchStepDef: GuidenceSystem1.label 'Research nuclear reactors'
+ResearchStepDef: GuidenceSystem1.description 'A skilled researcher must plan a series of tests which can be performed on strategic missiles to collect data for analysis'
+ResearchStepDef: GuidenceSystem2.label 'Gather weapons data'
+ResearchStepDef: GuidenceSystem2.description 'Launch a strategic missile at any target to gather data, the amount of data gathered depends on the success of the launch with a successful detonation on the target giving the maximum.'
+ResearchStepDef: GuidenceSystem3.label 'Research nuclear reactors'
+ResearchStepDef: GuidenceSystem3.description 'Analyze the data gathered and finalize the designs for the Guidance System'
+ResearchStepDef: MEPS1.label 'Research MEPS'
+ResearchStepDef: MEPS1.description 'A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis'
+ResearchStepDef: MEPS2.label 'Gather weapons data'
+ResearchStepDef: MEPS2.description 'Fire any Rimatomics energy weapon at full power to collect data.'
+ResearchStepDef: MEPS3.label 'Research MEPS'
+ResearchStepDef: MEPS3.description 'Analyze the data gathered and finalize the designs for the MEPS module'
+ResearchStepDef: ALC1.label 'Research ALC'
+ResearchStepDef: ALC1.description 'A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis'
+ResearchStepDef: ALC2.label 'Gather weapons data'
+ResearchStepDef: ALC2.description 'Fire any Rimatomics energy weapon at full power to collect data.'
+ResearchStepDef: ALC3.label 'Research ALC'
+ResearchStepDef: ALC3.description 'Analyze the data gathered and finalize the designs for the ALC module'
+ResearchStepDef: ERS1.label 'Research ERS'
+ResearchStepDef: ERS1.description 'A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis'
+ResearchStepDef: ERS2.label 'Gather weapons data'
+ResearchStepDef: ERS2.description 'Fire any Rimatomics energy weapon at full power to collect data.'
+ResearchStepDef: ERS3.label 'Research ERS'
+ResearchStepDef: ERS3.description 'Analyze the data gathered and finalize the designs for the ERS module'
+ResearchStepDef: SCAD1.label 'Research SCAD'
+ResearchStepDef: SCAD1.description 'A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis'
+ResearchStepDef: SCAD2.label 'Gather weapons data'
+ResearchStepDef: SCAD2.description 'Fire any Rimatomics energy weapon at full power to collect data.'
+ResearchStepDef: SCAD3.label 'Research SCAD'
+ResearchStepDef: SCAD3.description 'Analyze the data gathered and finalize the designs for the SCAD module'
+ResearchStepDef: DriveActuator1.label 'Research Drive Actuators'
+ResearchStepDef: DriveActuator1.description 'A skilled researcher must experiment at a weapon research bench'
+ResearchStepDef: DriveActuator2.label 'Research Drive Actuators'
+ResearchStepDef: DriveActuator2.description 'Analyze the data gathered and finalize the designs for the Drive Actuators'
+ResearchStepDef: Railgun_TargetingChip1.label 'Research Targeting chips'
+ResearchStepDef: Railgun_TargetingChip1.description 'A skilled researcher must plan a series of tests which can be performed on the Railgun to collect data for analysis'
+ResearchStepDef: Railgun_TargetingChip2.label 'Gather weapons data'
+ResearchStepDef: Railgun_TargetingChip2.description 'Use the Railgun on any targets to collect data'
+ResearchStepDef: Railgun_TargetingChip3.label 'Research Targeting chips'
+ResearchStepDef: Railgun_TargetingChip3.description 'Analyze the data gathered and finalize the designs for the targeting chip'
+ResearchStepDef: LenseModule1.label 'Research Lens Modules'
+ResearchStepDef: LenseModule1.description 'A skilled researcher must plan a series of tests which can be performed on the Obelisk to collect data for analysis'
+ResearchStepDef: LenseModule2.label 'Gather weapons data'
+ResearchStepDef: LenseModule2.description 'Use the Obelisk on any living targets to collect data, the amount of data obtained scales based on the damage percentage used for each shot'
+ResearchStepDef: LenseModule3.label 'Research Lens Modules'
+ResearchStepDef: LenseModule3.description 'Analyze the data gathered and finalize the designs for the lens module'
+ResearchStepDef: BeamSplitter1.label 'Research Beam Splitters'
+ResearchStepDef: BeamSplitter1.description 'A skilled researcher must plan a series of tests which can be performed on the Obelisk to collect data for analysis'
+ResearchStepDef: BeamSplitter2.label 'Gather weapons data'
+ResearchStepDef: BeamSplitter2.description 'Use the Obelisk on any living targets to collect data, the amount of data obtained scales based on the damage percentage used for each burst.'
+ResearchStepDef: BeamSplitter3.label 'Research Beam Splitters'
+ResearchStepDef: BeamSplitter3.description 'Analyze the data gathered and finalize the designs for the beam splitter device'
+
+========== Backstory translations missing (0) ==========
+
+========== Unnecessary def-injected translations (marked as NoTranslate) (0) ==========
+
+========== Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0) =========
+
+========== Argument count mismatches (may or may not be incorrect) (2) ==========
+SlotBreakdown (Rimatomics.xml:40)
+  - 'Estimated Life: {0}\nMax Power: {1}W\nCurrent Power: {2}W\nUsage: {3}\nRatio: {4}\nCan Process Now: {5}'
+  - '最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}'
+PulseSize (Rimatomics.xml:74)
+  - 'Pulse: {0} Wd / Damage: {1}'
+  - '電気パルス: {0} Wd'
+
+========== Unnecessary keyed translations (will never be used) (19) ==========
+critXE 'Xe-135' (Rimatomics.xml:136)
+critCoreIntegrity '炉心保全性' (Rimatomics.xml:140)
+critNeutronFlux '中性子束' (Rimatomics.xml:141)
+RailgunBarrage '射撃任務' (Rimatomics.xml:240)
+RailgunBarrageDesc 'すべてのレールガンを集中砲撃させる' (Rimatomics.xml:241)
+critrangeMinus '射距離－' (Rimatomics.xml:242)
+critrangePlus '射距離＋' (Rimatomics.xml:243)
+critCommandLowerRangeDesc '射距離と電気パルスを縮小する' (Rimatomics.xml:244)
+critCommandRaiseRangeDesc '射距離と電気パルスを拡大する' (Rimatomics.xml:245)
+critdmgMinus '火力－' (Rimatomics.xml:246)
+critdmgPlus '火力＋' (Rimatomics.xml:247)
+critCommandLowerDmgDesc '兵器の出力を下げ、電気パルスを縮小する' (Rimatomics.xml:248)
+critCommandRaiseDmgDesc '兵器の出力を上げ、電気パルスを拡大する' (Rimatomics.xml:249)
+critMissingPPC 'PPC電池が必要' (Rimatomics.xml:250)
+critNRGWEPPOOWA 'パワー: {0} / 射距離: {1}－{2}' (Rimatomics.xml:251)
+LastPulseSize '前の電気パルス: {0} Wd' (Rimatomics.xml:252)
+mp15 '15m' (Rimatomics.xml:253)
+mm15 '15m' (Rimatomics.xml:254)
+critTargetFlux '目標中性子束' (Rimatomics.xml:255)
+
+========== Keyed translations matching English (maybe ok) (66) ==========
+Credits_Developers 'Developers' (Credits.xml:6)
+Credit_DirectionVarious 'Direction, design, code, art' (Credits.xml:7)
+Credit_MusicAndSound 'Audio' (Credits.xml:8)
+Credit_Code 'Code' (Credits.xml:9)
+Credit_GameArt 'Art' (Credits.xml:10)
+Credit_MenuArt 'Menu art' (Credits.xml:11)
+Credit_AdditionalCode 'Additional code' (Credits.xml:12)
+Credits_AdditionalDevelopment 'Additional development' (Credits.xml:14)
+Credit_SpecialThanks 'Special thanks' (Credits.xml:16)
+Credits_TitleCommunity 'Community volunteers' (Credits.xml:19)
+Credit_Tester 'Tester' (Credits.xml:20)
+Credit_ModDonation 'Mod donor' (Credits.xml:21)
+Credit_WritingDonation 'Writing donor' (Credits.xml:22)
+Credit_Moderator 'Moderator' (Credits.xml:23)
+Credit_WikiMaster 'Wiki master' (Credits.xml:24)
+Credits_TitleLanguage '{0} language' (Credits.xml:26)
+Credit_Writer 'Writer' (Credits.xml:27)
+Credit_Translator 'Translator' (Credits.xml:28)
+Credit_OpenSourceLibraries 'Open source libraries' (Credits.xml:29)
+Credit_NoiseGeneration 'Noise generation' (Credits.xml:30)
+ThanksForPlaying 'Thanks for playing!' (Credits.xml:32)
+CantGrazeBecauseOfBiome '({0})' (Dialogs_Various.xml:344)
+StatsReport_Inspiration '{0}' (Dialog_StatsReports.xml:48)
+ContentSource_SteamWorkshop 'Steam Workshop' (Enums.xml:84)
+DietCategory_NeverEats_Short '-' (Enums.xml:148)
+LetterHealthComplicationsLabel '{PAWN_labelShort}: {1}' (Letters.xml:64)
+LetterHediffFromRandomHediffGiverLabel '{PAWN_labelShort}: {1}' (Letters.xml:67)
+FictionPrimer 'Fiction primer' (Menus_Main.xml:22)
+LudeonBlog 'Ludeon blog' (Menus_Main.xml:23)
+Forums 'Forums' (Menus_Main.xml:24)
+OfficialWiki 'Official wiki' (Menus_Main.xml:25)
+TynansTwitter 'Tynan's twitter' (Menus_Main.xml:26)
+TynansDesignBook 'Tynan's design book' (Menus_Main.xml:27)
+HelpTranslate 'Help translate RimWorld' (Menus_Main.xml:28)
+BuySoundtrack 'Buy soundtrack' (Menus_Main.xml:29)
+OpenSteamWorkshop 'Open Steam Workshop' (Menus_Main.xml:74)
+GetModsFromForum 'Get mods from forum' (Menus_Main.xml:75)
+Unsubscribe 'Unsubscribe' (Menus_Main.xml:80)
+WorkshopPage 'Workshop page' (Menus_Main.xml:83)
+UploadToSteamWorkshop 'Upload to Steam Workshop' (Menus_Main.xml:84)
+UpdateOnSteamWorkshop 'Update on Steam Workshop' (Menus_Main.xml:85)
+UploadAlreadyInProgress 'Upload already in progress.' (Menus_Main.xml:86)
+WorkshopSubmissionFailed 'Workshop submission failed.\n\nReason: {0}' (Menus_Main.xml:87)
+WorkshopUploadSucceeded 'Successfully uploaded {0}.' (Menus_Main.xml:88)
+Downloading 'Downloading' (Menus_Main.xml:89)
+Source 'Source' (Menus_Main.xml:90)
+ScenariosSteamWorkshop 'Steam Workshop' (Menus_Main.xml:100)
+VersionIndicator 'Version {0}' (Misc.xml:12)
+DevelopmentBuildLower 'development build' (Misc.xml:13)
+CompiledOn 'Compiled {0}' (Misc.xml:14)
+LoggedIntoSteamAs 'Logged into Steam as {0}' (Misc.xml:15)
+kg 'kg' (Misc.xml:34)
+MoneyFormat '${0}' (Misc.xml:39)
+ThingMadeOfStuffLabel '{0} {1}' (Misc.xml:67)
+On 'On' (Misc_Gameplay.xml:47)
+Off 'Off' (Misc_Gameplay.xml:48)
+CaravanColonistsCount '{0} {1}' (Misc_Gameplay.xml:87)
+SettlementTrader '{0} of {1}' (Misc_Gameplay.xml:128)
+NoDietCategoryLetter 'No letter' (Misc_Gameplay.xml:162)
+PawnMainDescGendered '{PAWN_gender} {1}' (Misc_Gameplay.xml:297)
+PawnMainDescLifestageWrap '{2_lifeStageAdjective} {0}' (Misc_Gameplay.xml:299)
+Wiki 'Wiki' (PlayInterface.xml:4)
+HugsLib_features_update '{0} v{1}' (Japanese.xml:26)
+MOX 'MOX' (Rimatomics.xml:28)
+PuCreated 'Pu: {0}' (Rimatomics.xml:102)
+ResearchProg '{0}/{1}' (Rimatomics.xml:188)
+
+========== Backstory translations matching English (maybe ok) (0) ==========
+
+========== Def-injected translations syntax suggestions (26) ==========
+Consider using RectalCoring.stages.extreme.label instead of RectalCoring.stages.0.label for translation '極度' (Hediffs_Global_Misc.xml)
+Consider using Exsanguination.stages.extreme.label instead of Exsanguination.stages.0.label for translation '極度' (Hediffs_Global_Misc.xml)
+Consider using FatalRad.stages.initial.label instead of FatalRad.stages.0.label for translation '初期' (Hediffs_Global_Misc.xml)
+Consider using FatalRad.stages.advanced.label instead of FatalRad.stages.1.label for translation '重度' (Hediffs_Global_Misc.xml)
+Consider using FatalRad.stages.near_death.label instead of FatalRad.stages.2.label for translation '致命的' (Hediffs_Global_Misc.xml)
+Consider using FatalRad.stages.dead.label instead of FatalRad.stages.3.label for translation '死亡' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.initialhidden.label instead of RimatomicsRadiation.stages.0.label for translation '症状なし' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.initial.label instead of RimatomicsRadiation.stages.1.label for translation '初期' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.minor.label instead of RimatomicsRadiation.stages.2.label for translation '軽度' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.moderate.label instead of RimatomicsRadiation.stages.3.label for translation '中度' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.serious.label instead of RimatomicsRadiation.stages.4.label for translation '重度' (Hediffs_Global_Misc.xml)
+Consider using RimatomicsRadiation.stages.extreme.label instead of RimatomicsRadiation.stages.5.label for translation '極度' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.initialhidden.label instead of RadiationIncurable.stages.0.label for translation '症状なし' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.initial.label instead of RadiationIncurable.stages.1.label for translation '初期' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.minor.label instead of RadiationIncurable.stages.2.label for translation '軽度' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.moderate.label instead of RadiationIncurable.stages.3.label for translation '中度' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.serious.label instead of RadiationIncurable.stages.4.label for translation '重度' (Hediffs_Global_Misc.xml)
+Consider using RadiationIncurable.stages.extreme.label instead of RadiationIncurable.stages.5.label for translation '極度' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.initialhidden.label instead of RadiationMechanoid.stages.0.label for translation '症状なし' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.initial.label instead of RadiationMechanoid.stages.1.label for translation '初期' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.minor.label instead of RadiationMechanoid.stages.2.label for translation '軽度' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.moderate.label instead of RadiationMechanoid.stages.3.label for translation '中度' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.serious.label instead of RadiationMechanoid.stages.4.label for translation '重度' (Hediffs_Global_Misc.xml)
+Consider using RadiationMechanoid.stages.extreme.label instead of RadiationMechanoid.stages.5.label for translation '極度' (Hediffs_Global_Misc.xml)
+Consider using Abducted.stages.I_cant_explain_it.label instead of Abducted.stages.0.label for translation '説明がつかない出来事' (Thoughts_Memory_Tendself.xml)
+Consider using Abducted.stages.I_cant_explain_it.description instead of Abducted.stages.0.description for translation '昨日の夜、自分に何か起こったぞ… どこか変な場所に… うっ！頭が！' (Thoughts_Memory_Tendself.xml)
