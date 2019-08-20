@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+
+
   <!--ALERTS-->
   <AlertNeedsTurbine>炉心はタービンが必要</AlertNeedsTurbine>
   <AlertNeedsTurbineDesc>炉心はタービンに繋げる必要があります。炉心を個別に起動すると過熱や溶融が発生する場合があります。</AlertNeedsTurbineDesc>
@@ -23,7 +25,21 @@
   <RADIATIONLEAK>    ::放射漏れ::</RADIATIONLEAK>
   <RADIATIONLEAKSYSTEM>    ::放射能を探知::</RADIATIONLEAKSYSTEM><!-- improve this -->
 
+  <PodsScrambledOK>TACSは敵の郵送ポッドを妨害しました</PodsScrambledOK>
+  <PodsScrambledDesc>TACSは{0}kwのEMPパルスで敵の郵送ポッドの誘導システムを妨害しました。</PodsScrambledDesc>
+  <PodsScrambledFail>敵の郵送ポッドの妨害に失敗しました</PodsScrambledFail>
+  <PodsScrambledFailDesc>EMPパルスで敵襲を妨害するには{0}kwが必要ですが、残量が足りませんでした</PodsScrambledFailDesc>
+  <ScrambleDropPods>郵送ポッドを妨害</ScrambleDropPods>
+  <ScrambleDropPodsDesc>PPCネットワークによるEMPパルスで敵の郵送ポッドの誘導システムを妨害し、マップの中央に着陸するのを防ぎます</ScrambleDropPodsDesc>
+
   <!--CONSOLE-->
+  <TemperatureTip>温度\n\n過剰な熱は炉心にダメージを加え、燃料を破損させる恐れがあります。もし炉心がの通常以上の温度で稼働している間にHPがゼロまで落ちれば、爆発します</TemperatureTip>
+  <FuelTip>燃料\n\n炉心に搭載されている燃料の総数。燃料は隣接するスロットの燃料と連鎖反応を起こし、より多くの電力を発電します。\n燃料が消費されるとともに発電量が減ります</FuelTip>
+  <CoolingTip>冷却\n\n使用されている冷却容量。こちらの数値が赤くなれば、冷却できる装置を足すか、発電量を減らしてください</CoolingTip>
+  <TurbineTip>タービン\n\n使用されているタービンの容量。こちらの数値が赤くなれば、タービンを増やすか、発電量を減らしてください\n\nタービンの電力を一般的な電力線に供給するためには十分な数の電力変圧器の数が必要です</TurbineTip>
+  <PowerTip>電力\n\n炉心の熱から変換したすべての電力量。タービンで実際に発電されている量と電力変圧器で配電されている量と異なります</PowerTip>
+  <RadiationTip>放射線\n\n炉心にダメージがあれば放射線が漏れます。ダメージが大きくなればなるほど放射線が増えます</RadiationTip>
+  <CoreNotBuilt>作られていない</CoreNotBuilt>
   <Dragtoincreasefluxlevel>ひきずって目標中性子束を変える</Dragtoincreasefluxlevel>
   <MOX>MOX</MOX>
   <Used>使用済み</Used>
@@ -58,6 +74,13 @@
   <NoChemfuel>バイオ液化燃料が必要</NoChemfuel>
 
   <!--ENERGY WEAPONS-->
+  <VeteranBonus>  ボーナス: クールダウン -{0}%</VeteranBonus>
+  <AnUnknownForce>未確認部隊</AnUnknownForce>
+  <ATOMattackGround>地上</ATOMattackGround>
+  <ATOMattackPods>輸送ポッド</ATOMattackPods>
+  <ATOMdetection>脅威を検知</ATOMdetection>
+  <ATOMdetectionDesc>TACSは差し迫る脅威を探知しました。およそ{2}後に、{0}は{1}を攻撃する見込みです。</ATOMdetectionDesc>
+  <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>
   <energyWepLoadedShell>装填中: {0}</energyWepLoadedShell>
@@ -79,6 +102,7 @@
   <criticbmAttack>敵の派閥である{0}は近くのコロニーからミサイル攻撃の準備を始めました。発射まで後{1}日間です。</criticbmAttack>
   <critMagazine>マガジン: {0}</critMagazine>
   <critNoSabotRounds>サボット弾がありません</critNoSabotRounds>
+  <SiloMissingPart>{0}が必要です</SiloMissingPart>
   <critBombDet>爆弾は起爆しました</critBombDet>
   <critBombDetFac>{0} は爆弾に破壊されました</critBombDetFac>
   <SetCamoMode>迷彩柄の設定</SetCamoMode>
@@ -152,8 +176,6 @@
   <NoActiveBenchWithProject>必須プロジェクトを開いた研究端末がありません</NoActiveBenchWithProject>
   <NoStandableCell>ここでは配置できません</NoStandableCell>
 
-
-
   <critPlaceOnCore>同一サイズの溶融炉心の上に建てる必要があります</critPlaceOnCore>
   <NeedsRiver>川、湖、または海に隣接する場所で建てる必要があります</NeedsRiver>
   <critMoreWater>水域が小さすぎます</critMoreWater>
@@ -170,7 +192,9 @@
 
   <TradeShipPrice>貿易船を呼ぶ (経費: {0}シルバー)</TradeShipPrice>
   <TradeShipPriceNeed>貿易船を派遣してもらうには{0}シルバーが必要</TradeShipPriceNeed>
-
+  <TradeShipCooldown>貿易船クールダウン: {0}</TradeShipCooldown>
+  <TradeShipArrival>貿易船の到着: {0}</TradeShipArrival>
+ 
   <TradeShipReq>リムアトミクス社の貿易船がお客様のいる惑星に派遣されました。\n\n後二日で到着します。</TradeShipReq>
 
   <LowerPowerLimit>電力上限を 下げる</LowerPowerLimit>
@@ -179,7 +203,10 @@
   <TrannyLimit>: {0}kW</TrannyLimit>
   <TurbinePower>: {0}kW</TurbinePower>
 
+
   <!--RESEARCH-->
+  <NonBlueprintUpgrade></NonBlueprintUpgrade>
+  <BlueprintUpgradeDesc>設計図のアップグレードです。新しく建築した装置は最初からこのモジュールが搭載されているが、既存の装置はクラフトしたモジュールでアップグレードしてください。</BlueprintUpgradeDesc>
   <Free>無料</Free>
   <Purchase>購入</Purchase>
   <Price>価格</Price>
@@ -200,11 +227,7 @@
   <CurProj>プロジェクト: {0}</CurProj>
   <CurStep>段階: {0}</CurStep>
   <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
-  <StartProject>プロジェクト開始</StartProject>
-  <StopProject>プロジェクト停止</StopProject>
-  <ProjectTerminated>プロジェクトは中止されました</ProjectTerminated>
-  <NoBenchAvailable>リムアトミクス研究端末がありません</NoBenchAvailable>
-  <ResearchPurchased>研究データを購入しました!</ResearchPurchased>
+
 
   <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
   <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>
@@ -227,17 +250,22 @@
   <DesignatorRemoveSteam>蒸気を除去</DesignatorRemoveSteam>
   <DesignatorRemoveSteamDesc>蒸気パイプを除去する</DesignatorRemoveSteamDesc>
 
-  <coreUpgradeFail>アップグレードする前に炉心を稼働停止する必要があります</coreUpgradeFail>
-  <powerUpgradeFail>アップグレードする前に装置の電気を切る必要があります</powerUpgradeFail>
+  <coreUpgradeFail>稼働中の炉心はアップグレードできません</coreUpgradeFail>
+  <powerUpgradeFail>アップグレードする前に装置の電源を切る必要があります</powerUpgradeFail>
 
   <RimatomicResearchCompleteDialog>{0} - 完了\n\n{1}</RimatomicResearchCompleteDialog>
 
-  <TradeShipCooldown>貿易船クールダウン: {0}</TradeShipCooldown>
-  <TradeShipArrival>貿易船の到着まで: {0}</TradeShipArrival>
   <rimatomicsProto> プロトタイプ</rimatomicsProto>
+  
+  <StartProject>プロジェクト開始</StartProject>
+  <ProjectInitiated>プロジェクトは開始されました</ProjectInitiated>
+  <StopProject>プロジェクト停止</StopProject>
+  <ProjectTerminated>プロジェクトは中止されました</ProjectTerminated>
+  <NoBenchAvailable>リムアトミクス研究端末がありません</NoBenchAvailable>
+  <ResearchPurchased>研究データを購入しました!</ResearchPurchased>
 
   <!--DEPRECIATED-->
-  <RailgunBarrage>射撃任務</RailgunBarrage>
+   <RailgunBarrage>射撃任務</RailgunBarrage>
   <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
   <critrangeMinus>射距離－</critrangeMinus>
   <critrangePlus>射距離＋</critrangePlus>
