@@ -53,7 +53,7 @@
   <ShuttingDown>停止中</ShuttingDown>
   <Active>稼働中</Active>
   <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}\n放射: {5}\n\n{6}</ReactorBreakdown>
-  <SlotBreakdown>最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
+  <SlotBreakdown>TTF: {0}\n最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
   <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
   <cycleScreens>全体監視</cycleScreens>
   <AutoScram>自動スクラム</AutoScram>
@@ -94,7 +94,7 @@
   <EnergyWeaponNeedsMannedConsole>有人の武器管制システムが必要</EnergyWeaponNeedsMannedConsole>
   <EnergyWeaponNeedConsole>武器管制システムが必要</EnergyWeaponNeedConsole>
   <MissingPPC>PPC電池が必要</MissingPPC>
-  <PulseSize>電気パルス: {0} Wd</PulseSize>
+  <PulseSize>電気パルス: {0} Wd / ダメージ: {1}</PulseSize>
   <critCommandFireMission>個別射撃任務</critCommandFireMission>
   <critCommandFireMissionDesc>遠距離砲撃を開始する</critCommandFireMissionDesc>
   <critCommandLaunchICBM>ミサイル発射</critCommandLaunchICBM>

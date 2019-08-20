@@ -27,7 +27,9 @@
   <PPCObelisk.description>RA-2152-X「オベリスク」\n集束レーザーで遠くにいる対象も完璧な命中率で焼き尽くせる指向性エネルギー兵器。充電されたPPCと目標捕捉システムが必要</PPCObelisk.description>
 
   <PPCMarauder.label>電磁 プラズマ砲</PPCMarauder.label>
-  <PPCMarauder.description>RA-3b「オロチ」\n電磁誘導によりプラズマの環状体を加速して撃ち出す兵器。遠距離。充電されたPPCと目標捕捉システムが必要</PPCMarauder.description>
+  <PPCMarauder.description>RA-3b「オロチ」\n電磁誘導によりプラズマのトロイド（環状体、つまりドーナツ）を加速して撃ち出す兵器。遠距離。充電されたPPCと目標捕捉システムが必要</PPCMarauder.description>
+
+  <Bullet_PlasmaToroid.label>プラズマトロイド</Bullet_PlasmaToroid.label>
   
   <!-- ICBM -->
 

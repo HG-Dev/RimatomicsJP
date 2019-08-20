@@ -39,5 +39,8 @@
   <LenseModule.label>レンズ モジュール</LenseModule.label>
   <LenseModule.description>オベリスクのパーツ。(威力↑)</LenseModule.description>
 
+  <ATOM.label>脅威検出 モジュール</ATOM.label>
+  <ATOM.description>TACSのパーツ。(襲撃の忠告)</ATOM.description>
+
 
 </LanguageData>

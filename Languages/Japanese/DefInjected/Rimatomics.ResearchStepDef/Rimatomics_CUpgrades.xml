@@ -1,56 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ReactorConductors1.StepLabel>原子炉を研究する (知力12)</ReactorConductors1.StepLabel>
-  <ReactorConductors1.StepDesc>データを集めるために、研究員に炉心の一連のテストを計画させよう</ReactorConductors1.StepDesc>
+  <ReactorConductors1.label>原子炉を研究する (知力12)</ReactorConductors1.label>
+  <ReactorConductors1.description>データを集めるために、研究員に炉心の一連のテストを計画させよう</ReactorConductors1.description>
 
-  <ReactorConductors2.StepLabel>満杯、中性子束10%~20%</ReactorConductors2.StepLabel>
-  <ReactorConductors2.StepDesc>原子炉のすべてのスロットに燃料棒を入れ、10%から20%の中性子束を維持しよう。究端末はしばらくデータを集める</ReactorConductors2.StepDesc>
+  <ReactorConductors2.label>満杯、中性子束10%~20%</ReactorConductors2.label>
+  <ReactorConductors2.description>原子炉のすべてのスロットに燃料棒を入れ、10%から20%の中性子束を維持しよう。究端末はしばらくデータを集める</ReactorConductors2.description>
 
-  <ReactorConductors3.StepLabel>満杯、中性子束100%</ReactorConductors3.StepLabel>
-  <ReactorConductors3.StepDesc>100%の中性子束でデータを集めよう</ReactorConductors3.StepDesc>
+  <ReactorConductors3.label>満杯、中性子束100%</ReactorConductors3.label>
+  <ReactorConductors3.description>100%の中性子束でデータを集めよう</ReactorConductors3.description>
 
-  <ReactorConductors4.StepLabel>原子炉を研究する (知力12)</ReactorConductors4.StepLabel>
-  <ReactorConductors4.StepDesc>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ReactorConductors4.StepDesc>
+  <ReactorConductors4.label>原子炉を研究する (知力12)</ReactorConductors4.label>
+  <ReactorConductors4.description>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ReactorConductors4.description>
 
-  <ReactorConductors5.StepLabel>部品を評価する (工芸12)</ReactorConductors5.StepLabel>
-  <ReactorConductors5.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ReactorConductors5.StepDesc>
+  <ReactorConductors5.label>部品を評価する (工芸12)</ReactorConductors5.label>
+  <ReactorConductors5.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ReactorConductors5.description>
 
-  <NeutronReflectors1.StepLabel>原子炉を研究する (知力12)</NeutronReflectors1.StepLabel>
-  <NeutronReflectors1.StepDesc>データを集めるために、研究員に炉心の一連のテストを計画させよう</NeutronReflectors1.StepDesc>
+  <NeutronReflectors1.label>原子炉を研究する (知力12)</NeutronReflectors1.label>
+  <NeutronReflectors1.description>データを集めるために、研究員に炉心の一連のテストを計画させよう</NeutronReflectors1.description>
 
-  <NeutronReflectors2.StepLabel>満杯、中性子束100%</NeutronReflectors2.StepLabel>
-  <NeutronReflectors2.StepDesc>原子炉のすべてのスロットに燃料棒を入れ、100%の中性子束を維持しよう。究端末はしばらくデータを集める</NeutronReflectors2.StepDesc>
+  <NeutronReflectors2.label>満杯、中性子束100%</NeutronReflectors2.label>
+  <NeutronReflectors2.description>原子炉のすべてのスロットに燃料棒を入れ、100%の中性子束を維持しよう。究端末はしばらくデータを集める</NeutronReflectors2.description>
 
-  <NeutronReflectors3.StepLabel>原子炉を研究する (知力12)</NeutronReflectors3.StepLabel>
-  <NeutronReflectors3.StepDesc>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</NeutronReflectors3.StepDesc>
+  <NeutronReflectors3.label>原子炉を研究する (知力12)</NeutronReflectors3.label>
+  <NeutronReflectors3.description>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</NeutronReflectors3.description>
 
-  <NeutronReflectors4.StepLabel>部品を評価する (工芸12)</NeutronReflectors4.StepLabel>
-  <NeutronReflectors4.StepDesc>研究の結果に基づき、工芸家に実際に使えるアップグレードを開発させよう</NeutronReflectors4.StepDesc>
+  <NeutronReflectors4.label>部品を評価する (工芸12)</NeutronReflectors4.label>
+  <NeutronReflectors4.description>研究の結果に基づき、工芸家に実際に使えるアップグレードを開発させよう</NeutronReflectors4.description>
 
-  <ReactorShielding1.StepLabel>原子炉を研究する (知力12)</ReactorShielding1.StepLabel>
-  <ReactorShielding1.StepDesc>データを集めるために、研究員に炉心の一連のテストを計画させよう</ReactorShielding1.StepDesc>
+  <ReactorShielding1.label>原子炉を研究する (知力12)</ReactorShielding1.label>
+  <ReactorShielding1.description>データを集めるために、研究員に炉心の一連のテストを計画させよう</ReactorShielding1.description>
 
-  <ReactorShielding2.StepLabel>炉心にレベル１放射漏れをさせる</ReactorShielding2.StepLabel>
-  <ReactorShielding2.StepDesc>レベル１の放射漏れが発生するような状況を作ろう。後で炉心を修理する必要があるかもしれない</ReactorShielding2.StepDesc>
+  <ReactorShielding2.label>炉心にレベル１放射漏れをさせる</ReactorShielding2.label>
+  <ReactorShielding2.description>レベル１の放射漏れが発生するような状況を作ろう。後で炉心を修理する必要があるかもしれない</ReactorShielding2.description>
 
-  <ReactorShielding3.StepLabel>原子炉を研究する (知力12)</ReactorShielding3.StepLabel>
-  <ReactorShielding3.StepDesc>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ReactorShielding3.StepDesc>
+  <ReactorShielding3.label>原子炉を研究する (知力12)</ReactorShielding3.label>
+  <ReactorShielding3.description>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ReactorShielding3.description>
 
-  <ReactorShielding4.StepLabel>部品を評価する (工芸12)</ReactorShielding4.StepLabel>
-  <ReactorShielding4.StepDesc>研究の結果に基づき、工芸家に実際に使えるアップグレードを開発させよう</ReactorShielding4.StepDesc>
+  <ReactorShielding4.label>部品を評価する (工芸12)</ReactorShielding4.label>
+  <ReactorShielding4.description>研究の結果に基づき、工芸家に実際に使えるアップグレードを開発させよう</ReactorShielding4.description>
 
-  <ControlRodActuators1.StepLabel>原子炉を研究する (知力8)</ControlRodActuators1.StepLabel>
-  <ControlRodActuators1.StepDesc>データを集めるために、研究員に炉心の一連のテストを計画させよう</ControlRodActuators1.StepDesc>
+  <ControlRodActuators1.label>原子炉を研究する (知力8)</ControlRodActuators1.label>
+  <ControlRodActuators1.description>データを集めるために、研究員に炉心の一連のテストを計画させよう</ControlRodActuators1.description>
 
-  <ControlRodActuators2.StepLabel>スクラムを2回行う</ControlRodActuators2.StepLabel>
-  <ControlRodActuators2.StepDesc>満杯で中性子束100%の炉心にスクラムを実行し、制御棒システムを試そう</ControlRodActuators2.StepDesc>
+  <ControlRodActuators2.label>スクラムを2回行う</ControlRodActuators2.label>
+  <ControlRodActuators2.description>満杯で中性子束100%の炉心にスクラムを実行し、制御棒システムを試そう</ControlRodActuators2.description>
 
-  <ControlRodActuators3.StepLabel>原子炉を研究する (知力10)</ControlRodActuators3.StepLabel>
-  <ControlRodActuators3.StepDesc>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ControlRodActuators3.StepDesc>
+  <ControlRodActuators3.label>原子炉を研究する (知力10)</ControlRodActuators3.label>
+  <ControlRodActuators3.description>研究員にデータの分析、仮説の設定、そして試験炉での実験をさせよう</ControlRodActuators3.description>
 
-  <ControlRodActuators4.StepLabel>部品を評価する (工芸10)</ControlRodActuators4.StepLabel>
-  <ControlRodActuators4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ControlRodActuators4.StepDesc>
+  <ControlRodActuators4.label>部品を評価する (工芸10)</ControlRodActuators4.label>
+  <ControlRodActuators4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ControlRodActuators4.description>
 
 
   <!-- /////////////////////////////////////////////////////// -->
@@ -64,107 +64,107 @@
   <ThreatDetection3.label>目標捕捉の技術を研究する (知力8)</ThreatDetection3.label>
   <ThreatDetection3.description>研究員にデータの分析とアップグレードの設計をさせよう</ThreatDetection3.description>
 
-  <GuidenceSystem1.StepLabel>誘導システムを研究する (知力12)</GuidenceSystem1.StepLabel>
-  <GuidenceSystem1.StepDesc>研究員にミサイルで行うテストを計画させよう</GuidenceSystem1.StepDesc>
+  <GuidenceSystem1.label>誘導システムを研究する (知力12)</GuidenceSystem1.label>
+  <GuidenceSystem1.description>研究員にミサイルで行うテストを計画させよう</GuidenceSystem1.description>
 
-  <GuidenceSystem2.StepLabel>実弾テストでデータを集める</GuidenceSystem2.StepLabel>
-  <GuidenceSystem2.StepDesc>任意の目標に向けてミサイルを発射しよう。データの量は発射と爆発の成功次第</GuidenceSystem2.StepDesc>
+  <GuidenceSystem2.label>実弾テストでデータを集める</GuidenceSystem2.label>
+  <GuidenceSystem2.description>任意の目標に向けてミサイルを発射しよう。データの量は発射と爆発の成功次第</GuidenceSystem2.description>
 
-  <GuidenceSystem3.StepLabel>誘導システムを研究する (知力12)</GuidenceSystem3.StepLabel>
-  <GuidenceSystem3.StepDesc>研究員にテストの結果の分析とソフトウェアのアップグレードをさせよう</GuidenceSystem3.StepDesc>
+  <GuidenceSystem3.label>誘導システムを研究する (知力12)</GuidenceSystem3.label>
+  <GuidenceSystem3.description>研究員にテストの結果の分析とソフトウェアのアップグレードをさせよう</GuidenceSystem3.description>
 
-  <MEPS1.StepLabel>電力増幅モジュールを研究する (知力12)</MEPS1.StepLabel>
-  <MEPS1.StepDesc>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</MEPS1.StepDesc>
+  <MEPS1.label>電力増幅モジュールを研究する (知力12)</MEPS1.label>
+  <MEPS1.description>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</MEPS1.description>
 
-  <MEPS2.StepLabel>実弾テストでデータを集める</MEPS2.StepLabel>
-  <MEPS2.StepDesc>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</MEPS2.StepDesc>
+  <MEPS2.label>実弾テストでデータを集める</MEPS2.label>
+  <MEPS2.description>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</MEPS2.description>
 
-  <MEPS3.StepLabel>電力増幅モジュールを研究する (知力10)</MEPS3.StepLabel>
-  <MEPS3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</MEPS3.StepDesc>
+  <MEPS3.label>電力増幅モジュールを研究する (知力10)</MEPS3.label>
+  <MEPS3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</MEPS3.description>
 
-  <MEPS4.StepLabel>部品を評価する (工芸10)</MEPS4.StepLabel>
-  <MEPS4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</MEPS4.StepDesc>
+  <MEPS4.label>部品を評価する (工芸10)</MEPS4.label>
+  <MEPS4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</MEPS4.description>
 
-  <ALC1.StepLabel>液体冷却モジュールを研究する (知力12)</ALC1.StepLabel>
-  <ALC1.StepDesc>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</ALC1.StepDesc>
+  <ALC1.label>液体冷却モジュールを研究する (知力12)</ALC1.label>
+  <ALC1.description>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</ALC1.description>
 
-  <ALC2.StepLabel>実弾テストでデータを集める</ALC2.StepLabel>
-  <ALC2.StepDesc>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</ALC2.StepDesc>
+  <ALC2.label>実弾テストでデータを集める</ALC2.label>
+  <ALC2.description>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</ALC2.description>
 
-  <ALC3.StepLabel>液体冷却モジュールを研究する (知力10)</ALC3.StepLabel>
-  <ALC3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</ALC3.StepDesc>
+  <ALC3.label>液体冷却モジュールを研究する (知力10)</ALC3.label>
+  <ALC3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</ALC3.description>
 
-  <ALC4.StepLabel>部品を評価する (工芸10)</ALC4.StepLabel>
-  <ALC4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ALC4.StepDesc>
+  <ALC4.label>部品を評価する (工芸10)</ALC4.label>
+  <ALC4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ALC4.description>
 
-  <ERS1.StepLabel>エネルギー回収モジュールを研究する (知力12)</ERS1.StepLabel>
-  <ERS1.StepDesc>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</ERS1.StepDesc>
+  <ERS1.label>エネルギー回収モジュールを研究する (知力12)</ERS1.label>
+  <ERS1.description>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</ERS1.description>
 
-  <ERS2.StepLabel>実弾テストでデータを集める</ERS2.StepLabel>
-  <ERS2.StepDesc>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</ERS2.StepDesc>
+  <ERS2.label>実弾テストでデータを集める</ERS2.label>
+  <ERS2.description>出力を最大に、任意の目標に向けてエネルギー兵器を撃ち、データを集めよう</ERS2.description>
 
-  <ERS3.StepLabel>エネルギー回収モジュールを研究する (知力10)</ERS3.StepLabel>
-  <ERS3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</ERS3.StepDesc>
+  <ERS3.label>エネルギー回収モジュールを研究する (知力10)</ERS3.label>
+  <ERS3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</ERS3.description>
 
-  <ERS4.StepLabel>部品を評価する (工芸10)</ERS4.StepLabel>
-  <ERS4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ERS4.StepDesc>
+  <ERS4.label>部品を評価する (工芸10)</ERS4.label>
+  <ERS4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</ERS4.description>
 
-  <SCADS1.StepLabel>シールドモジュールを研究する (知力8)</SCADS1.StepLabel>
-  <SCADS1.StepDesc>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</SCADS1.StepDesc>
+  <SCADS1.label>シールドモジュールを研究する (知力8)</SCADS1.label>
+  <SCADS1.description>研究員にリムアトミクス設計エネルギー兵器で行うテストを計画させよう</SCADS1.description>
 
-  <SCADS2.StepLabel>シールドモジュールを研究し続ける (知力8)</SCADS2.StepLabel>
-  <SCADS2.StepDesc>研究員に既存のデータの分析、仮説の設定、そして武器研究台での実験をさせよう</SCADS2.StepDesc>
+  <SCADS2.label>シールドモジュールを研究し続ける (知力8)</SCADS2.label>
+  <SCADS2.description>研究員に既存のデータの分析、仮説の設定、そして武器研究台での実験をさせよう</SCADS2.description>
 
-  <SCADS3.StepLabel>部品を評価する (工芸8)</SCADS3.StepLabel>
-  <SCADS3.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</SCADS3.StepDesc>
+  <SCADS3.label>部品を評価する (工芸8)</SCADS3.label>
+  <SCADS3.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</SCADS3.description>
 
-  <SCADS4.StepLabel>実戦テストのデータを集めよう</SCADS4.StepLabel>
-  <SCADS4.StepDesc>シールドを導入したエネルギー兵器を任意の目標に向けて撃ち、データを集めよう </SCADS4.StepDesc>
+  <SCADS4.label>実戦テストのデータを集めよう</SCADS4.label>
+  <SCADS4.description>シールドを導入したエネルギー兵器を任意の目標に向けて撃ち、データを集めよう </SCADS4.description>
 
       <ResearchDesc>The Advanced Threat Detection module (ATOM) is an upgrade module for the TACS, when installed it it significantly increases the power usage increasing its range and scanning power, and making it possible to detect threats at much greater distances, acting as an early warning system for potential attacks. Airborne attacks will leave little room for warning, and smaller groups of ground units will be hard to detect, but large ground based fighting forces will be easily detected. False positives may be possible when using the system.</ResearchDesc>
     <ResearchDescDisc>You can now produce ATOM modules at the Rimatomics machining table, to install them select a TACS and toggle the ATOM button\n\nThe ATOM module must be manually installed in each new TACS</ResearchDescDisc>
 
-  <DriveActuator1.StepLabel>サーボモータを研究する (知力10)</DriveActuator1.StepLabel>
-  <DriveActuator1.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</DriveActuator1.StepDesc>
+  <DriveActuator1.label>サーボモータを研究する (知力10)</DriveActuator1.label>
+  <DriveActuator1.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</DriveActuator1.description>
 
-  <DriveActuator2.StepLabel>部品を評価する (工芸10)</DriveActuator2.StepLabel>
-  <DriveActuator2.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</DriveActuator2.StepDesc>
+  <DriveActuator2.label>部品を評価する (工芸10)</DriveActuator2.label>
+  <DriveActuator2.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</DriveActuator2.description>
 
-  <Railgun_TargetingChip1.StepLabel>ターゲッティングチップを研究する (知力12)</Railgun_TargetingChip1.StepLabel>
-  <Railgun_TargetingChip1.StepDesc>研究員にレールガンで行うテストを計画させよう</Railgun_TargetingChip1.StepDesc>
+  <Railgun_TargetingChip1.label>ターゲッティングチップを研究する (知力12)</Railgun_TargetingChip1.label>
+  <Railgun_TargetingChip1.description>研究員にレールガンで行うテストを計画させよう</Railgun_TargetingChip1.description>
 
-  <Railgun_TargetingChip2.StepLabel>実弾テストでデータを集める</Railgun_TargetingChip2.StepLabel>
-  <Railgun_TargetingChip2.StepDesc>任意の目標に向けてレールガンを撃ち、データを集めよう</Railgun_TargetingChip2.StepDesc>
+  <Railgun_TargetingChip2.label>実弾テストでデータを集める</Railgun_TargetingChip2.label>
+  <Railgun_TargetingChip2.description>任意の目標に向けてレールガンを撃ち、データを集めよう</Railgun_TargetingChip2.description>
 
-  <Railgun_TargetingChip3.StepLabel>ターゲッティングチップを研究する (知力10)</Railgun_TargetingChip3.StepLabel>
-  <Railgun_TargetingChip3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</Railgun_TargetingChip3.StepDesc>
+  <Railgun_TargetingChip3.label>ターゲッティングチップを研究する (知力10)</Railgun_TargetingChip3.label>
+  <Railgun_TargetingChip3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</Railgun_TargetingChip3.description>
 
-  <Railgun_TargetingChip4.StepLabel>部品を評価する (工芸10)</Railgun_TargetingChip4.StepLabel>
-  <Railgun_TargetingChip4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</Railgun_TargetingChip4.StepDesc>
+  <Railgun_TargetingChip4.label>部品を評価する (工芸10)</Railgun_TargetingChip4.label>
+  <Railgun_TargetingChip4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</Railgun_TargetingChip4.description>
 
-  <LenseModule1.StepLabel>レンズモジュールを研究する (知力16)</LenseModule1.StepLabel>
-  <LenseModule1.StepDesc>研究員にオベリスクで行うテストを計画させよう</LenseModule1.StepDesc>
+  <LenseModule1.label>レンズモジュールを研究する (知力16)</LenseModule1.label>
+  <LenseModule1.description>研究員にオベリスクで行うテストを計画させよう</LenseModule1.description>
 
-  <LenseModule2.StepLabel>実弾テストでデータを集める</LenseModule2.StepLabel>
-  <LenseModule2.StepDesc>任意の目標に向けてオベリスクを撃ち、データを集めよう</LenseModule2.StepDesc>
+  <LenseModule2.label>実弾テストでデータを集める</LenseModule2.label>
+  <LenseModule2.description>任意の目標に向けてオベリスクを撃ち、データを集めよう</LenseModule2.description>
 
-  <LenseModule3.StepLabel>レンズモジュールを研究する (知力18)</LenseModule3.StepLabel>
-  <LenseModule3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</LenseModule3.StepDesc>
+  <LenseModule3.label>レンズモジュールを研究する (知力18)</LenseModule3.label>
+  <LenseModule3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</LenseModule3.description>
 
-  <LenseModule4.StepLabel>部品を評価する (工芸18)</LenseModule4.StepLabel>
-  <LenseModule4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</LenseModule4.StepDesc>
+  <LenseModule4.label>部品を評価する (工芸18)</LenseModule4.label>
+  <LenseModule4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</LenseModule4.description>
 
-  <BeamSplitter1.StepLabel>ビームスプリッターを研究する (知力16)</BeamSplitter1.StepLabel>
-  <BeamSplitter1.StepDesc>研究員にオベリスクで行うテストを計画させよう</BeamSplitter1.StepDesc>
+  <BeamSplitter1.label>ビームスプリッターを研究する (知力16)</BeamSplitter1.label>
+  <BeamSplitter1.description>研究員にオベリスクで行うテストを計画させよう</BeamSplitter1.description>
 
-  <BeamSplitter2.StepLabel>実弾テストでデータを集める</BeamSplitter2.StepLabel>
-  <BeamSplitter2.StepDesc>任意の目標に向けてオベリスクを撃ち、データを集めよう</BeamSplitter2.StepDesc>
+  <BeamSplitter2.label>実弾テストでデータを集める</BeamSplitter2.label>
+  <BeamSplitter2.description>任意の目標に向けてオベリスクを撃ち、データを集めよう</BeamSplitter2.description>
 
-  <BeamSplitter3.StepLabel>ビームスプリッターを研究する (知力18)</BeamSplitter3.StepLabel>
-  <BeamSplitter3.StepDesc>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</BeamSplitter3.StepDesc>
+  <BeamSplitter3.label>ビームスプリッターを研究する (知力18)</BeamSplitter3.label>
+  <BeamSplitter3.description>研究員にデータの分析、仮説の設定、そして武器研究台での実験をさせよう</BeamSplitter3.description>
 
-  <BeamSplitter4.StepLabel>部品を評価する (工芸18)</BeamSplitter4.StepLabel>
-  <BeamSplitter4.StepDesc>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</BeamSplitter4.StepDesc>
+  <BeamSplitter4.label>部品を評価する (工芸18)</BeamSplitter4.label>
+  <BeamSplitter4.description>工芸家に、実際に使える装置を研究の結果に基づて開発させよう</BeamSplitter4.description>
 
 
 </LanguageData>
