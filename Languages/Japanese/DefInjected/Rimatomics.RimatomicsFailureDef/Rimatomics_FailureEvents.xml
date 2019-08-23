@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Failure_FacilityBreakdown.label>TODO</Failure_FacilityBreakdown.label>
+    <Failure_FacilityBreakdown.description>TODO</Failure_FacilityBreakdown.description>
+
+    <Failure_RadiationLeak.label>TODO</Failure_RadiationLeak.label>
+    <Failure_RadiationLeak.description>TODO</Failure_RadiationLeak.description>
+
+    <Failure_MicrowaveLeak.label>TODO</Failure_MicrowaveLeak.label>
+    <Failure_MicrowaveLeak.description>TODO</Failure_MicrowaveLeak.description>
+
+    <Failure_AcidLeak.label>TODO</Failure_AcidLeak.label>
+    <Failure_AcidLeak.description>TODO</Failure_AcidLeak.description>
+
+    <Failure_GasLeak.label>TODO</Failure_GasLeak.label>
+    <Failure_GasLeak.description>TODO</Failure_GasLeak.description>
+
+    <Failure_BlindingFlash.label>TODO</Failure_BlindingFlash.label>
+    <Failure_BlindingFlash.description>TODO</Failure_BlindingFlash.description>
+
+    <Failure_ArcDischarge.label>TODO</Failure_ArcDischarge.label>
+    <Failure_ArcDischarge.description>TODO</Failure_ArcDischarge.description>
+
+    <Failure_ArcDischarge.label>TODO</Failure_ArcDischarge.label>
+    <Failure_ArcDischarge.description>TODO</Failure_ArcDischarge.description>
+
+    <Failure_ArcDischarge.label>TODO</Failure_ArcDischarge.label>
+    <Failure_ArcDischarge.description>TODO</Failure_ArcDischarge.description>
+
+    <Failure_LaserDischarge.label>TODO</Failure_LaserDischarge.label>
+    <Failure_LaserDischarge.description>TODO</Failure_LaserDischarge.description>
+
+    <Failure_Overvoltage.label>TODO</Failure_Overvoltage.label>
+    <Failure_Overvoltage.description>TODO</Failure_Overvoltage.description>
+
+    <Failure_ShortCircuit.label>TODO</Failure_ShortCircuit.label>
+    <Failure_ShortCircuit.description>TODO</Failure_ShortCircuit.description>
+
+<!--
+RimatomicsFailureDef: Failure_FacilityBreakdown.label 'Facility Breakdown'
+RimatomicsFailureDef: Failure_FacilityBreakdown.description 'The facility has broken down during research'
+RimatomicsFailureDef: Failure_RadiationLeak.label 'Radiation Leak'
+RimatomicsFailureDef: Failure_RadiationLeak.description 'The facility is leaking a short burst of radiation'
+RimatomicsFailureDef: Failure_MicrowaveLeak.label 'Microwave Leak'
+RimatomicsFailureDef: Failure_MicrowaveLeak.description 'The facility is leaking microwave radiation'
+RimatomicsFailureDef: Failure_AcidLeak.label 'Acid Leak'
+RimatomicsFailureDef: Failure_AcidLeak.description 'The facility is leaking acid'
+RimatomicsFailureDef: Failure_GasLeak.label 'Gas Leak'
+RimatomicsFailureDef: Failure_GasLeak.description 'The facility is leaking toxic gas'
+RimatomicsFailureDef: Failure_BlindingFlash.label 'Blinding Flash'
+RimatomicsFailureDef: Failure_BlindingFlash.description 'A blinding flash of light has emanated from the facility'
+RimatomicsFailureDef: Failure_ArcDischarge.label 'Arc Discharge'
+RimatomicsFailureDef: Failure_ArcDischarge.description 'An arc of high voltage electricity shot from the facility'
+RimatomicsFailureDef: Failure_LaserDischarge.label 'Laser Discharge'
+RimatomicsFailureDef: Failure_LaserDischarge.description 'A Laser discharge shot from the facility'
+RimatomicsFailureDef: Failure_Overvoltage.label 'Overvoltage'
+RimatomicsFailureDef: Failure_Overvoltage.description 'The facility has suffered a power surge and started a fire'
+RimatomicsFailureDef: Failure_ShortCircuit.label 'Short Circuit'
+RimatomicsFailureDef: Failure_ShortCircuit.description 'The facility has short-circuited. Switch off the power immediately or the building will be destroyed!'
+
+-->
+
+
+</LanguageData>

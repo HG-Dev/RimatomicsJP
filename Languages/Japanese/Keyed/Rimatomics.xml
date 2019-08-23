@@ -25,8 +25,8 @@
   <RADIATIONLEAK>    ::放射漏れ::</RADIATIONLEAK>
   <RADIATIONLEAKSYSTEM>    ::放射能を探知::</RADIATIONLEAKSYSTEM><!-- improve this -->
 
-  <PodsScrambledOK>TACSは敵の郵送ポッドを妨害しました</PodsScrambledOK>
-  <PodsScrambledDesc>TACSは{0}kwのEMPパルスで敵の郵送ポッドの誘導システムを妨害しました。</PodsScrambledDesc>
+  <PodsScrambledOK>敵の郵送ポッドを妨害しました</PodsScrambledOK>
+  <PodsScrambledDesc>{0}kwのEMPパルスで敵の郵送ポッドの誘導システムを妨害しました</PodsScrambledDesc>
   <PodsScrambledFail>敵の郵送ポッドの妨害に失敗しました</PodsScrambledFail>
   <PodsScrambledFailDesc>EMPパルスで敵襲を妨害するには{0}kwが必要ですが、残量が足りませんでした</PodsScrambledFailDesc>
   <ScrambleDropPods>郵送ポッドを妨害</ScrambleDropPods>
@@ -79,7 +79,7 @@
   <ATOMattackGround>地上</ATOMattackGround>
   <ATOMattackPods>輸送ポッド</ATOMattackPods>
   <ATOMdetection>脅威を検知</ATOMdetection>
-  <ATOMdetectionDesc>TACSは差し迫る脅威を探知しました。およそ{2}後に、{0}は{1}を攻撃する見込みです。</ATOMdetectionDesc>
+  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を探知しました。およそ{2}後に、{0}は{1}を攻撃する見込みです。</ATOMdetectionDesc>
   <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>
@@ -132,6 +132,7 @@
   <critsetid>IDを設定</critsetid>
   <critCoolingCapShare>冷却能力の共有: {1}台のタービンで{0}</critCoolingCapShare><!-- check this -->
 
+  <ControlRod>制御棒</ControlRod>
   <crackedRemoveNow>\n️️️⚠️燃料破損⚠️ ただちに取り除くように</crackedRemoveNow><!-- check this -->
   <critCoreTemp>炉心温度: {0}C</critCoreTemp>
   <critCoreEnergy>電力: {0}kW</critCoreEnergy>
@@ -161,6 +162,8 @@
   <critTemp>温度</critTemp>
   <critCooling>冷却</critCooling>
   <critTurbine>タービン</critTurbine>
+  <critControlRod>制御棒</critControlRod>
+  <critTargetRod>制御棒レベル CHECK</critTargetRod>
   <critCoreIntegrity>炉心保全性</critCoreIntegrity>
   <critNeutronFlux>中性子束</critNeutronFlux>
   <critFuelRemaining2>残っている燃料: {0}</critFuelRemaining2>

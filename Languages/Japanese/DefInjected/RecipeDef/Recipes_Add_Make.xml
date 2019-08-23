@@ -25,9 +25,9 @@
   <Make_FissionWarhead.description>人は過ちを繰り返す。</Make_FissionWarhead.description>
   <Make_FissionWarhead.jobString>核弾頭を作っている</Make_FissionWarhead.jobString>
 
-  <Make_ReactorComponents.label>炉心コンポーネントを作る</Make_ReactorComponents.label>
+  <!--<Make_ReactorComponents.label>炉心コンポーネントを作る</Make_ReactorComponents.label>
   <Make_ReactorComponents.description>原子炉を建てるのに必要なコンポーネントを作ります。</Make_ReactorComponents.description>
-  <Make_ReactorComponents.jobString>炉心コンポーネントを作っている</Make_ReactorComponents.jobString>
+  <Make_ReactorComponents.jobString>炉心コンポーネントを作っている</Make_ReactorComponents.jobString>-->
 
   <Make_turbineBlade.label>タービン翼を作る</Make_turbineBlade.label>
   <Make_turbineBlade.description>タービンの中で高圧蒸気に耐えて回り続けるタービン翼を作ります。</Make_turbineBlade.description>
@@ -77,21 +77,21 @@
   <Make_RailgunSabotDU.description>最終ロケット兵器並みのダメージを与えられるサボット弾を作ります。</Make_RailgunSabotDU.description>
   <Make_RailgunSabotDU.jobString>サボット弾 (ウラン)を作っている</Make_RailgunSabotDU.jobString>
 
-  <Make_ReactorConductors.label>炉心導体を作る</Make_ReactorConductors.label>
+  <!--<Make_ReactorConductors.label>炉心導体を作る</Make_ReactorConductors.label>
   <Make_ReactorConductors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ReactorConductors.description>
   <Make_ReactorConductors.jobString>炉心導体を作っている</Make_ReactorConductors.jobString>
 
   <Make_ReactorShielding.label>炉心遮蔽板を作る</Make_ReactorShielding.label>
   <Make_ReactorShielding.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ReactorShielding.description>
-  <Make_ReactorShielding.jobString>炉心遮蔽板を作っている</Make_ReactorShielding.jobString>
+  <Make_ReactorShielding.jobString>炉心遮蔽板を作っている</Make_ReactorShielding.jobString>-->
 
   <Make_ControlRodActuator.label>制御棒アクチュエータを作る</Make_ControlRodActuator.label>
   <Make_ControlRodActuator.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ControlRodActuator.description>
   <Make_ControlRodActuator.jobString>を作っている</Make_ControlRodActuator.jobString>
 
-  <Make_NeutronReflectors.label>中性子反射鏡を作る</Make_NeutronReflectors.label>
+  <!--<Make_NeutronReflectors.label>中性子反射鏡を作る</Make_NeutronReflectors.label>
   <Make_NeutronReflectors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_NeutronReflectors.description>
-  <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>
+  <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>-->
 
   <Make_ATOM.label>モジュールを作る</Make_ATOM.label>
   <Make_ATOM.description></Make_ATOM.description>

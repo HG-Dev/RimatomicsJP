@@ -2,7 +2,7 @@
 <LanguageData>
 
   <BuildingsNuclear.label>原子力</BuildingsNuclear.label>
-  <Nuclear.label>原子力</Nuclear.label>
+  <!--<Nuclear.label>原子力</Nuclear.label>-->
   <NuclearWaste.label>核廃棄物</NuclearWaste.label>
   <NuclearFuel.label>核燃料</NuclearFuel.label>
   <RimatomicsProduct.label>リムアトミクス</RimatomicsProduct.label>

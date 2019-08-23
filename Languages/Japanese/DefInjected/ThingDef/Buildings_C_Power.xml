@@ -52,5 +52,8 @@
   <RadiationDetector.label>放射線測定器</RadiationDetector.label>
   <RadiationDetector.description>設置した場所の空間放射線量率を測定する装置。</RadiationDetector.description>
 
+  <RadiationShielding.label>強化遮蔽壁</RadiationShielding.label>
+  <RadiationShielding.description>劣化したウランで強化された放射線遮蔽壁。</RadiationShielding.description>
+
 
 </LanguageData>

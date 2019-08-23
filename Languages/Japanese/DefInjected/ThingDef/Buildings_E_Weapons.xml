@@ -9,25 +9,49 @@
   
   <RadarDish.label>目標捕捉 システム</RadarDish.label>
   <RadarDish.description>複合的な技術を生かし、陸と空の目標を追跡して兵器システムに情報を提供する装置。</RadarDish.description>
-  
+  <RadarDish.comps.CompUpgradable.upgrades.0.stats.0>脅威探知を強化する</RadarDish.comps.CompUpgradable.upgrades.0.stats.0>
+
+  <PPCADS.label>ADS</PPCADS.label>
   <PPCADS.description>RA-22「ADS」\nアクティブ・ディナイアル・システムという非致死性指向性エネルギー兵器。この兵器が発射するミリ波の電磁波を浴びる対象は皮膚の灼熱感により一時敗走させられる。充電されたPPCと目標捕捉システムが必要</PPCADS.description>
+  <PPCADS.comps.CompUpgradable.upgrades.0.stats.0>AOE +10 (対象増加)</PPCADS.comps.CompUpgradable.upgrades.0.stats.0>
+  <ADS_Dish.label>ADSディッシュ</ADS_Dish.label>
+  <ADS_Dish.description>激しい痛みを起こすミリ波の電磁波を発射するパーツ。</ADS_Dish.description>
   
   <PPCTeslaCoil.label>テスラ コイル</PPCTeslaCoil.label>
   <PPCTeslaCoil.description>RA-42T「テスラコイル」\n短距離内の対象に向けて強力な放電を放つ装置。充電されたPPCと目標捕捉システムが必要</PPCTeslaCoil.description>
-  
+  <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>火力 +15%</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>
+  <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>射程 +10</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>
+  <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>パルスサイズ +15%</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>
+  <Tesla_Coil_Arc_Discharger.label>放電電極</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.description>放電アークを発出するパーツ。</Tesla_Coil_Arc_Discharger.description>
+
+  <PPCHEL.label>HEL</PPCHEL.label>
   <PPCHEL.description>RA-702「HEL」\nハイ・エネルギー・レーザーという飛翔体を迎撃する装置。充電されたPPCと目標捕捉システムが必要</PPCHEL.description>
-  
+  <PPCHEL.comps.CompUpgradable.upgrades.0.stats.0>撃ち落とし時間 -50%</PPCHEL.comps.CompUpgradable.upgrades.0.stats.0>
+  <PPCHEL.comps.CompUpgradable.upgrades.0.stats.1>電力 +50%</PPCHEL.comps.CompUpgradable.upgrades.0.stats.1>
+  <HEL_Laser.label>HELレーザー</HEL_Laser.label>
+  <HEL_Laser.description>HELレーザーだってば</HEL_Laser.description>
+
   <PPCRailgun.label>レールガン</PPCRailgun.label>
   <PPCRailgun.description>RA-1802D「ショウグン」\n電磁誘導により弾帯を加速して撃ち出す兵器。超遠距離。充電されたPPCと目標捕捉システムが必要</PPCRailgun.description>
-  
+  <PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>射程 +10 マス</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>
+  <PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>パルスサイズ +15%</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>
+
   <Railgun_Cannon.label>レールガン迫撃砲</Railgun_Cannon.label>
   <Railgun_Cannon.description>レールガンと似た方法で壁を越えて爆弾を飛ばす兵器。遠距離で命中率が低い。</Railgun_Cannon.description>
 
   <PPCObelisk.label>オベリスク</PPCObelisk.label>
   <PPCObelisk.description>RA-2152-X「オベリスク」\n集束レーザーで遠くにいる対象も完璧な命中率で焼き尽くせる指向性エネルギー兵器。充電されたPPCと目標捕捉システムが必要</PPCObelisk.description>
+  <PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>火力 +15%</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>
+  <PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>パルスサイズ +15%</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>
+  <Obelisk_Laser.label>オベリスクレーザー</Obelisk_Laser.label>
+  <Obelisk_Laser.description>かっこいいですよねぇ</Obelisk_Laser.description>
 
   <PPCMarauder.label>電磁 プラズマ砲</PPCMarauder.label>
   <PPCMarauder.description>RA-3b「オロチ」\n電磁誘導によりプラズマのトロイド（環状体、つまりドーナツ）を加速して撃ち出す兵器。遠距離。充電されたPPCと目標捕捉システムが必要</PPCMarauder.description>
+  <PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>バースト +10発</PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>
+  <Marauder_Railgun.label>「マラーダー」級 レールガン</Marauder_Railgun.label>
+  <Marauder_Railgun.description>「マラーダー」とはレイダーのことだが、海賊と大砲が思い浮かぶようなネーミングだ。</Marauder_Railgun.description>
 
   <Bullet_PlasmaToroid.label>プラズマトロイド</Bullet_PlasmaToroid.label>
   

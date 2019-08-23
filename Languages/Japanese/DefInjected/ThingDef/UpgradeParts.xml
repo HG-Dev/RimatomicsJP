@@ -3,17 +3,17 @@
 
   <!-- CORE -->
 
-  <ReactorConductors.label>炉心導体</ReactorConductors.label>
+  <!--<ReactorConductors.label>炉心導体</ReactorConductors.label>
   <ReactorConductors.description>リムアトミクス原子炉用のパーツ。(電力↑)</ReactorConductors.description>
 
   <ReactorShielding.label>炉心遮蔽板</ReactorShielding.label>
   <ReactorShielding.description>リムアトミクス原子炉用のパーツ。(放射能↓)</ReactorShielding.description>
 
+  <NeutronReflectors.label>中性子反射鏡</NeutronReflectors.label>
+  <NeutronReflectors.description>リムアトミクス原子炉用のパーツ。(電力↑)</NeutronReflectors.description>-->
+
   <ControlRodActuator.label>制御棒 アクチュエータ</ControlRodActuator.label>
   <ControlRodActuator.description>リムアトミクス原子炉用のパーツ。(反応速度↑)</ControlRodActuator.description>
-
-  <NeutronReflectors.label>中性子反射鏡</NeutronReflectors.label>
-  <NeutronReflectors.description>リムアトミクス原子炉用のパーツ。(電力↑)</NeutronReflectors.description>
 
   <MEPS.label>電力増幅 モジュール</MEPS.label>
   <MEPS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用と火力↑)</MEPS.description>
@@ -40,7 +40,7 @@
   <LenseModule.description>オベリスクのパーツ。(威力↑)</LenseModule.description>
 
   <ATOM.label>脅威検出 モジュール</ATOM.label>
-  <ATOM.description>TACSのパーツ。(襲撃の忠告)</ATOM.description>
+  <ATOM.description>目標捕捉システムのパーツ。(襲撃の忠告)</ATOM.description>
 
 
 </LanguageData>
