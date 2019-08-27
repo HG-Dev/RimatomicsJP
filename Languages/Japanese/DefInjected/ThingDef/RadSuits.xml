@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Apparel_RadiationMask.label>放射線防護用マスク</Apparel_RadiationMask.label>
-  <Apparel_RadiationMask.description>このマスクは遮蔽機能のライニングがあるが、もっとも大切な機能は放射性物質や毒が体についたり吸い込んだりすることを防ぐこと。</Apparel_RadiationMask.description>
+  <Apparel_RadiationMask.description>裏地に遮蔽機能を持つマスク。ただしもっとも大切な機能は放射性物質や毒が体についたり吸い込んだりすることを防ぐこと。</Apparel_RadiationMask.description>
 
   <Apparel_MoppMaskDesert.label>MOPPマスク (デザート)</Apparel_MoppMaskDesert.label>
   <Apparel_MoppMaskDesert.description>戦闘用の放射線防護用マスク。普通のマスクより頑丈な作りで、突刺系攻撃から中程度の防御してくれる。すなわち、ヘルメット並みの防弾性がある。</Apparel_MoppMaskDesert.description>
@@ -14,7 +14,7 @@
   <Apparel_MoppMaskSnow.description>戦闘用の放射線防護用マスク。普通のマスクより頑丈な作りで、突刺系攻撃から中程度の防御してくれる。すなわち、ヘルメット並みの防弾性がある。</Apparel_MoppMaskSnow.description>
 
   <Apparel_RadiationSuit.label>放射線防護服</Apparel_RadiationSuit.label>
-  <Apparel_RadiationSuit.description>遮蔽機能をもつライニングのあるスーツ。着用者を放射性物質や毒から守ってくれる。</Apparel_RadiationSuit.description>
+  <Apparel_RadiationSuit.description>裏地に遮蔽機能を持つスーツ。着用者を放射性物質や毒から守ってくれる。</Apparel_RadiationSuit.description>
 
 <!-- TODO: Patch MOPP suits with better sharp resistance and change these strings -->
 
