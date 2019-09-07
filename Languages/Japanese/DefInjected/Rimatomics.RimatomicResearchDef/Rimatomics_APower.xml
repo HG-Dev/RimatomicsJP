@@ -23,7 +23,7 @@
   <NuclearReactor.ResearchDescDisc>設備の建築制限はなくなりました。原子力発電所を自由に開発したり、研究で設計を改善したりできます。</NuclearReactor.ResearchDescDisc>
 
   <Plutonium.ResearchLabel>プルトニウム加工</Plutonium.ResearchLabel>
-  <Plutonium.ResearchDesc>プルトニウムは使用済みの核燃料から作られ、MOX燃料、放射性同位元素熱電発電機、そして核兵器の作成に使えます。加工の過程はバイオバイオ液化燃料が必要で、副生物として劣化ウランと核廃棄物も作られます。</Plutonium.ResearchDesc>
+  <Plutonium.ResearchDesc>プルトニウムは使用済みの核燃料から作られ、MOX燃料、放射性同位元素熱電発電機、そして核兵器の作成に使えます。加工の過程はバイオ液化燃料が必要で、副生物として劣化ウランと核廃棄物も作られます。</Plutonium.ResearchDesc>
   <Plutonium.ResearchDescDisc>使用済みの核燃料を再処理できます。プルトニウムなどの収穫量は燃料の転換率によって異なります。普通の原子炉で使われた燃料の転換率は高くても60%ですが、高度は繁殖炉は120%までが可能です。転換率を確認するには、炉心の管理画面でスロットの上にカーソルを合わせてください。\n\n使用済み核燃料や核廃棄物の近くでの作業は放射線防護服が望ましいし、プルトニウム加工機は炉心の近くでコロニーの中心から離れた場所で作るのがおすすめです。プルトニウムは安全な輸送箱に入ります。</Plutonium.ResearchDescDisc>
 
   <AdvReactor.ResearchLabel>高度な原子力</AdvReactor.ResearchLabel>

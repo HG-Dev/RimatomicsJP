@@ -7,7 +7,7 @@
   <ICBM2.label>プルトニウムを作る</ICBM2.label>
   <ICBM2.description>核弾頭に必要なプルトニウムを加工しよう。そのためには、使用済みの核燃料をプルトニウム加工機に搭載してください</ICBM2.description>
 
-  <ICBM3.label>試験炉で実験する (知力 7)</ICBM3.label>
+  <ICBM3.label>試験炉で実験する</ICBM3.label>
   <ICBM3.description>武器化する前に、まず試験炉で核分裂を詳しく調べよう</ICBM3.description>
 
   <ICBM4.label>武器管制システムを作る</ICBM4.label>
@@ -22,7 +22,7 @@
   <ICBM7.label>データを集める</ICBM7.label>
   <ICBM7.description>任意の目標に向けてミサイルを発射しよう。データの量は発射と爆発の成功次第</ICBM7.description>
 
-  <EnergyWeapons1.label>エネルギー兵器を研究する (知力 5)</EnergyWeapons1.label>
+  <EnergyWeapons1.label>エネルギー兵器を研究する</EnergyWeapons1.label>
   <EnergyWeapons1.description>研究員にリムアトミクス設計のエネルギー兵器のデザインと仕組みを調べさせよう</EnergyWeapons1.description>
 
   <ConstructWeaponBenchStep.label>兵器研究台を作る</ConstructWeaponBenchStep.label>
@@ -41,13 +41,13 @@
   <EnergyWeapons7.description>武器管制システムと同じ電力網を共有するようにPPC電池を作る。\n\nPPC電池は一般的な電池と同じように余剰出力で充電するが、PPCは普通の電池より効率的なコンデンサであり、リムアトミクス兵器が必要とする電力パルスを提供できる。また、一般的な電池と違って屋外防水ケーシングで守られている。弊社は変圧器を使って孤立したPPC/兵器用の電力網を作るようおすすめする。</EnergyWeapons7.description>
 
 <!--
-  <EnergyWeapons1.label>エネルギー兵器を研究する (知力 5)</EnergyWeapons1.label>
+  <EnergyWeapons1.label>エネルギー兵器を研究する</EnergyWeapons1.label>
   <EnergyWeapons1.description>研究員にリムアトミクス設計のエネルギー兵器のデザインと仕組みを調べさせよう</EnergyWeapons1.description>
 
-  <EnergyWeapons2.label>部品を評価する (工芸 5)</EnergyWeapons2.label>
+  <EnergyWeapons2.label>部品を評価する</EnergyWeapons2.label>
   <EnergyWeapons2.description>工芸家に、入手できる資源からエネルギー兵器に必要な部品を作るための設計をさせよう</EnergyWeapons2.description>
 
-  <EnergyWeapons3.label>設計図を調べる (建築 5)</EnergyWeapons3.label>
+  <EnergyWeapons3.label>設計図を調べる</EnergyWeapons3.label>
   <EnergyWeapons3.description>建築家に、入手できる道具でエネルギー兵器が作れる設計を固めさせよう</EnergyWeapons3.description>
 
   <EnergyWeapons4.label>兵器研究台を作る</EnergyWeapons4.label>
@@ -65,10 +65,10 @@
 
   <!-- ADS -->
 
-  <ADS1.label>ADSを研究する (知力 5)</ADS1.label>
+  <ADS1.label>ADSを研究する</ADS1.label>
   <ADS1.description>アクティブ・ディナイアル・システム (以後ADS)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ADS1.description>
 
-  <ADS2.label>兵器実験 (知力 5)</ADS2.label>
+  <ADS2.label>兵器実験</ADS2.label>
   <ADS2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</ADS2.description>
 
   <ADS4.label>ADSのプロトタイプを作る</ADS4.label>
@@ -80,10 +80,10 @@
 
   <!-- Tesla Coil -->
 
-  <TeslaCoil1.label>テスラコイルを研究する (知力 6)</TeslaCoil1.label>
+  <TeslaCoil1.label>テスラコイルを研究する</TeslaCoil1.label>
   <TeslaCoil1.description>テスラコイルを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</TeslaCoil1.description>
 
-  <TeslaCoil2.label>兵器実験 (知力 5)</TeslaCoil2.label>
+  <TeslaCoil2.label>兵器実験</TeslaCoil2.label>
   <TeslaCoil2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</TeslaCoil2.description>
 
   <TeslaCoil4.label>テスラコイルのプロトタイプを作る</TeslaCoil4.label>
@@ -95,10 +95,10 @@
 
   <!-- HEL -->
 
-  <HEL1.label>HELを研究する (知力 8)</HEL1.label>
+  <HEL1.label>HELを研究する</HEL1.label>
   <HEL1.description>ハイ・エネルギー・レーザー (以後HEL)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</HEL1.description>
 
-  <HEL2.label>兵器実験 (知力 7)</HEL2.label>
+  <HEL2.label>兵器実験</HEL2.label>
   <HEL2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</HEL2.description>
 
   <HEL4.label>HELのプロトタイプを作る</HEL4.label>
@@ -110,10 +110,10 @@
 
   <!-- /////////////////////////////////////////////////////// -->
 
-  <Railgun1.label>レールガンを研究する (知力 8)</Railgun1.label>
+  <Railgun1.label>レールガンを研究する</Railgun1.label>
   <Railgun1.description>レールガンを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Railgun1.description>
 
-  <Railgun2.label>兵器実験 (知力 8)</Railgun2.label>
+  <Railgun2.label>兵器実験</Railgun2.label>
   <Railgun2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Railgun2.description>
 
   <Railgun4.label>レールガンのプロトタイプを作る</Railgun4.label>
@@ -125,10 +125,10 @@
   <Railgun6.label>射撃任務のデータを集める</Railgun6.label>
   <Railgun6.description>レールガンの「射撃任務」機能を試そう。範囲内のマップに偵察隊を送ってから、プロトタイプのレールガンの「射撃任務」機能をクリックして砲撃する場所を選ぼう</Railgun6.description>
 
-  <Obelisk1.label>オベリスクを研究する (知力 8)</Obelisk1.label>
+  <Obelisk1.label>オベリスクを研究する</Obelisk1.label>
   <Obelisk1.description>オベリスクを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Obelisk1.description>
 
-  <Obelisk2.label>兵器実験 (知力 8)</Obelisk2.label>
+  <Obelisk2.label>兵器実験</Obelisk2.label>
   <Obelisk2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Obelisk2.description>
 
   <Obelisk4.label>オベリスクのプロトタイプを作る</Obelisk4.label>
@@ -137,10 +137,10 @@
   <Obelisk5.label>データを集める</Obelisk5.label>
   <Obelisk5.description>データを集めるために生物に向けて試射しよう</Obelisk5.description>
 
-  <Marauder1.label>電磁プラズマ砲を研究する (知力 8)</Marauder1.label>
+  <Marauder1.label>電磁プラズマ砲を研究する</Marauder1.label>
   <Marauder1.description>電磁プラズマ砲を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Marauder1.description>
 
-  <Marauder2.label>兵器実験 (知力 8)</Marauder2.label>
+  <Marauder2.label>兵器実験</Marauder2.label>
   <Marauder2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Marauder2.description>
 
   <Marauder4.label>電磁プラズマ砲のプロトタイプを作る</Marauder4.label>

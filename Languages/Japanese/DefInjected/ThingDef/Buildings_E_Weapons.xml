@@ -22,7 +22,7 @@
   <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>火力 +15%</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>
   <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>射程 +10</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>
   <PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>パルスサイズ +15%</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>
-  <Tesla_Coil_Arc_Discharger.label>放電電極</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.label>放電装置</Tesla_Coil_Arc_Discharger.label>
   <Tesla_Coil_Arc_Discharger.description>放電アークを発出するパーツ。</Tesla_Coil_Arc_Discharger.description>
 
   <PPCHEL.label>HEL</PPCHEL.label>
@@ -33,7 +33,7 @@
   <HEL_Laser.description>HELレーザーだってば</HEL_Laser.description>
 
   <PPCRailgun.label>レールガン</PPCRailgun.label>
-  <PPCRailgun.description>RA-1802D「ショウグン」\n電磁誘導により弾帯を加速して撃ち出す兵器。超遠距離。充電されたPPCと目標捕捉システムが必要</PPCRailgun.description>
+  <PPCRailgun.description>RA-1802D「ショウグン」\n電磁誘導により弾帯を加速して撃ち出す兵器。超遠距離（同じマップでは壁を超えて撃てません）。充電されたPPCと目標捕捉システムが必要</PPCRailgun.description>
   <PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>射程 +10 マス</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>
   <PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>パルスサイズ +15%</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>
 

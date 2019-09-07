@@ -33,7 +33,7 @@
   <!-- /////////////////////////////////////////////////////// -->
 
   <Railgun.ResearchLabel>レールガン</Railgun.ResearchLabel>
-  <Railgun.ResearchDesc>レールガンは電磁誘導により弾帯を加速して超遠距離の目標を爆撃できます。25弾を持つマガジンからサボット弾を撃ちます。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。\n\n基礎ダメージ: 65\n電気パルス: 1000kW\n基礎射程距離: 40</Railgun.ResearchDesc>
+  <Railgun.ResearchDesc>レールガンは電磁誘導により弾帯を加速して超遠距離の目標を爆撃できます。同じマップでは、壁の後ろにある目標をターゲットできません。25弾を持つマガジンからサボット弾を撃ちます。\n\n充電されたPPC、武器管制システム、そして目標捕捉システムが必要です。\n\n基礎ダメージ: 65\n電気パルス: 1000kW\n基礎射程距離: 40</Railgun.ResearchDesc>
   <Railgun.ResearchDescDisc>レールガンを自由に建てられます。既存のレールガンは最大出力で稼働しています。</Railgun.ResearchDescDisc>
   <Railgun.ProjTypeLabel>エネルギー兵器</Railgun.ProjTypeLabel>
 

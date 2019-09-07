@@ -22,8 +22,8 @@
   <EVACUATE>    ::避難の勧告::</EVACUATE>
   <CONTROLRODJAM>    ::制御棒故障::</CONTROLRODJAM>
   <ReactorAlerts>炉心忠告:</ReactorAlerts>
-  <RADIATIONLEAK>    ::放射漏れ::</RADIATIONLEAK>
-  <RADIATIONLEAKSYSTEM>    ::放射能を探知::</RADIATIONLEAKSYSTEM><!-- improve this -->
+  <RADIATIONLEAK>    ::放射線漏れ::</RADIATIONLEAK>
+  <RADIATIONLEAKSYSTEM>    ::放射線を探知::</RADIATIONLEAKSYSTEM>
 
   <PodsScrambledOK>敵の郵送ポッドを妨害しました</PodsScrambledOK>
   <PodsScrambledDesc>{0}kwのEMPパルスで敵の郵送ポッドの誘導システムを妨害しました</PodsScrambledDesc>
@@ -52,7 +52,7 @@
   <StartingUp>起動中</StartingUp>
   <ShuttingDown>停止中</ShuttingDown>
   <Active>稼働中</Active>
-  <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}\n放射: {5}\n\n{6}</ReactorBreakdown>
+  <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}</ReactorBreakdown>
   <SlotBreakdown>TTF: {0}\n最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
   <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
   <cycleScreens>全体監視</cycleScreens>
@@ -75,11 +75,11 @@
 
   <!--ENERGY WEAPONS-->
   <VeteranBonus>  ボーナス: クールダウン -{0}%</VeteranBonus>
-  <AnUnknownForce>未確認部隊</AnUnknownForce>
+  <AnUnknownForce>未確認の部隊</AnUnknownForce>
   <ATOMattackGround>地上</ATOMattackGround>
   <ATOMattackPods>輸送ポッド</ATOMattackPods>
   <ATOMdetection>脅威を検知</ATOMdetection>
-  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を探知しました。およそ{2}後に、{0}は{1}を攻撃する見込みです。</ATOMdetectionDesc>
+  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を\n探知しました。およそ{2}後に、\n{0}は{1}で攻撃する見込みです。</ATOMdetectionDesc>
   <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>
@@ -124,7 +124,7 @@
   <!--REACTOR BUILDINGS-->
   <ReactorUptime>稼働時間: {0}</ReactorUptime>
   <PuCreated>Pu: {0}</PuCreated>
-  <fuelCracked>⚠破損⚠️</fuelCracked>
+  <fuelCracked>⚠破損⚠</fuelCracked>
   <Managefuel>管理</Managefuel>
   <RoofedTower>冷却塔上の屋根を外してください</RoofedTower>
   <TurbineRPM>毎分{0}回転 ({1})</TurbineRPM>
@@ -133,7 +133,7 @@
   <critCoolingCapShare>冷却能力の共有: {1}台のタービンで{0}</critCoolingCapShare><!-- check this -->
 
   <ControlRod>制御棒</ControlRod>
-  <crackedRemoveNow>\n️️️⚠️燃料破損⚠️ ただちに取り除くように</crackedRemoveNow><!-- check this -->
+  <crackedRemoveNow>\n️️️⚠燃料破損⚠ ただちに取り除くように</crackedRemoveNow><!-- check this -->
   <critCoreTemp>炉心温度: {0}C</critCoreTemp>
   <critCoreEnergy>電力: {0}kW</critCoreEnergy>
   <critCoreCooling>冷却: {0}</critCoreCooling>
@@ -230,7 +230,7 @@
   <CurProj>プロジェクト: {0}</CurProj>
   <CurStep>段階: {0}</CurStep>
   <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
-
+  <NextResearchStep>次の段階:</NextResearchStep>
 
   <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
   <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>

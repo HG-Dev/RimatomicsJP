@@ -52,7 +52,7 @@
   <ResearchDriveActuator.stats.0>タレットの回転速度 +200%</ResearchDriveActuator.stats.0>
 
   <ResearchRailgun_TargetingChip.ResearchLabel>ターゲッティングチップ</ResearchRailgun_TargetingChip.ResearchLabel>
-  <ResearchRailgun_TargetingChip.ResearchDesc>このモジュールはレールガンの命中率と射程距離を上げられます。まずはそのための実戦データを集めましょう。</ResearchRailgun_TargetingChip.ResearchDesc>
+  <ResearchRailgun_TargetingChip.ResearchDesc>このモジュールはレールガンの命中率と射程距離を上げます。まずはそのための実戦データを集めましょう。</ResearchRailgun_TargetingChip.ResearchDesc>
   <ResearchRailgun_TargetingChip.ResearchDescDisc>ターゲッティングチップをリムアトミクス工作機械で作れるようになりました。レールガンを選択した時のメニューから導入したいアップグレードを指定できます。</ResearchRailgun_TargetingChip.ResearchDescDisc>
   <ResearchRailgun_TargetingChip.stats.0>射撃任務の精度↑</ResearchRailgun_TargetingChip.stats.0>
   <ResearchRailgun_TargetingChip.stats.1>射程 +10 マス</ResearchRailgun_TargetingChip.stats.1>
