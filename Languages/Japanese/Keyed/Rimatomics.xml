@@ -79,7 +79,7 @@
   <ATOMattackGround>地上</ATOMattackGround>
   <ATOMattackPods>輸送ポッド</ATOMattackPods>
   <ATOMdetection>脅威を検知</ATOMdetection>
-  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を\n探知しました。およそ{2}後に、\n{0}は{1}で攻撃する見込みです。</ATOMdetectionDesc>
+  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を\n探知しました。およそ{2}[後]に、\n{0}は{1}で攻撃する見込みです。</ATOMdetectionDesc>
   <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>

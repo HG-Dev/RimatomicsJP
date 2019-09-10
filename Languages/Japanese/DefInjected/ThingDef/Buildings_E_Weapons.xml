@@ -50,8 +50,8 @@
   <PPCMarauder.label>電磁 プラズマ砲</PPCMarauder.label>
   <PPCMarauder.description>RA-3b「オロチ」\n電磁誘導によりプラズマのトロイド（環状体、つまりドーナツ）を加速して撃ち出す兵器。遠距離。充電されたPPCと目標捕捉システムが必要</PPCMarauder.description>
   <PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>バースト +10発</PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>
-  <Marauder_Railgun.label>「マラーダー」級 レールガン</Marauder_Railgun.label>
-  <Marauder_Railgun.description>「マラーダー」とはレイダーのことだが、海賊と大砲が思い浮かぶようなネーミングだ。</Marauder_Railgun.description>
+  <Marauder_Railgun.label>プラズマ砲</Marauder_Railgun.label>
+  <Marauder_Railgun.description>英語版では「マラーダー」と呼ばれています。マラーダーとはレイダーのことだが、海賊と大砲が思い浮かぶようなネーミングだ。</Marauder_Railgun.description>
 
   <Bullet_PlasmaToroid.label>プラズマトロイド</Bullet_PlasmaToroid.label>
   
