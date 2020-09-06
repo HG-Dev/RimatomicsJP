@@ -1,8 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!--NEW-->
+  <Weaponrankicons>兵器ランクのアイコン</Weaponrankicons>
+  <WeaponrankiconsDesc>マップ上のエネルギー兵器に、ランクを現すアイコンを表示する</WeaponrankiconsDesc>
+  <Showresearchbutton>研究タブ</Showresearchbutton>
+  <ShowresearchbuttonDesc>メイン画面のタブにリムアトミクス研究のリンクを加える (リムアトミクス研究は研究端末からいつでも開ける)</ShowresearchbuttonDesc>
+  <Mannedreactorconsole>有人の制御卓</Mannedreactorconsole>
+  <MannedreactorconsoleDesc>原子炉の管理画面を出すには入植者に制御卓を使わせる必要がある</MannedreactorconsoleDesc>
+  <ThreatDetectionToggle>脅威探知</ThreatDetectionToggle>
+  <ThreatDetectionToggleDesc>脅威探知モードの切り替え</ThreatDetectionToggleDesc>
+  <AutothrotIDCount>いくつかの炉心は同じID ({0}) に設定されている。自動スロットルを起動させるにはユニークなIDが必要だ</AutothrotIDCount>
+  <AutothrotOn>{0} の自動スロットルは起動した</AutothrotOn>
+  <AutothrotOff>{0} の自動スロットルは解除した</AutothrotOff>
+  <AutothrotRange>余剰電力が ±5000w に至るまで起動できない</AutothrotRange>
+  <AutothrotTip>自動スロットルを起動させる\n\n炉心につながった制御卓の電気ネットワークの余剰電力が ±5000w 以内の場合、電力のバランスを保つように自動スロットルが使える</AutothrotTip>
+  <CoreIdMismatch>原子炉とコンソールのIDが不一致。原子炉の自動スロットルを利用するには炉心とコンソールのIDを合わせよう</CoreIdMismatch>
+  <FuelLifeRange>{0} 燃料の残量％</FuelLifeRange>
+  <Designateremoveallspent>諸費した燃料をすべて取り出す</Designateremoveallspent>
+  <Designateremoveall>燃料をすべて取り出す</Designateremoveall>
+  <Designateremoveallprocessable>加工可能な燃料をすべて取り出す</Designateremoveallprocessable>
+  <Designateinstallall>全スロットに燃料を搭載</Designateinstallall>
+  <Clearalldesignations>指定をすべて消す</Clearalldesignations>
+  <MissingPESUpgrades>Preemtive Strikeが有効の場合、接近中の郵送ポッドを探知するためにはまずPESの「飛翔体探知」研究を終了させる必要がる。郵送ポッド妨害システムは正常に働く</MissingPESUpgrades>
+  <ReactorAlert>原子炉警告!</ReactorAlert>
+  <ShortRangeStratLaunch>戦術的目標</ShortRangeStratLaunch>
+  <ShortRangeStratLaunchDesc>戦略核兵器を当マップの目標に使う</ShortRangeStratLaunchDesc>
+  <LongRangeStratLaunch>戦略的目標</LongRangeStratLaunch>
+  <LongRangeStratLaunchDesc>戦略核兵器を惑星上の目標に使う</LongRangeStratLaunchDesc>
+  <HighYieldWarhead>高出力</HighYieldWarhead>
+  <HighYieldWarheadDesc>ミサイルは巨大な爆発を起こし、山の地下バンカーでない限りマップ上のすべてを壊滅させる</HighYieldWarheadDesc>
+  <LowYieldWarhead>低出力</LowYieldWarhead>
+  <LowYieldWarheadDesc>ミサイルは戦術的で小さい爆発を起こす</LowYieldWarheadDesc>
+  <RimatomicsValveLabel>バルブ切り替え</RimatomicsValveLabel>
+  <RimatomicsValveLabelDesc>バルブを開くか閉じる</RimatomicsValveLabelDesc>
 
-
+  <FlareScram>自動スクラム</FlareScram>
+  <FlareScramDesc>太陽フレアの際に自動スクラムが発動するかどうか</FlareScramDesc>
+  <TargetAllShells>砲弾すべてを打ち落とす</TargetAllShells>
+  <TargetEnemyShells>敵の砲弾を打ち落とす</TargetEnemyShells>
+  <ThreatDetection>襲撃の予測</ThreatDetection>
+  <PoolLoading>格納</PoolLoading>
+  <PoolUnloading>取り出し</PoolUnloading>
+  <NextResearchStep>次の段階:</NextResearchStep>
   <!--ALERTS-->
   <AlertNeedsTurbine>炉心はタービンが必要</AlertNeedsTurbine>
   <AlertNeedsTurbineDesc>炉心はタービンに繋げる必要があります。炉心を個別に起動すると過熱や溶融が発生する場合があります。</AlertNeedsTurbineDesc>
@@ -21,7 +61,7 @@
   <COREMELT>    ::炉心溶融の危険::</COREMELT>
   <EVACUATE>    ::避難の勧告::</EVACUATE>
   <CONTROLRODJAM>    ::制御棒故障::</CONTROLRODJAM>
-  <ReactorAlerts>炉心忠告:</ReactorAlerts>
+  <ReactorAlerts>原子炉警告:</ReactorAlerts>
   <RADIATIONLEAK>    ::放射線漏れ::</RADIATIONLEAK>
   <RADIATIONLEAKSYSTEM>    ::放射線を探知::</RADIATIONLEAKSYSTEM>
 
@@ -80,7 +120,7 @@
   <ATOMattackPods>輸送ポッド</ATOMattackPods>
   <ATOMdetection>脅威を検知</ATOMdetection>
   <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を\n探知しました。およそ{2}[後]に、\n{0}は{1}で攻撃する見込みです。</ATOMdetectionDesc>
-  <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
+  <ScadLivesMatter>シールドHP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>
   <energyWepLoadedShell>装填中: {0}</energyWepLoadedShell>
@@ -152,20 +192,17 @@
   <critConsumed>消費: {0} W</critConsumed>
   <critPnetPct>配電網負担: {0}</critPnetPct>
   <critPowerGeneration>: {0} W</critPowerGeneration>
-  <critValveOpen>バルブ: オープン</critValveOpen>
-  <critValveClosed>バルブ: クローズ</critValveClosed>
+  <critValveOpen>バルブ（開）</critValveOpen>
+  <critValveClosed>バルブ（閉）</critValveClosed>
   <critOpenValve>バルブを開く</critOpenValve>
   <critCloseValve>バルブを閉じる</critCloseValve>
   <critToggleValve>バルブの操作</critToggleValve>
   <critTempBoost>温度ブースト</critTempBoost>
-  <critXE>Xe-135</critXE>
   <critTemp>温度</critTemp>
   <critCooling>冷却</critCooling>
   <critTurbine>タービン</critTurbine>
   <critControlRod>制御棒</critControlRod>
-  <critTargetRod>制御棒レベル CHECK</critTargetRod>
-  <critCoreIntegrity>炉心保全性</critCoreIntegrity>
-  <critNeutronFlux>中性子束</critNeutronFlux>
+  <critTargetRod>制御棒設定</critTargetRod>
   <critFuelRemaining2>残っている燃料: {0}</critFuelRemaining2>
   <Empty>空</Empty>
   <Activated>作動中</Activated>
@@ -230,7 +267,7 @@
   <CurProj>プロジェクト: {0}</CurProj>
   <CurStep>段階: {0}</CurStep>
   <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
-  <NextResearchStep>次の段階:</NextResearchStep>
+
 
   <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
   <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>

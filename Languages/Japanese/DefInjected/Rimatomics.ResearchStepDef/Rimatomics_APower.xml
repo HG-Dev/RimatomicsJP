@@ -35,7 +35,7 @@
   <NuclearReactorExperiments.description>今後の展開のために、研究員に試験炉で実験をさせよう。大失敗もあり得るので、用心が必要。</NuclearReactorExperiments.description>
   
   <BuildReactorCore.label>原子炉を作る</BuildReactorCore.label>
-  <BuildReactorCore.description>原子炉の骨組みを作ろう。骨組みから原子炉を作るには追加の作業が必要だ。原子炉を作る場所だが、弊社は孤立した部屋で建てることを推奨する。燃料を搭載する際に放射線が発生するので、入植者を漏れた放射線から守る良い設備のかぎとなるのは放射線を吸収する壁の厚さと素材だ。また、放射線のダメージは発生源からの距離とともに減少するため、壁と原子炉の間にスペースを残すのも良い。</BuildReactorCore.description>
+  <BuildReactorCore.description>原子炉の骨組みを作ろう。弊社は孤立した部屋で建てることを推奨する。燃料を搭載する際に放射線が漏れる場合があるので、放射線を吸収できる壁の厚さと素材を検討してください。また、放射線ダメージは発生源からの距離とともに減少するので、壁と原子炉の間にスペースを残すのも良い。骨組みの工程後、追加の作業が必要。</BuildReactorCore.description>
   
   <BuildReactorTurbine.label>タービンを作る</BuildReactorTurbine.label>
   <BuildReactorTurbine.description>タービンを作るためには数多くのタービン翼を必要とする。リムアトミクス工作台で作れる。タービン自体は危険ではないので、特別に安全な部屋を必要としないが、室内でしか作れない。</BuildReactorTurbine.description>

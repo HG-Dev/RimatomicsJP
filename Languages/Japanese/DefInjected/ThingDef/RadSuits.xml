@@ -19,12 +19,12 @@
 <!-- TODO: Patch MOPP suits with better sharp resistance and change these strings -->
 
   <Apparel_MoppSuitDesert.label>MOPPスーツ (デザート)</Apparel_MoppSuitDesert.label>
-  <Apparel_MoppSuitDesert.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、見た目ほど防弾性があるわけではない。</Apparel_MoppSuitDesert.description>
+  <Apparel_MoppSuitDesert.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、防弾性があるわけではない。</Apparel_MoppSuitDesert.description>
 
   <Apparel_MoppSuitWoodland.label>MOPPスーツ (ウッドランド)</Apparel_MoppSuitWoodland.label>
-  <Apparel_MoppSuitWoodland.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、見た目ほど防弾性があるわけではない。</Apparel_MoppSuitWoodland.description>
+  <Apparel_MoppSuitWoodland.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、防弾性があるわけではない。</Apparel_MoppSuitWoodland.description>
 
   <Apparel_MoppSuitSnow.label>MOPPスーツ (雪)</Apparel_MoppSuitSnow.label>
-  <Apparel_MoppSuitSnow.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、見た目ほど防弾性があるわけではない。</Apparel_MoppSuitSnow.description>
+  <Apparel_MoppSuitSnow.description>戦闘用の放射線防護服。普通の放射線防護用スーツより頑丈な作りだが、防弾性があるわけではない。</Apparel_MoppSuitSnow.description>
 
 </LanguageData>
