@@ -2,6 +2,8 @@
 <LanguageData>
 
   <RimatomicsResearch.reportString>TargetAで研究中</RimatomicsResearch.reportString>
+  <SuperviseConstruction.reportString>TargetAを組み立て中</SuperviseConstruction.reportString>
+  <SuperviseResearch.reportString>TargetAで研究中</SuperviseResearch.reportString>
   <UpgradeBuilding.reportString>TargetAをアップグレード中</UpgradeBuilding.reportString>
   <FleeADS.reportString>TargetAから逃げている</FleeADS.reportString>
   <LoadRailgunMagazine.reportString>レールガンのマガジンを装填中</LoadRailgunMagazine.reportString>
@@ -11,7 +13,7 @@
   <RemoveFuelModule.reportString>TargetAから燃料棒を取り出し中</RemoveFuelModule.reportString>
   <LoadSpentFuel.reportString>TargetBをTargetAに運搬中</LoadSpentFuel.reportString>
   <UnloadPlutonium.reportString>TargetAからプルトニウムを取り出し中</UnloadPlutonium.reportString>
-  <RepairCore.reportString>炉心を修理中</RepairCore.reportString>
+  <!--<RepairCore.reportString>炉心を修理中</RepairCore.reportString>-->
 
 
 </LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Geigercounter1.label>放射線測定器を研究する</Geigercounter1.label>
+  <Geigercounter1.description>研究員に放射線測定器のデザインと仕組みを調べさせよう</Geigercounter1.description>
+
+  <Geigercounter2.label>部品を評価する</Geigercounter2.label>
+  <Geigercounter2.description>工芸家に、入手できる資源や道具を利用して、入植者全員分の携帯放射線測定器の作成と維持する方法を調べさせよう</Geigercounter2.description>
+
+  <!-- /////////////// -->
+
+  <RadiationSuits1.label>放射線防護服を研究する</RadiationSuits1.label>
+  <RadiationSuits1.description>自分で放射線防護服を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RadiationSuits1.description>
+
+  <RadiationSuits2.label>部品を評価する</RadiationSuits2.label>
+  <RadiationSuits2.description>裁縫家に、入手できる資源や道具を利用して作れる放射線防護服をデザインさせよう</RadiationSuits2.description>
+
+  <!--Nuclear research-->
+
+  <NuclearResearch1.label>原子力を研究する</NuclearResearch1.label>
+  <NuclearResearch1.description>原子炉を作る前に、研究員にそのデザインと仕組みを調べさせよう</NuclearResearch1.description>
+
+  <NuclearResearchPractical.label>研究と訓練</NuclearResearchPractical.label>
+  <NuclearResearchPractical.description>原子炉制御ソフトウェアをインストールし、訓練しながら実験炉の機能を試そう</NuclearResearchPractical.description>
+
+  <NuclearResearchConstruct.label>試験炉を作る</NuclearResearchConstruct.label>
+  <NuclearResearchConstruct.description>リムアトミクス研究端末の近くに実験炉を作ろう。試験を行うために、入植者がアクセスできる場所が必要だ。火災予防策を講じた研究室が適切</NuclearResearchConstruct.description>
+
+  <!--Nuclear reactor-->
+
+  <NuclearReactorResearchPhase.label>原子力を研究する</NuclearReactorResearchPhase.label>
+  <NuclearReactorResearchPhase.description>最初の原子炉を作るためには、まず研究員に原子炉施設のデザインと調べさせて組み立ての準備をさせよう</NuclearReactorResearchPhase.description>
+
+  <NuclearReactorExperiments.label>試験炉で実験する（リスクあり）</NuclearReactorExperiments.label>
+  <NuclearReactorExperiments.description>今後の展開のために、研究員に試験炉で実験をさせよう。大失敗もあり得るので、用心が必要。</NuclearReactorExperiments.description>
+  
+  <BuildReactorCore.label>原子炉を作る</BuildReactorCore.label>
+  <BuildReactorCore.description>原子炉の骨組みを作ろう。弊社は孤立した部屋で建てることを推奨する。燃料を搭載する際に放射線が漏れる場合があるので、放射線を吸収できる壁の厚さと素材を検討してください。また、放射線ダメージは発生源からの距離とともに減少するので、壁と原子炉の間にスペースを残すのも良い。骨組みの工程後、追加の作業が必要。</BuildReactorCore.description>
+  
+  <BuildReactorTurbine.label>タービンを作る</BuildReactorTurbine.label>
+  <BuildReactorTurbine.description>タービンを作るためには数多くのタービン翼を必要とする。リムアトミクス工作台で作れる。タービン自体は危険ではないので、特別に安全な部屋を必要としないが、室内でしか作れない。</BuildReactorTurbine.description>
+
+  <TestForCore.label>原子炉とタービンを繋げる</TestForCore.label>
+  <TestForCore.description>原子炉とタービンを蒸気パイプと冷水パイプで繋げよう</TestForCore.description>
+
+  <BuildReactorCooling.label>冷却設備を作る</BuildReactorCooling.label>
+  <BuildReactorCooling.description>冷却できる設備を一つ建てて冷却剤パイプでタービンに繋げよう。冷却設備は水冷ポンプ、冷却塔、そしてラジエーターの3種類がある。水冷ポンプは川や大きな水域が必要だ。冷却塔は使う電力とスペースが大きく、外で建てる必要がある。ラジエーターの冷却能力は設備の中で最低だが、作りやすくて室内でも配置できる。</BuildReactorCooling.description>
+
+  <BuildTransformer.label>変圧器を作る</BuildTransformer.label>
+  <BuildTransformer.description>変圧器ができたらタービンと高電圧線で繋げよう。変圧器1台でタービンから200kwを変換して配電できる。複数の変圧器を使えば別けた電力網に送電できる。なお、電力制限の設定を使えば電力網への送電を管理できる。</BuildTransformer.description>
+
+  <BuildControlComputer.label>原子炉の制御卓を作る</BuildControlComputer.label>
+  <BuildControlComputer.description>制御卓は炉心とパラレルケーブルで繋げよう。パラレルケーブルは炉心も繋げることができ、制御卓からペアリングする炉心のIDを設定できる。研究員を操作卓に送れば、ペアリングした炉心の管理画面が開く。また、監視画面は同時に複数開ける。</BuildControlComputer.description>
+
+  <TestReactor.label>原子炉を試す</TestReactor.label>
+  <TestReactor.description>核燃料棒を作りまたは購入し、装荷するスロットを管理画面で選択しよう。少なくとも2本の燃料棒を隣接して装荷したら、管理画面で炉心を起動し、中性子束を8%以上の数値まで上げてデーターを集めよう</TestReactor.description>
+
+  <Plutonium1.label>プルトニウム加工を研究する</Plutonium1.label>
+  <Plutonium1.description>プルトニウム加工機を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Plutonium1.description>
+
+  <Plutonium2.label>プルトニウム加工機を作る</Plutonium2.label>
+  <Plutonium2.description>プルトニウムを加工している際は放射線を浴びることがよくある。放射性物質への暴露を予防できるように、加工機は炉心か貯蔵プールの近くに作るのがおすすめ。また、担当者には放射線防護服を着させよう</Plutonium2.description>
+
+  <Plutonium3.label>プルトニウム加工機で実験する（リスクあり）</Plutonium3.label>
+  <Plutonium3.description>プルトニウム加工機を試し、正常であることを確認しよう</Plutonium3.description>
+
+  <AdvReactor1.label>試験炉で研究する</AdvReactor1.label>
+  <AdvReactor1.description>研究員に試験炉で実験をさせよう</AdvReactor1.description>
+
+  <AdvReactor2.label>原子炉を研究する</AdvReactor2.label>
+  <AdvReactor2.description>今後組み立てるであろう高度な原子炉の設計を研究員に固めさせよう</AdvReactor2.description>
+
+  <AdvReactor3.label>高度な原子炉を試す</AdvReactor3.label>
+  <AdvReactor3.description>タイプ「X」またはタイプ「V」の原子炉を安全な部屋に作ろう</AdvReactor3.description>
+
+  <AdvReactor4.label>高度な原子炉を試す</AdvReactor4.label>
+  <AdvReactor4.description>原子炉を起動し、発電させてデータを集めよう</AdvReactor4.description>
+
+  <RTG1.label>放射性同位元素熱電発電機を研究する</RTG1.label>
+  <RTG1.description>放射性同位元素熱電発電機 (以後Radioisotope Thermoelectric GeneratorでRTG)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</RTG1.description>
+
+  <RTG2.label>プルトニウムを作る</RTG2.label>
+  <RTG2.description>プルトニウム加工機で使用済みの核燃料を加工し、RTGに必要なプルトニウムを作ろう</RTG2.description>
+
+  <RTG3.label>部品を評価する</RTG3.label>
+  <RTG3.description>研究員に、入手できる道具でRTGが作れる設計を固めさせよう</RTG3.description>
+
+</LanguageData>

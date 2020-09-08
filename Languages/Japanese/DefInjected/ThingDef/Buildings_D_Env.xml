@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RadiationShielding.label>放射線遮蔽</RadiationShielding.label>
-  <RadiationShielding.description>屋根を支え、放射線を止める壁。</RadiationShielding.description>
+  <!--<RadiationShielding.label>放射線遮蔽</RadiationShielding.label>
+  <RadiationShielding.description>屋根を支え、放射線を止める壁。</RadiationShielding.description>-->
 
   <ReactorSacrophagus.label>石棺</ReactorSacrophagus.label>
   <ReactorSacrophagus.description>溶融事故を起こした炉心を保管するために作られた外壁コンクリートの建造物。</ReactorSacrophagus.description>
@@ -22,8 +22,10 @@
   <PoppedReactorCoreC.label>溶融炉心</PoppedReactorCoreC.label>
   <PoppedReactorCoreC.description>溶融事故を起こした炉心。</PoppedReactorCoreC.description>
 
-  <CrashedRadioactiveShipPart.label>放射能汚染された宇宙船の一部</CrashedRadioactiveShipPart.label>
-  <CrashedRadioactiveShipPart.description>宇宙船の一部と思われる不思議な破片。コンピュータ、人工知能、金属を含有しているかもしれない。この機体は高レベルの放射線を放出している。</CrashedRadioactiveShipPart.description>
+  <!--<CrashedRadioactiveShipPart.label>放射能汚染された宇宙船の一部</CrashedRadioactiveShipPart.label>
+  <CrashedRadioactiveShipPart.description>宇宙船の一部と思われる不思議な破片。コンピュータ、人工知能、金属を含有しているかもしれない。この機体は高レベルの放射線を放出している。</CrashedRadioactiveShipPart.description>-->
 
+  <DU_Blastdoor.label>ブラストドア</DU_Blastdoor.label>
+  <DU_Blastdoor.description>劣化ウランで強化された、爆発の圧力に耐えられる、\n放射線遮蔽にもなる扉。</DU_Blastdoor.description>
 
 </LanguageData>

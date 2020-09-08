@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ICBM1.label>核兵器を研究する</ICBM1.label>
+  <ICBM1.description>核兵器を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ICBM1.description>
+
+  <ICBM2.label>プルトニウムを作る</ICBM2.label>
+  <ICBM2.description>核弾頭に必要なプルトニウムを加工しよう。そのためには、使用済みの核燃料をプルトニウム加工機に搭載してください</ICBM2.description>
+
+  <ICBM3.label>試験炉で実験する</ICBM3.label>
+  <ICBM3.description>武器化する前に、まず試験炉で核分裂を詳しく調べよう</ICBM3.description>
+
+  <ICBM4.label>武器管制システムを作る</ICBM4.label>
+  <ICBM4.description>電力網を共有するエネルギー兵器を制御するのに使う、有人の情報処理システム。画面には目標とPPC電池の残量も確認できる</ICBM4.description>
+
+  <ICBM5.label>目標捕捉システムを作る</ICBM5.label>
+  <ICBM5.description>あらゆる陸と空の目標を追跡して兵器システムに情報を提供する装置。ミサイルのトラッキングと誘導にも欠かせない</ICBM5.description>
+
+  <ICBM6.label>ミサイルサイロを建てる</ICBM6.label>
+  <ICBM6.description>ミサイルサイロができたら、武器管制システムと同じ電力網に繋げよう</ICBM6.description>
+
+  <ICBM7.label>データを集める</ICBM7.label>
+  <ICBM7.description>任意の目標に向けてミサイルを発射しよう。データの量は発射と爆発の成功次第</ICBM7.description>
+
+  <EnergyWeapons1.label>エネルギー兵器を研究する</EnergyWeapons1.label>
+  <EnergyWeapons1.description>研究員にリムアトミクス設計のエネルギー兵器のデザインと仕組みを調べさせよう</EnergyWeapons1.description>
+
+  <ConstructWeaponBenchStep.label>兵器研究台を作る</ConstructWeaponBenchStep.label>
+  <ConstructWeaponBenchStep.description>兵器研究台は拾い範囲のエネルギー兵器の技術をプロトタイプしたり試したりするための装置が揃っている。ほとんどのエネルギー兵器の研究の実験はこの装置が必要で、入植者は実験を行うのに兵器研究台へのアクセスが必要だ。リスクも伴う研究であるため、火災予防策を講じた研究室が適切</ConstructWeaponBenchStep.description>
+
+  <EnergyWeapExperiments.label>エネルギー兵器の実験を行う</EnergyWeapExperiments.label>
+  <EnergyWeapExperiments.description>今後のエネルギー兵器研究のために初期的な実験が必要だ。リムアトミクス設計の兵器は非常に複雑で、コンポーネントから作るには兵器の技術を試し、理解しなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</EnergyWeapExperiments.description>
+
+  <EnergyWeapons5.label>武器管制システムを作る</EnergyWeapons5.label>
+  <EnergyWeapons5.description>電力網を共有するエネルギー兵器が必要とする情報処理システムとその端末。端末の画面には目標とPPC電池の残量も確認できる。兵器のセンサーと目標捕捉システムを利用して自動的に目標を指摘できるが、端末に人が配置されるまで殆どの兵器は待機する。兵器が自動的かどうかは装置をクリックした後、左下で確認できる。</EnergyWeapons5.description>
+
+  <EnergyWeapons6.label>目標捕捉システムを作る</EnergyWeapons6.label>
+  <EnergyWeapons6.description>あらゆる陸と空の目標を追跡して武器管制システムに情報を提供する装置。飛来するミサイルや砲弾もトラッキングする</EnergyWeapons6.description>
+
+  <EnergyWeapons7.label>PPC電池を作る</EnergyWeapons7.label>
+  <EnergyWeapons7.description>武器管制システムと同じ電力網を共有するようにPPC電池を作る。\n\nPPC電池は一般的な電池と同じように余剰出力で充電するが、PPCは普通の電池より効率的なコンデンサであり、リムアトミクス兵器が必要とする電力パルスを提供できる。また、一般的な電池と違って屋外防水ケーシングで守られている。弊社は変圧器を使って孤立したPPC/兵器用の電力網を作るようおすすめする。</EnergyWeapons7.description>
+
+<!--
+  <EnergyWeapons1.label>エネルギー兵器を研究する</EnergyWeapons1.label>
+  <EnergyWeapons1.description>研究員にリムアトミクス設計のエネルギー兵器のデザインと仕組みを調べさせよう</EnergyWeapons1.description>
+
+  <EnergyWeapons2.label>部品を評価する</EnergyWeapons2.label>
+  <EnergyWeapons2.description>工芸家に、入手できる資源からエネルギー兵器に必要な部品を作るための設計をさせよう</EnergyWeapons2.description>
+
+  <EnergyWeapons3.label>設計図を調べる</EnergyWeapons3.label>
+  <EnergyWeapons3.description>建築家に、入手できる道具でエネルギー兵器が作れる設計を固めさせよう</EnergyWeapons3.description>
+
+  <EnergyWeapons4.label>兵器研究台を作る</EnergyWeapons4.label>
+  <EnergyWeapons4.description>兵器研究台は拾い範囲のエネルギー兵器の技術をプロトタイプしたり試したりするための装置が揃っている。ほとんどのエネルギー兵器の研究の実験はこの装置が必要</EnergyWeapons4.description>
+
+  <EnergyWeapons5.label>武器管制システムを作る</EnergyWeapons5.label>
+  <EnergyWeapons5.description>電力網を共有するエネルギー兵器を制御するのに使う、有人の情報処理システム。画面には目標とPPC電池の残量も確認できる</EnergyWeapons5.description>
+
+  <EnergyWeapons6.label>目標捕捉システムを作る</EnergyWeapons6.label>
+  <EnergyWeapons6.description>あらゆる陸と空の目標を追跡して兵器システムに情報を提供する装置。飛来するミサイルや砲弾もトラッキングする</EnergyWeapons6.description>
+
+  <EnergyWeapons7.label>プロトタイプのPPC電池を作る</EnergyWeapons7.label>
+  <EnergyWeapons7.description>重要！武器管制システムと同じ電力網を共有するようにPPC電池を作り、《完全に充電してから、システムテストを行うために入植者を武器管制システムに送ろう》。PPC電池というスーパーコンデンサは一般の電池より充電効率がよく、エネルギー兵器に必要な巨大な電気パルスを提供できる。一般の電池と同じように余剰出力で充電できるが、一般の電池と違って屋外防水ケーシングで守られている。</EnergyWeapons7.description>
+-->
+
+  <!-- ADS -->
+
+  <ADS1.label>ADSを研究する</ADS1.label>
+  <ADS1.description>アクティブ・ディナイアル・システム (以後ADS)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</ADS1.description>
+
+  <ADS2.label>兵器実験</ADS2.label>
+  <ADS2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</ADS2.description>
+
+  <ADS4.label>ADSのプロトタイプを作る</ADS4.label>
+  <ADS4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</ADS4.description>
+
+  <ADS5.label>データを集める</ADS5.label>
+  <ADS5.description>データを集めるために生物に向けて試射しよう</ADS5.description>
+
+
+  <!-- Tesla Coil -->
+
+  <TeslaCoil1.label>テスラコイルを研究する</TeslaCoil1.label>
+  <TeslaCoil1.description>テスラコイルを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</TeslaCoil1.description>
+
+  <TeslaCoil2.label>兵器実験</TeslaCoil2.label>
+  <TeslaCoil2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</TeslaCoil2.description>
+
+  <TeslaCoil4.label>テスラコイルのプロトタイプを作る</TeslaCoil4.label>
+  <TeslaCoil4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</TeslaCoil4.description>
+
+  <TeslaCoil5.label>データを集める</TeslaCoil5.label>
+  <TeslaCoil5.description>データを集めるために生物に向けて試射しよう</TeslaCoil5.description>
+
+
+  <!-- HEL -->
+
+  <HEL1.label>HELを研究する</HEL1.label>
+  <HEL1.description>ハイ・エネルギー・レーザー (以後HEL)を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</HEL1.description>
+
+  <HEL2.label>兵器実験</HEL2.label>
+  <HEL2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</HEL2.description>
+
+  <HEL4.label>HELのプロトタイプを作る</HEL4.label>
+  <HEL4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</HEL4.description>
+
+  <HEL5.label>データを集める</HEL5.label>
+  <HEL5.description>飛んでいる砲弾を迎撃してデータを集めよう。 武器管制システムから自分で発射した砲弾も撃ち落とせるように設定できる</HEL5.description>
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+  <Railgun1.label>レールガンを研究する</Railgun1.label>
+  <Railgun1.description>レールガンを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Railgun1.description>
+
+  <Railgun2.label>兵器実験</Railgun2.label>
+  <Railgun2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Railgun2.description>
+
+  <Railgun4.label>レールガンのプロトタイプを作る</Railgun4.label>
+  <Railgun4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</Railgun4.description>
+
+  <Railgun5.label>データを集める</Railgun5.label>
+  <Railgun5.description>データを集めるために生物に向けて試射しよう</Railgun5.description>
+
+  <Railgun6.label>射撃任務のデータを集める</Railgun6.label>
+  <Railgun6.description>レールガンの「射撃任務」機能を試そう。範囲内のマップに偵察隊を送ってから、プロトタイプのレールガンの「射撃任務」機能をクリックして砲撃する場所を選ぼう</Railgun6.description>
+
+  <Obelisk1.label>オベリスクを研究する</Obelisk1.label>
+  <Obelisk1.description>オベリスクを作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Obelisk1.description>
+
+  <Obelisk2.label>兵器実験</Obelisk2.label>
+  <Obelisk2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Obelisk2.description>
+
+  <Obelisk4.label>オベリスクのプロトタイプを作る</Obelisk4.label>
+  <Obelisk4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</Obelisk4.description>
+
+  <Obelisk5.label>データを集める</Obelisk5.label>
+  <Obelisk5.description>データを集めるために生物に向けて試射しよう</Obelisk5.description>
+
+  <Marauder1.label>電磁プラズマ砲を研究する</Marauder1.label>
+  <Marauder1.description>電磁プラズマ砲を作るためには、まず研究員にそのデザインと仕組みを調べさせよう</Marauder1.description>
+
+  <Marauder2.label>兵器実験</Marauder2.label>
+  <Marauder2.description>兵器研究台で新しいデーターを実験で試さなければならない。もちろん、エネルギ兵器の実験はそれなりに危険である</Marauder2.description>
+
+  <Marauder4.label>電磁プラズマ砲のプロトタイプを作る</Marauder4.label>
+  <Marauder4.description>充電されたPPC電池と武器管制システムのある電力網に繋げたプロトタイプを作ろう。プロトタイプは誤動作が起こりやすいので、ご注意ください</Marauder4.description>
+
+  <Marauder5.label>データを集める</Marauder5.label>
+  <Marauder5.description>データを集めるために生物に向けて試射しよう</Marauder5.description>
+
+</LanguageData>

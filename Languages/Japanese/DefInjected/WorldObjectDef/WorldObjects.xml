@@ -8,10 +8,11 @@
   <Sabot.description>レールガン用のサボット弾。</Sabot.description>
 
   <Fallout.label>死の灰</Fallout.label>
-  <Fallout.description>一般に死の灰と呼ばれている放射性降下物とは、核爆発や原子炉の溶融事故が大気に飛ばす放射性物質のことである。</Fallout.description>
+  <Fallout.description>一般的に死の灰と呼ばれている放射性降下物とは、核爆発や原子炉の溶融事故が大気に飛ばす放射性物質のことである。</Fallout.description>
 
+<!--Hidden
   <RimatomicsProbe.label>リムアトミクスの探査機</RimatomicsProbe.label>
   <RimatomicsProbe.description>リムワールド展開用に宇宙を旅する、リムアトミクス貿易探査機。</RimatomicsProbe.description>
-
+-->
 
 </LanguageData>

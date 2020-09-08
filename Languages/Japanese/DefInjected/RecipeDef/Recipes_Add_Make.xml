@@ -25,9 +25,9 @@
   <Make_FissionWarhead.description>人は過ちを繰り返す。</Make_FissionWarhead.description>
   <Make_FissionWarhead.jobString>核弾頭を作っている</Make_FissionWarhead.jobString>
 
-  <Make_ReactorComponents.label>炉心コンポーネントを作る</Make_ReactorComponents.label>
+  <!--<Make_ReactorComponents.label>炉心コンポーネントを作る</Make_ReactorComponents.label>
   <Make_ReactorComponents.description>原子炉を建てるのに必要なコンポーネントを作ります。</Make_ReactorComponents.description>
-  <Make_ReactorComponents.jobString>炉心コンポーネントを作っている</Make_ReactorComponents.jobString>
+  <Make_ReactorComponents.jobString>炉心コンポーネントを作っている</Make_ReactorComponents.jobString>-->
 
   <Make_turbineBlade.label>タービン翼を作る</Make_turbineBlade.label>
   <Make_turbineBlade.description>タービンの中で高圧蒸気に耐えて回り続けるタービン翼を作ります。</Make_turbineBlade.description>
@@ -49,7 +49,7 @@
   <Make_Apparel_MoppMaskWoodland.description>戦闘即応態勢を維持できる放射線防護用マスクを作ります。</Make_Apparel_MoppMaskWoodland.description>
   <Make_Apparel_MoppMaskWoodland.jobString>MOPPマスクを作っている</Make_Apparel_MoppMaskWoodland.jobString>
 
-  <Make_Apparel_MoppMaskSnow.label>MOPPマスク (雪上)を作る</Make_Apparel_MoppMaskSnow.label>
+  <Make_Apparel_MoppMaskSnow.label>MOPPマスク (雪)を作る</Make_Apparel_MoppMaskSnow.label>
   <Make_Apparel_MoppMaskSnow.description>戦闘即応態勢を維持できる放射線防護用マスクを作ります。</Make_Apparel_MoppMaskSnow.description>
   <Make_Apparel_MoppMaskSnow.jobString>MOPPマスクを作っている</Make_Apparel_MoppMaskSnow.jobString>
 
@@ -65,7 +65,7 @@
   <Make_Apparel_MoppSuitWoodland.description>戦闘即応態勢を維持できる放射線防護服を作ります。</Make_Apparel_MoppSuitWoodland.description>
   <Make_Apparel_MoppSuitWoodland.jobString>MOPPスーツを作っている</Make_Apparel_MoppSuitWoodland.jobString>
 
-  <Make_Apparel_MoppSuitSnow.label>MOPPスーツ (雪上)を作る</Make_Apparel_MoppSuitSnow.label>
+  <Make_Apparel_MoppSuitSnow.label>MOPPスーツ (雪)を作る</Make_Apparel_MoppSuitSnow.label>
   <Make_Apparel_MoppSuitSnow.description>戦闘即応態勢を維持できる放射線防護服を作ります。</Make_Apparel_MoppSuitSnow.description>
   <Make_Apparel_MoppSuitSnow.jobString>MOPPスーツを作っている</Make_Apparel_MoppSuitSnow.jobString>
 
@@ -77,21 +77,29 @@
   <Make_RailgunSabotDU.description>最終ロケット兵器並みのダメージを与えられるサボット弾を作ります。</Make_RailgunSabotDU.description>
   <Make_RailgunSabotDU.jobString>サボット弾 (ウラン)を作っている</Make_RailgunSabotDU.jobString>
 
-  <Make_ReactorConductors.label>炉心導体を作る</Make_ReactorConductors.label>
+  <!--<Make_ReactorConductors.label>炉心導体を作る</Make_ReactorConductors.label>
   <Make_ReactorConductors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ReactorConductors.description>
   <Make_ReactorConductors.jobString>炉心導体を作っている</Make_ReactorConductors.jobString>
 
   <Make_ReactorShielding.label>炉心遮蔽板を作る</Make_ReactorShielding.label>
   <Make_ReactorShielding.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ReactorShielding.description>
-  <Make_ReactorShielding.jobString>炉心遮蔽板を作っている</Make_ReactorShielding.jobString>
+  <Make_ReactorShielding.jobString>炉心遮蔽板を作っている</Make_ReactorShielding.jobString>-->
 
   <Make_ControlRodActuator.label>制御棒アクチュエータを作る</Make_ControlRodActuator.label>
   <Make_ControlRodActuator.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_ControlRodActuator.description>
   <Make_ControlRodActuator.jobString>を作っている</Make_ControlRodActuator.jobString>
 
-  <Make_NeutronReflectors.label>中性子反射鏡を作る</Make_NeutronReflectors.label>
+  <!--<Make_NeutronReflectors.label>中性子反射鏡を作る</Make_NeutronReflectors.label>
   <Make_NeutronReflectors.description>リムアトミクス原子炉用のアップグレードパーツを作ります。</Make_NeutronReflectors.description>
-  <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>
+  <Make_NeutronReflectors.jobString>中性子反射鏡を作っている</Make_NeutronReflectors.jobString>-->
+
+  <Make_ATOM.label>脅威検出モジュールを作る</Make_ATOM.label>
+  <Make_ATOM.description>リムアトミクスの目標捕捉システム用のアップグレードパーツを作ります。</Make_ATOM.description>
+  <Make_ATOM.jobString>脅威検出モジュールを作っている</Make_ATOM.jobString>
+
+  <Make_SCAD.label>シールドモジュールを作る</Make_SCAD.label>
+  <Make_SCAD.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_SCAD.description>
+  <Make_SCAD.jobString>シールドモジュールを作っている</Make_SCAD.jobString>
 
   <Make_MEPS.label>電力増幅モジュールを作る</Make_MEPS.label>
   <Make_MEPS.description>リムアトミクスのエネルギー兵器用のアップグレードパーツを作ります。</Make_MEPS.description>

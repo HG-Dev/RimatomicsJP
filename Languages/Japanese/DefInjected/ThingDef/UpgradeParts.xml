@@ -3,20 +3,20 @@
 
   <!-- CORE -->
 
-  <ReactorConductors.label>炉心導体</ReactorConductors.label>
+  <!--<ReactorConductors.label>炉心導体</ReactorConductors.label>
   <ReactorConductors.description>リムアトミクス原子炉用のパーツ。(電力↑)</ReactorConductors.description>
 
   <ReactorShielding.label>炉心遮蔽板</ReactorShielding.label>
-  <ReactorShielding.description>(ろしんしゃへいばん)リムアトミクス原子炉用のパーツ。(放射能↓)</ReactorShielding.description>
+  <ReactorShielding.description>リムアトミクス原子炉用のパーツ。(放射能↓)</ReactorShielding.description>
+
+  <NeutronReflectors.label>中性子反射鏡</NeutronReflectors.label>
+  <NeutronReflectors.description>リムアトミクス原子炉用のパーツ。(電力↑)</NeutronReflectors.description>-->
 
   <ControlRodActuator.label>制御棒 アクチュエータ</ControlRodActuator.label>
   <ControlRodActuator.description>リムアトミクス原子炉用のパーツ。(反応速度↑)</ControlRodActuator.description>
 
-  <NeutronReflectors.label>中性子反射鏡</NeutronReflectors.label>
-  <NeutronReflectors.description>リムアトミクス原子炉用のパーツ。(電力↑)</NeutronReflectors.description>
-
   <MEPS.label>電力増幅 モジュール</MEPS.label>
-  <MEPS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用と出力↑)</MEPS.description>
+  <MEPS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用と火力↑)</MEPS.description>
 
   <ALC.label>液体冷却 モジュール</ALC.label>
   <ALC.description>リムアトミクスのエネルギー兵器用のパーツ。(発射速度↑)</ALC.description>
@@ -24,17 +24,23 @@
   <ERS.label>ｴﾈﾙｷﾞｰ回収 モジュール</ERS.label>
   <ERS.description>リムアトミクスのエネルギー兵器用のパーツ。(電気使用↓)</ERS.description>
 
+  <SCAD.label>シールド モジュール</SCAD.label>
+  <SCAD.description>リムアトミクスのエネルギー兵器用のパーツ。(防御)</SCAD.description>
+
   <DriveActuator.label>高速サーボ</DriveActuator.label>
   <DriveActuator.description>リムアトミクスのエネルギー兵器用のパーツ。(回転速度↑)</DriveActuator.description>
 
   <TargetingChip.label>ﾀｰｹﾞｯﾃｨﾝｸﾞ ﾁｯﾌﾟ</TargetingChip.label>
   <TargetingChip.description>レールガンのパーツ。(命中率↑)</TargetingChip.description>
 
-  <BeamSplitter.label>ビーム スプリッター</BeamSplitter.label>
+  <BeamSplitter.label>ﾋﾞｰﾑ ｽﾌﾟﾘｯﾀｰ</BeamSplitter.label>
   <BeamSplitter.description>オベリスクのパーツ。(シールド突破)</BeamSplitter.description>
 
   <LenseModule.label>レンズ モジュール</LenseModule.label>
   <LenseModule.description>オベリスクのパーツ。(威力↑)</LenseModule.description>
+
+  <ATOM.label>脅威検出 モジュール</ATOM.label>
+  <ATOM.description>目標捕捉システムのパーツ。(襲撃の忠告)</ATOM.description>
 
 
 </LanguageData>

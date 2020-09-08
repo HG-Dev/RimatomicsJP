@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <FlashBlindness.label>フラッシュ失明</FlashBlindness.label>
+  <FlashBlindness.labelNoun>フラッシュ失明</FlashBlindness.labelNoun>
+
   <RectalCoring.label>プローブの跡</RectalCoring.label>
   <RectalCoring.stages.0.label>極度</RectalCoring.stages.0.label>
 
@@ -37,5 +40,14 @@
   <RadiationMechanoid.stages.4.label>重度</RadiationMechanoid.stages.4.label>
   <RadiationMechanoid.stages.5.label>極度</RadiationMechanoid.stages.5.label>
 
+<!-- Adding these appears to break the entire file. Not sure why.
+    <FlashBlindness.description>強い光による一時的な視覚障害</FlashBlindness.description>
+    <RectalCoring.description>むろん直腸にある</RectalCoring.description>
+    <Exsanguination.description>何者かに収穫されたように、血液がない</Exsanguination.description>
+    <FatalRad.description>深刻な被曝</FatalRad.description>
+    <RimatomicsRadiation.description>放射線にさらされた</RimatomicsRadiation.description>
+    <RadiationIncurable.description>放射線にさらされてきた<RadiationIncurable.description>
+    <RadiationMechanoid.description>被曝</RadiationMechanoid.description>
+-->
 
 </LanguageData>

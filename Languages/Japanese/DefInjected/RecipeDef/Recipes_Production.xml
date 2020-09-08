@@ -13,5 +13,8 @@
   <MakeMoxFuelRods.description>劣化ウウランとプルトニウムを混ぜた燃料棒を作ります。</MakeMoxFuelRods.description>
   <MakeMoxFuelRods.jobString>MOX燃料棒を作っている</MakeMoxFuelRods.jobString>
 
+  <DismantleWarhead.label>核弾頭を解体する</DismantleWarhead.label>
+  <DismantleWarhead.description>核弾頭を解体し、資源を回収する</DismantleWarhead.description>
+  <DismantleWarhead.jobString>核弾頭を解体中</DismantleWarhead.jobString>
 
 </LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FuelBurnRate.label>燃料消費の速度</FuelBurnRate.label>
+  <FuelBurnRate.options.0.label>チート</FuelBurnRate.options.0.label>
+  <PulseSizeScaling.label>パルス電力消費</PulseSizeScaling.label>
+  <PulseSizeScaling.options.0.label>チート</PulseSizeScaling.options.0.label>
+
+  <ReactorPipeVisibility.label>パイプ表示</ReactorPipeVisibility.label>
+  <ReactorPipeVisibility.options.0.label>隠す</ReactorPipeVisibility.options.0.label>
+  <ReactorPipeVisibility.options.1.label>床タイルで隠す</ReactorPipeVisibility.options.1.label>
+  <ReactorPipeVisibility.options.2.label>常に表示する</ReactorPipeVisibility.options.2.label>
+  <ReactorPipeVisibility.options.3.label>常に表示する、地面につなげる</ReactorPipeVisibility.options.3.label>
+  
+  <RimatomicsTraderCooldown.label>貿易船クールダウン</RimatomicsTraderCooldown.label>
+  <RimatomicsTraderCooldown.options.0.label>チート</RimatomicsTraderCooldown.options.0.label>
+  <RimatomicsTraderCooldown.options.1.label>2日</RimatomicsTraderCooldown.options.1.label>
+  <RimatomicsTraderCooldown.options.2.label>3日</RimatomicsTraderCooldown.options.2.label>
+  <RimatomicsTraderCooldown.options.3.label>5日</RimatomicsTraderCooldown.options.3.label>
+  <RimatomicsTraderCooldown.options.4.label>10日</RimatomicsTraderCooldown.options.4.label>
+  <RimatomicsTraderCooldown.options.5.label>15日</RimatomicsTraderCooldown.options.5.label>
+  <RimatomicsTraderCooldown.options.6.label>20日</RimatomicsTraderCooldown.options.6.label>
+  <RimatomicsTraderCooldown.options.7.label>25日</RimatomicsTraderCooldown.options.7.label>
+  <RimatomicsTraderCooldown.options.8.label>30日</RimatomicsTraderCooldown.options.8.label>
+
+  <RadiationStrength.label>放射線の強さ</RadiationStrength.label>
+  <RadiationStrength.options.0.label>チート</RadiationStrength.options.0.label>
+  
+</LanguageData>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ReactorComponents.label>炉心コンポーネント</ReactorComponents.label>
-  <ReactorComponents.description>炉心で使える、特別に強化と遮蔽されたコンポーネント。</ReactorComponents.description>
+  <!--<ReactorComponents.label>炉心コンポーネント</ReactorComponents.label>
+  <ReactorComponents.description>炉心で使える、特別に強化と遮蔽されたコンポーネント。</ReactorComponents.description>-->
 
   <turbineBlade.label>タービン翼</turbineBlade.label>
   <turbineBlade.description>タービンを作るのに使う部品。</turbineBlade.description>
