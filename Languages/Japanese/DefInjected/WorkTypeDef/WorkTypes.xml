@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
-  <NuclearWork.labelShort>核</NuclearWork.labelShort>
+  <NuclearWork.labelShort>原子力</NuclearWork.labelShort>
   <NuclearWork.pawnLabel>核物質における作業</NuclearWork.pawnLabel>
-  <NuclearWork.gerundLabel>を扱う</NuclearWork.gerundLabel>
+  <NuclearWork.gerundLabel>核物質を扱う</NuclearWork.gerundLabel>
   <NuclearWork.description>核物質の運搬や搭載</NuclearWork.description>
   <NuclearWork.verb>核</NuclearWork.verb>
 
