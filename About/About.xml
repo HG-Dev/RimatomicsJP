@@ -4,8 +4,25 @@
 	<name>Rimatomics: 日本語化</name>
 	<author>ハグ</author>
 	<url>https://ludeon.com/forums/index.php?topic=25124.0</url>
+	<packageId>HG.Addons.Rimatomics.jaJP</packageId>
 	<supportedVersions>
-    	<li>1.0</li>
-  	</supportedVersions>
-	<description>原子力MODのリムアトミクスを日本語化するパッチ型MOD</description>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<description><![CDATA[
+<color=#5AA9D6><size=17>説明</size> (Description)：</color>
+
+原子力MODのリムアトミクス (Rimatomics) を日本語化するパッチ型MOD
+]]></description>
+	<modDependencies>
+		<li>
+			<packageId>Dubwise.Rimatomics</packageId>
+			<displayName>Rimatomics</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1127530465</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Dubwise.Rimatomics</li>
+	</loadAfter>
 </ModMetaData>
