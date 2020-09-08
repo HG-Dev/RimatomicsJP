@@ -23,7 +23,7 @@
   <Designateinstallall>全スロットに燃料を搭載</Designateinstallall>
   <Clearalldesignations>指定をすべて消す</Clearalldesignations>
   <MissingPESUpgrades>Preemtive Strikeが有効の場合、接近中の郵送ポッドを探知するためにはまずPESの「飛翔体探知」研究を終了させる必要がる。郵送ポッド妨害システムは正常に働く</MissingPESUpgrades>
-  <ReactorAlert>原子炉警告!</ReactorAlert>
+  <ReactorAlert>原子炉:警告!</ReactorAlert>
   <ShortRangeStratLaunch>戦術的目標</ShortRangeStratLaunch>
   <ShortRangeStratLaunchDesc>戦略核兵器を当マップの目標に使う</ShortRangeStratLaunchDesc>
   <LongRangeStratLaunch>戦略的目標</LongRangeStratLaunch>
@@ -81,7 +81,7 @@
   <RadiationTip>放射線\n\n炉心にダメージがあれば放射線が漏れます。ダメージが大きくなればなるほど放射線が増えます</RadiationTip>
   <CoreNotBuilt>作られていない</CoreNotBuilt>
   <Dragtoincreasefluxlevel>ひきずって目標中性子束を変える</Dragtoincreasefluxlevel>
-  <MOX>MOX</MOX>
+  <!--<MOX>MOX</MOX>-->
   <Used>使用済み</Used>
   <AbortTest>中止</AbortTest>
   <reactorSCRAM>スクラム</reactorSCRAM>
@@ -91,7 +91,7 @@
   <ShutdownCold>冷温停止</ShutdownCold>
   <StartingUp>起動中</StartingUp>
   <ShuttingDown>停止中</ShuttingDown>
-  <Active>稼働中</Active>
+  <RimatomActive>稼働中</RimatomActive>
   <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}</ReactorBreakdown>
   <SlotBreakdown>TTF: {0}\n最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
   <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
@@ -137,8 +137,6 @@
   <PulseSize>電気パルス: {0} Wd / ダメージ: {1}</PulseSize>
   <critCommandFireMission>個別射撃任務</critCommandFireMission>
   <critCommandFireMissionDesc>遠距離砲撃を開始する</critCommandFireMissionDesc>
-  <critCommandLaunchICBM>ミサイル発射</critCommandLaunchICBM>
-  <critCommandLaunchICBMDesc>ワールドマップで目標を設定し、ミサイルを発射させる</critCommandLaunchICBMDesc>
   <criticbmAttack>敵の派閥である{0}は近くのコロニーからミサイル攻撃の準備を始めました。発射まで後{1}日間です。</criticbmAttack>
   <critMagazine>マガジン: {0}</critMagazine>
   <critNoSabotRounds>サボット弾がありません</critNoSabotRounds>
@@ -204,13 +202,14 @@
   <critControlRod>制御棒</critControlRod>
   <critTargetRod>制御棒設定</critTargetRod>
   <critFuelRemaining2>残っている燃料: {0}</critFuelRemaining2>
-  <Empty>空</Empty>
-  <Activated>作動中</Activated>
-  <Cracked>破損</Cracked>
-  <Spent>使用済み</Spent>
-  <New>新しい</New>
-  <Remove>出す</Remove>
-  <Store>保管</Store>
+  <RimatomEmpty>空</RimatomEmpty>
+  <RimatomActivated>作動中</RimatomActivated>
+  <RimatomCracked>破損</RimatomCracked>
+  <RimatomSpent>使用済み</RimatomSpent>
+  <RimatomNew>新しい</RimatomNew>
+  <RimatomRemove>出す</RimatomRemove>
+  <RimatomStore>保管</RimatomStore>
+  <RimatomLife>残量％</RimatomLife>
   <UnsafeFacility>不安全な施設</UnsafeFacility>
   <FacilityNoPower>電力なし</FacilityNoPower>
   <NoActiveBenchWithProject>必須プロジェクトを開いた研究端末がありません</NoActiveBenchWithProject>
@@ -247,10 +246,10 @@
   <!--RESEARCH-->
   <NonBlueprintUpgrade></NonBlueprintUpgrade>
   <BlueprintUpgradeDesc>設計図のアップグレードです。新しく建築した装置は最初からこのモジュールが搭載されているが、既存の装置はクラフトしたモジュールでアップグレードしてください。</BlueprintUpgradeDesc>
-  <Free>無料</Free>
-  <Purchase>購入</Purchase>
-  <Price>価格</Price>
-  <Unlocks>解除</Unlocks>
+  <RimatomFree>無料</RimatomFree>
+  <RimatomPurchase>購入</RimatomPurchase>
+  <RimatomPrice>価格</RimatomPrice>
+  <RimatomUnlocks>解除</RimatomUnlocks>
   <openResearchPanel>研究一覧を開く</openResearchPanel>
   <ResearchProg>{0}/{1}</ResearchProg>
   <ResearchPriceNeed>貿易ビーコンの近くに{0}シルバーを用意する必要があります</ResearchPriceNeed>
@@ -304,8 +303,10 @@
   <NoBenchAvailable>リムアトミクス研究端末がありません</NoBenchAvailable>
   <ResearchPurchased>研究データを購入しました!</ResearchPurchased>
 
-  <!--DEPRECIATED-->
-   <RailgunBarrage>射撃任務</RailgunBarrage>
+  <!--DEPRECIATED
+  <critCommandLaunchICBM>ミサイル発射</critCommandLaunchICBM>
+  <critCommandLaunchICBMDesc>ワールドマップで目標を設定し、ミサイルを発射させる</critCommandLaunchICBMDesc>
+  <RailgunBarrage>射撃任務</RailgunBarrage>
   <RailgunBarrageDesc>すべてのレールガンを集中砲撃させる</RailgunBarrageDesc>
   <critrangeMinus>射距離－</critrangeMinus>
   <critrangePlus>射距離＋</critrangePlus>
@@ -316,10 +317,10 @@
   <critCommandLowerDmgDesc>兵器の出力を下げ、電気パルスを縮小する</critCommandLowerDmgDesc>
   <critCommandRaiseDmgDesc>兵器の出力を上げ、電気パルスを拡大する</critCommandRaiseDmgDesc>
   <critMissingPPC>PPC電池が必要</critMissingPPC>
-  <critNRGWEPPOOWA>パワー: {0} / 射距離: {1}－{2}</critNRGWEPPOOWA><!-- Improve this -->
+  <critNRGWEPPOOWA>パワー: {0} / 射距離: {1}－{2}</critNRGWEPPOOWA>
   <LastPulseSize>前の電気パルス: {0} Wd</LastPulseSize>
   <mp15>15m</mp15>
   <mm15>15m</mm15>
-  <critTargetFlux>目標中性子束</critTargetFlux>
+  <critTargetFlux>目標中性子束</critTargetFlux>-->
 
 </LanguageData>
