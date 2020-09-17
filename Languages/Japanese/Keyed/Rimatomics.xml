@@ -119,7 +119,7 @@
   <ATOMattackGround>地上</ATOMattackGround>
   <ATOMattackPods>輸送ポッド</ATOMattackPods>
   <ATOMdetection>脅威を検知</ATOMdetection>
-  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を\n探知しました。およそ{2}[後]に、\n{0}は{1}で攻撃する見込みです。</ATOMdetectionDesc>
+  <ATOMdetectionDesc>目標捕捉システムは差し迫る脅威を 探知しました。 {2}のうちに、\n{0} は {1} で攻撃する 見込みです。</ATOMdetectionDesc>
   <ScadLivesMatter>シールドHP: {0}</ScadLivesMatter>
   <Detonating>起爆中…</Detonating>
   <KillCounter>キル数: {0}</KillCounter>
@@ -162,7 +162,7 @@
   <!--REACTOR BUILDINGS-->
   <ReactorUptime>稼働時間: {0}</ReactorUptime>
   <PuCreated>Pu: {0}</PuCreated>
-  <fuelCracked>⚠破損⚠</fuelCracked>
+  <fuelCracked>! 破損 !</fuelCracked>
   <Managefuel>管理</Managefuel>
   <RoofedTower>冷却塔上の屋根を外してください</RoofedTower>
   <TurbineRPM>毎分{0}回転 ({1})</TurbineRPM>
