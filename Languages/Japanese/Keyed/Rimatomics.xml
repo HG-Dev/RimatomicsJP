@@ -44,6 +44,8 @@
   <PoolUnloading>取り出し</PoolUnloading>
   <NextResearchStep>次の段階:</NextResearchStep>
   <!--ALERTS-->
+  <Rimatomics.LowCoolingCapacityDesc>冷却装置の冷却効率が低くなっています。\n\n冷却塔なら上に屋根はないか、水冷ポンプなら近くの水域が十分に広いか確認してください。Dub's Bad Hygieneを使っている場合は冷却塔に水レベルを確認してください。</Rimatomics.LowCoolingCapacityDesc>
+	<Rimatomics.LowCoolingCapacity>炉心の冷却効率が低下中</Rimatomics.LowCoolingCapacity>
   <AlertNeedsTurbine>炉心はタービンが必要</AlertNeedsTurbine>
   <AlertNeedsTurbineDesc>炉心はタービンに繋げる必要があります。炉心を個別に起動すると過熱や溶融が発生する場合があります。</AlertNeedsTurbineDesc>
   <AlertNeedsCooling>タービンは冷却が必要</AlertNeedsCooling>
@@ -93,7 +95,7 @@
   <ShuttingDown>停止中</ShuttingDown>
   <RimatomActive>稼働中</RimatomActive>
   <ReactorBreakdown>ID: {0}\n状態: {1}\n最大出力: {2}W\n燃料棒数: {3}\n転換比: {4}</ReactorBreakdown>
-  <SlotBreakdown>TTF: {0}\n最大出力: {1}W\n現在出力: {2}W\n使用量: {3}\n比率: {4}\n現在処理可能: {5}</SlotBreakdown><!-- improve this -->
+  <SlotBreakdown>TTF: {0}\n最大出力: {1}W\n現在出力: {2}W\n燃料寿命: {3}\nPu収量: {4}</SlotBreakdown>
   <cycleScreensDesc>ネットワーク上の原子炉をすべて監視する</cycleScreensDesc>
   <cycleScreens>全体監視</cycleScreens>
   <AutoScram>自動スクラム</AutoScram>
@@ -170,6 +172,8 @@
   <critsetid>IDを設定</critsetid>
   <critCoolingCapShare>冷却能力の共有: {1}台のタービンで{0}</critCoolingCapShare><!-- check this -->
 
+	<BreederHotLoading>活性交換</BreederHotLoading>
+	<BreederHotLoadingDesc>稼働中の炉心の燃料の変更を許可する</BreederHotLoadingDesc>
   <ControlRod>制御棒</ControlRod>
   <crackedRemoveNow>\n️️️⚠燃料破損⚠ ただちに取り除くように</crackedRemoveNow><!-- check this -->
   <critCoreTemp>炉心温度: {0}C</critCoreTemp>
@@ -266,7 +270,7 @@
   <CurProj>プロジェクト: {0}</CurProj>
   <CurStep>段階: {0}</CurStep>
   <SkillLevel>{0} は {2} {1} が必要</SkillLevel>
-
+  <Rimatomics.MissingFacility>設備が足りない</Rimatomics.MissingFacility>
 
   <DesignatorRemoveRimatomicsPipes>パイプを除去</DesignatorRemoveRimatomicsPipes>
   <DesignatorRemoveRimatomicsPipesDesc>除去するパイプを指摘する</DesignatorRemoveRimatomicsPipesDesc>
